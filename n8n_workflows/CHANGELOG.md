@@ -5,6 +5,7 @@
 ### Added
 
 - `docs/v2/` — operator-facing truth docs: start here, import/credentials, env matrix, Trend Pulse pattern, full workflow index, link map.
+- `docs/v3/` — Annex positioning note (how creative playbooks relate without duplicating JSON).
 - Root `CHANGELOG.md` (this file) for the library outside the older per-folder notes.
 
 ### Changed
