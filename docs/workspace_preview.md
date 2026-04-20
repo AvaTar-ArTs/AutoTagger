@@ -38,9 +38,8 @@ This is a quick, high-signal preview of the main workspace areas:
 
 ### `docs`
 
-- Main contents: `learned-context.md`
-- File types: `.md(1)`
-- Notes: thin docs layer, good candidate for expanded indexes.
+- Main contents: `learned-context.md`, `workspace_preview.md`, `superpowers/`, **`v6/`** (SaaS track — overview, strategy, roadmap, landing HTML; versioned).
+- Notes: V6 execution sandbox may still exist as gitignored `v6-workspace/` at repo root; **canonical V6 docs** live under `docs/v6/`.
 
 ### `output`
 

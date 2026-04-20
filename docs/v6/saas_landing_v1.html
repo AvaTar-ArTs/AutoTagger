@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AutoTag SaaS - Workspace Intelligence for Teams</title>
+  <style>
+    :root { --bg:#0b0f1c; --card:#131a2e; --line:#2a3558; --text:#eef2ff; --muted:#aab6df; --accent:#6ea8fe; --hot:#ff6b8a; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background:var(--bg); color:var(--text); line-height:1.6; }
+    .wrap { max-width:1000px; margin:0 auto; padding:26px 16px 48px; }
+    .hero { padding:36px 10px 22px; }
+    h1 { margin:0 0 12px; font-size: clamp(2rem, 6vw, 3.5rem); line-height:1.05; }
+    .lead { max-width:44ch; color:var(--muted); font-size:1.08rem; }
+    .cta a { display:inline-block; margin-right:10px; margin-top:12px; padding:10px 14px; border-radius:999px; text-decoration:none; border:1px solid var(--line); color:var(--text); }
+    .cta a.primary { background:var(--hot); border-color:var(--hot); color:#fff; }
+    section { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px; margin-top:14px; }
+    h2 { margin:0 0 10px; color:var(--accent); font-size:1rem; text-transform:uppercase; letter-spacing:.06em; }
+    .grid { display:grid; gap:10px; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); }
+    .mini { border:1px solid var(--line); border-radius:10px; padding:10px; background:#0f1527; }
+    .price { font-size:1.4rem; font-weight:700; margin:6px 0; }
+    ul { margin:0; padding-left:18px; }
+    .muted { color:var(--muted); }
+    a { color:var(--accent); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <h1>AutoTag SaaS</h1>
+      <p class="lead">Turn chaotic tool/workspace directories into prioritized, recurring intelligence reports for teams and clients.</p>
+      <div class="cta">
+        <a class="primary" href="#">Join waitlist</a>
+        <a href="#">Book demo</a>
+      </div>
+      <p class="muted">Built from V5 local engine, evolved for multi-workspace team operations.</p>
+    </header>
+
+    <section>
+      <h2>Why teams buy</h2>
+      <div class="grid">
+        <div class="mini"><strong>Visibility</strong><p class="muted">Always know what tools exist and where.</p></div>
+        <div class="mini"><strong>Prioritization</strong><p class="muted">Score business value and integration potential.</p></div>
+        <div class="mini"><strong>Continuity</strong><p class="muted">Track trends and deltas every week.</p></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Plans</h2>
+      <div class="grid">
+        <div class="mini"><strong>Starter</strong><div class="price">$19-$39/mo</div><ul><li>1 workspace</li><li>manual runs</li><li>CSV/JSON export</li></ul></div>
+        <div class="mini"><strong>Pro</strong><div class="price">$79-$149/mo</div><ul><li>multi-workspace</li><li>scheduled runs</li><li>trend dashboard</li></ul></div>
+        <div class="mini"><strong>Agency</strong><div class="price">$299+/mo</div><ul><li>multi-client</li><li>white-label reports</li><li>team seats</li></ul></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Execution path</h2>
+      <ul>
+        <li>MVP: API job trigger + run status + artifact store</li>
+        <li>Dashboard: latest runs + top insights + downloads</li>
+        <li>Billing: plan gating and subscription checkout</li>
+        <li>Retention: recurring schedules and delta summaries</li>
+      </ul>
+    </section>
+  </div>
+</body>
+</html>
