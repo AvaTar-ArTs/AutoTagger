@@ -14,4 +14,4 @@
 
 ### Notes
 
-- JSON workflow payloads remain under `free/`, `premium/`, and `workflows/*` (local or symlinked to `~/n8n_workflows` depending on your setup). **V2 docs describe them; they are not duplicated here in git** when those directories are ignored or symlinked.
+- JSON workflow payloads live under `free/`, `premium/`, `workflows/*`, and `imports/` as **real directories in git** in the AutoTagger repo. Optional second checkout at `~/n8n_workflows` stays aligned via git or rsync, not symlinks.
