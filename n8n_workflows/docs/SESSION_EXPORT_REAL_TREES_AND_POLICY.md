@@ -44,9 +44,8 @@ These commits capture the bulk of the migration and follow-up doc alignment.
 | `4e99e65` | Track `n8n_workflows` JSON trees as real copies (no symlinks): remove ignore rules for `free/` / `premium/` / `workflows/` / `imports/`, sync content from canonical disk, update docs and `.cursorignore` commentary. |
 | `177f1c4` | `CHANGELOG.md` note under V2 baseline corrected to describe **real directories in git**, not symlinks. |
 | `ef84108` | Session export `docs/SESSION_EXPORT_REAL_TREES_AND_POLICY.md`, README / CHANGELOG / `00-start-here` links. |
-| `ab0e33c` | Session export: add `ef84108` to the commit table in this document. |
 
-Earlier related context on the same branch (policy introduction and Cursor layout):
+### Earlier related context on the same branch (policy introduction and Cursor layout)
 
 | Commit | Summary |
 |--------|---------|
@@ -173,7 +172,7 @@ This session export is **about repository layout and policy**, not replacing tho
 
 ## 10. “Save everything” checklist
 
-1. **AutoTagger:** `git status` clean; `git push origin main` done after commits `4e99e65` and `177f1c4` (and any later doc commits including this export).
+1. **AutoTagger:** `git status` clean; `git push origin main` done through at least `ef84108` (session export) and subsequent doc-only commits on `main` if present.
 2. **Standalone:** `git push origin main` after `d27abd7` for policy alignment.
 3. After any local rsync, **commit** in the repo that should own the change so history stays reproducible.
 
