@@ -4,18 +4,18 @@
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 if [ $# -eq 0 ]; then
-    echo "Usage: $0 <target_directory> [output_name] [--no-open]"
-    echo "Example: $0 /Users/steven/pythons my_python_analysis"
-    echo "Example: $0 /Users/steven/pythons my_python_analysis --no-open"
-    exit 1
-fi
+    echo "ℹ️  No target directory provided. Using base workspace as source: $REPO_ROOT"
+    TARGET_DIR="$REPO_ROOT"
+    OUTPUT_NAME="autotag_run_$(date +%Y%m%d_%H%M%S)"
+    NO_OPEN_FLAG=""
+else
+    TARGET_DIR="$1"
+    OUTPUT_NAME="${2:-autotag_run_$(date +%Y%m%d_%H%M%S)}"
+    NO_OPEN_FLAG=""
 
-TARGET_DIR="$1"
-OUTPUT_NAME="${2:-autotag_run_$(date +%Y%m%d_%H%M%S)}"
-NO_OPEN_FLAG=""
-
-if [ "$3" == "--no-open" ]; then
-    NO_OPEN_FLAG="--no-open"
+    if [ "$3" == "--no-open" ]; then
+        NO_OPEN_FLAG="--no-open"
+    fi
 fi
 
 echo "Running AutoTag Compat on: $TARGET_DIR"

@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AutoTag V5 — Operator manual (print)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root { --ink: #1a1a1a; --paper: #faf8f4; --rule: #c9c3b8; --accent: #8b4513; --muted: #5c574d; }
+    * { box-sizing: border-box; }
+    @media print {
+      body { background: white !important; }
+      a { color: var(--ink) !important; text-decoration: underline; }
+      header { position: static; border-bottom: 1px solid #000; }
+    }
+    body { margin: 0; font-family: "Newsreader", Georgia, serif; background: var(--paper); color: var(--ink); line-height: 1.6; font-size: 1.05rem; }
+    a { color: var(--accent); }
+    a:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
+    header { padding: 2rem 1.5rem 1rem; border-bottom: 1px solid var(--rule); }
+    header h1 { margin: 0; font-size: 1.85rem; font-weight: 600; letter-spacing: -0.02em; }
+    header .sub { margin: 0.5rem 0 0; font-size: 0.95rem; color: var(--muted); font-style: italic; }
+    main { max-width: 38rem; margin: 0 auto; padding: 1.5rem 1.5rem 3rem; }
+    section { margin-bottom: 2rem; page-break-inside: avoid; }
+    h2 { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.15em; color: var(--muted); margin: 2rem 0 0.5rem; font-family: "JetBrains Mono", monospace; }
+    section:first-of-type h2 { margin-top: 0; }
+    h3 { font-size: 1.1rem; margin: 1.25rem 0 0.35rem; font-weight: 600; }
+    pre {
+      font-family: "JetBrains Mono", monospace; font-size: 0.78rem; line-height: 1.5;
+      background: #fff; border: 1px solid var(--rule); padding: 0.9rem 1rem; overflow: auto; border-radius: 2px;
+    }
+    code { font-family: "JetBrains Mono", monospace; font-size: 0.85em; }
+    ul { padding-left: 1.2rem; }
+    li { margin-bottom: 0.35rem; }
+    .note { font-size: 0.92rem; color: var(--muted); border-left: 3px solid var(--accent); padding-left: 0.85rem; margin-top: 0.5rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AutoTag V5 — Operator reference</h1>
+    <p class="sub">Variant A · v2 · Print / PDF oriented · <a href="index.html">Index</a></p>
+  </header>
+  <main>
+    <section>
+      <h2>Introduction</h2>
+      <p>This variant is tuned for reading on paper or “Print to PDF”: high contrast body text, serif narrative, monospace code.</p>
+    </section>
+
+    <section>
+      <h2>Setup</h2>
+      <pre><code>cd /path/to/AutoTagger/v5-workspace
+./setup_autotag.sh</code></pre>
+    </section>
+
+    <section>
+      <h2>Run commands</h2>
+      <h3>Explicit target</h3>
+      <pre><code>./autotag.sh "/path/to/target" my_analysis --no-open</code></pre>
+      <h3>Default source (workspace root)</h3>
+      <pre><code>./autotag.sh</code></pre>
+      <p class="note">Verification: <code>./verify_installation.sh</code> · Smoke: <code>./run_compat_smoke_test.sh</code></p>
+    </section>
+
+    <section>
+      <h2>Automation snippets</h2>
+      <pre><code>#!/bin/bash
+set -e
+cd /path/to/AutoTagger/v5-workspace
+for dir in "/path/a" "/path/b"; do
+  name="scan_$(basename "$dir")_$(date +%Y%m%d)"
+  ./autotag.sh "$dir" "$name" --no-open
+done</code></pre>
+    </section>
+
+    <section>
+      <h2>Python — top rows from results CSV</h2>
+      <pre><code>import pandas as pd
+df = pd.read_csv("output/my_analysis/my_analysis_results.csv")
+print(df.nlargest(15, "predicted_business_value")[
+    ["name", "intelligent_category", "predicted_business_value"]])</code></pre>
+    </section>
+
+    <section>
+      <h2>Revenue reference (same facts, operator tone)</h2>
+      <ul>
+        <li><strong>Gumroad</strong> — digital bundle + tiered PDF + email capture.</li>
+        <li><strong>Codester</strong> — full zip, version number, support window stated.</li>
+        <li><strong>Services</strong> — fixed-price “inventory + report” using AutoTag as engine.</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>

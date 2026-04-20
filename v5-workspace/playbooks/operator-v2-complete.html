@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AutoTag V5 - Operator Complete v2</title>
+  <style>
+    :root { --bg:#0b0f14; --card:#111821; --line:#243246; --text:#e6edf3; --muted:#97a6b5; --accent:#4dd0a8; --warn:#ffcc66; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background:var(--bg); color:var(--text); line-height:1.55; }
+    .wrap { max-width: 980px; margin: 0 auto; padding: 24px 16px 48px; }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px; margin-bottom:14px; }
+    h1,h2,h3 { margin:0 0 10px; }
+    h1 { font-size:1.6rem; }
+    h2 { color:var(--accent); font-size:1rem; text-transform:uppercase; letter-spacing:.06em; }
+    p,li { color:var(--text); }
+    .muted { color:var(--muted); }
+    pre { margin:8px 0 0; padding:10px; background:#0a1118; border:1px solid var(--line); border-radius:8px; overflow:auto; font-size:.84rem; }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .grid { display:grid; gap:10px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+    a { color: var(--accent); }
+    .warn { color: var(--warn); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <h1>AutoTag V5 - Operator Complete (v2)</h1>
+      <p class="muted">Full playbook content in operator format. Original files remain unchanged. <a href="index.html">Back to index</a>.</p>
+    </div>
+
+    <section class="card">
+      <h2>1) Quick Start</h2>
+      <div class="grid">
+        <div><h3>Setup</h3><pre><code>cd /path/to/AutoTagger/v5-workspace
+./setup_autotag.sh</code></pre></div>
+        <div><h3>Run chosen source</h3><pre><code>./autotag.sh "/path/to/target" my_analysis --no-open</code></pre></div>
+        <div><h3>Run base source</h3><pre><code>./autotag.sh
+# defaults to v5-workspace as source</code></pre></div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>2) Code Examples</h2>
+      <h3>Batch run multiple folders</h3>
+      <pre><code>#!/bin/bash
+set -e
+cd /path/to/AutoTagger/v5-workspace
+./autotag.sh "/Users/you/Automations" automations_scan --no-open
+./autotag.sh "/Users/you/Docs" docs_scan --no-open
+./autotag.sh "/Users/you/Clients/ClientA" client_a_scan --no-open</code></pre>
+      <h3>Python ranking from CSV</h3>
+      <pre><code>import pandas as pd
+df = pd.read_csv("output/automations_scan/automations_scan_results.csv")
+top = df.sort_values("predicted_business_value", ascending=False).head(20)
+print(top[["name","intelligent_category","predicted_business_value"]])</code></pre>
+      <h3>Weekly report</h3>
+      <pre><code>RUN_NAME="weekly_$(date +%Y%m%d)"
+./autotag.sh "/Users/you/BusinessAssets" "$RUN_NAME" --no-open
+ls -la "output/$RUN_NAME"</code></pre>
+    </section>
+
+    <section class="card">
+      <h2>3) Offers to Sell</h2>
+      <ul>
+        <li><strong>Starter Kit:</strong> scripts + templates + examples, <strong>$19-$49</strong></li>
+        <li><strong>Pro Bundle:</strong> advanced presets + docs + support window, <strong>$79-$199</strong></li>
+        <li><strong>Done-With-You:</strong> live setup + taxonomy + first run, <strong>$250-$1,000</strong></li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>4) Channels</h2>
+      <ul>
+        <li><strong>Gumroad:</strong> fastest launch loop, tiered pricing, lead magnet funnel</li>
+        <li><strong>Codester:</strong> dev-focused listing with docs/changelog/video proof</li>
+        <li><strong>Other:</strong> Lemon Squeezy, GitHub Sponsors, Upwork/Fiverr service packaging</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>5) Profit Model</h2>
+      <pre><code>Monthly Revenue = Digital Product Sales + Services + Upsells
+60 * $39  = $2,340
+15 * $129 = $1,935
+4  * $400 = $1,600
+Total     = $5,875/month (before fees/tax)</code></pre>
+    </section>
+
+    <section class="card">
+      <h2>6) 30-Day Launch Plan</h2>
+      <ol>
+        <li>Week 1: package, docs, screenshots, sample outputs</li>
+        <li>Week 2: publish Gumroad listing + free mini lead magnet</li>
+        <li>Week 3: publish Codester listing + walkthrough video</li>
+        <li>Week 4: promote (X, LinkedIn, Reddit) + collect testimonials</li>
+      </ol>
+    </section>
+
+    <section class="card">
+      <h2>7) Weekly KPIs</h2>
+      <ul>
+        <li>Views -> conversion -> average order value</li>
+        <li>Support tickets per customer</li>
+        <li>Refund rate by tier</li>
+        <li>Time-to-first-successful-scan</li>
+      </ul>
+      <p class="warn">If conversion is low, improve proof assets first: real outputs + short demo.</p>
+    </section>
+  </div>
+</body>
+</html>

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AutoTag V5 - Hybrid Complete v4</title>
+  <style>
+    :root { --bg:#f5f0e8; --paper:#fffdf9; --ink:#2a241d; --muted:#665b4f; --line:#e1d4c5; --accent:#ba5a3f; --accent2:#2f5b5f; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background:var(--bg); color:var(--ink); line-height:1.6; }
+    .hero { padding:48px 18px 28px; background:var(--paper); border-bottom:3px solid var(--accent); }
+    .inner { max-width:920px; margin:0 auto; }
+    h1 { margin:0 0 12px; font-size:clamp(1.8rem, 5vw, 3rem); line-height:1.15; }
+    .lead { max-width:42ch; color:var(--muted); }
+    .cta a { display:inline-block; margin:8px 10px 0 0; padding:10px 14px; border-radius:6px; border:1px solid var(--line); text-decoration:none; color:var(--ink); background:#fff; }
+    .cta a.primary { background:var(--accent); border-color:var(--accent); color:#fff; }
+    main { max-width:920px; margin:0 auto; padding:20px 18px 44px; }
+    section { background:var(--paper); border:1px solid var(--line); border-radius:10px; padding:14px; margin-bottom:12px; }
+    h2 { margin:0 0 10px; color:var(--accent2); font-size:1.05rem; }
+    h3 { margin:8px 0 6px; font-size:.98rem; }
+    .grid { display:grid; gap:10px; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); }
+    .mini { border:1px solid var(--line); border-radius:8px; padding:10px; background:#fff; }
+    pre { margin:8px 0 0; padding:10px; background:#2a241d; color:#f7f0e8; border-radius:8px; overflow:auto; font-size:.84rem; }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    a { color:var(--accent2); }
+    .muted { color:var(--muted); }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="inner">
+      <h1>Pitch above, playbook below.</h1>
+      <p class="lead">Hybrid complete format: enough sales framing to convert, plus all operational details to execute immediately.</p>
+      <div class="cta">
+        <a class="primary" href="https://gumroad.com">Buy / Download</a>
+        <a href="index.html">All Variants</a>
+        <a href="../autotag_revenue_playbook.html">Original Combined Page</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section>
+      <h2>Quick Start + Commands</h2>
+      <pre><code>cd /path/to/AutoTagger/v5-workspace
+./setup_autotag.sh
+./autotag.sh "/path/to/target" my_analysis --no-open
+./autotag.sh   # default source = workspace root</code></pre>
+    </section>
+
+    <section>
+      <h2>Code Examples</h2>
+      <h3>Batch multiple targets</h3>
+      <pre><code>#!/bin/bash
+set -e
+./autotag.sh "/Users/you/Automations" automations_scan --no-open
+./autotag.sh "/Users/you/Docs" docs_scan --no-open
+./autotag.sh "/Users/you/Clients/ClientA" client_a_scan --no-open</code></pre>
+      <h3>Python insight extraction</h3>
+      <pre><code>import pandas as pd
+df = pd.read_csv("output/automations_scan/automations_scan_results.csv")
+print(df.sort_values("predicted_business_value", ascending=False).head(20))</code></pre>
+    </section>
+
+    <section>
+      <h2>Offer Catalog</h2>
+      <div class="grid">
+        <div class="mini"><strong>Starter Kit</strong><p class="muted">$19-$49 · docs + scripts + examples</p></div>
+        <div class="mini"><strong>Pro Bundle</strong><p class="muted">$79-$199 · presets + strategy + support</p></div>
+        <div class="mini"><strong>Done-With-You</strong><p class="muted">$250-$1,000 · setup + taxonomy + handoff</p></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Channel Strategy</h2>
+      <ul>
+        <li><strong>Gumroad:</strong> fastest path; use lead magnets and tiered offers.</li>
+        <li><strong>Codester:</strong> emphasize engineering quality and documentation.</li>
+        <li><strong>Service Upsell:</strong> implementation, audits, and custom deliverables.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Profit Model + 30-Day Plan + KPIs</h2>
+      <pre><code>Revenue = product sales + services + upsells
+Example: 60*$39 + 15*$129 + 4*$400 = $5,875/mo</code></pre>
+      <ol>
+        <li>Week 1: package and proof</li>
+        <li>Week 2: Gumroad listing + free mini tool</li>
+        <li>Week 3: Codester listing + demo video</li>
+        <li>Week 4: outreach + testimonial capture</li>
+      </ol>
+      <ul>
+        <li>Traffic -> conversion -> AOV</li>
+        <li>Refund rate by tier</li>
+        <li>Support load per customer</li>
+        <li>Time-to-first-value for new buyers</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>

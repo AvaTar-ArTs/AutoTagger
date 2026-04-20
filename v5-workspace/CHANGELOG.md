@@ -6,6 +6,7 @@ All notable changes to `v5-workspace` are documented in this file.
 
 ### Added
 
+- `playbooks/` — separate HTML variants: operator (×2), sales landing (×2), hybrid (×2), plus `playbooks/index.html` as a table of contents.
 - Created `v5-workspace` as the new unified workspace root.
 - Added `V5_OVERVIEW.md` with operating guidance and consolidation notes.
 - Added `_root-links/` structure with local snapshots for:
@@ -21,6 +22,9 @@ All notable changes to `v5-workspace` are documented in this file.
 
 - Consolidation mode changed from symlink-based references to fully local copied directories to make `v5-workspace` independent.
 - Updated `V5_OVERVIEW.md` to explicitly reflect standalone/self-contained status.
+- Updated run scripts (`autotag.sh`, `autotag_compat.sh`, `setup_autotag.sh`, `verify_installation.sh`) to avoid hardcoded absolute paths and use workspace-relative execution.
+- Updated `config/autotag_config.json` paths to be portable and repo-local.
+- Expanded playbook assets with additional variants and a browsable `playbooks/index.html`.
 
 ### Notes
 

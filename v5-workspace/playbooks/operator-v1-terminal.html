@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AutoTag V5 — Operator manual (terminal)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #070a0d;
+      --surface: #0d1218;
+      --border: #1f2a36;
+      --text: #dce8f0;
+      --muted: #7a8fa3;
+      --accent: #3ddc84;
+      --warn: #ffb454;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: "IBM Plex Sans", system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.55; }
+    a { color: var(--accent); }
+    a:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
+    header {
+      border-bottom: 1px solid var(--border);
+      padding: 1.25rem 1.5rem;
+      position: sticky; top: 0; background: rgba(7,10,13,0.92); backdrop-filter: blur(8px); z-index: 10;
+    }
+    header h1 { margin: 0; font-size: 1.05rem; font-weight: 600; letter-spacing: 0.02em; }
+    header p { margin: 0.35rem 0 0; font-size: 0.8rem; color: var(--muted); }
+    nav { max-width: 900px; margin: 0 auto; padding: 0.75rem 1.5rem; font-size: 0.78rem; font-family: "IBM Plex Mono", monospace; }
+    nav a { margin-right: 1rem; color: var(--muted); text-decoration: none; }
+    nav a:hover { color: var(--accent); }
+    main { max-width: 900px; margin: 0 auto; padding: 1.5rem 1.5rem 3rem; }
+    section { margin-bottom: 2.25rem; scroll-margin-top: 4.5rem; }
+    h2 { font-family: "IBM Plex Mono", monospace; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--accent); margin: 0 0 0.75rem; }
+    h3 { font-size: 0.95rem; margin: 1rem 0 0.4rem; color: var(--text); }
+    p, li { color: var(--text); }
+    .muted { color: var(--muted); font-size: 0.9rem; }
+    pre {
+      margin: 0.5rem 0 0; padding: 1rem; background: var(--surface); border: 1px solid var(--border);
+      border-radius: 6px; overflow: auto; font-family: "IBM Plex Mono", monospace; font-size: 0.8rem; line-height: 1.45;
+    }
+    code { font-family: "IBM Plex Mono", monospace; font-size: 0.88em; background: var(--surface); padding: 0.1em 0.35em; border-radius: 4px; border: 1px solid var(--border); }
+    ul { padding-left: 1.1rem; }
+    li { margin-bottom: 0.35rem; }
+    .warn { color: var(--warn); }
+    .toc { border: 1px solid var(--border); border-radius: 8px; padding: 1rem 1.25rem; background: var(--surface); }
+    .toc ol { margin: 0.5rem 0 0; padding-left: 1.2rem; font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AutoTag V5 — Operator reference</h1>
+    <p>Variant A · v1 · Dense field manual · <a href="index.html">All variants</a></p>
+  </header>
+  <nav aria-label="On-page">
+    <a href="#quick">Quick start</a>
+    <a href="#code">Code</a>
+    <a href="#offers">Offers</a>
+    <a href="#channels">Channels</a>
+    <a href="#metrics">Metrics</a>
+  </nav>
+  <main>
+    <section class="toc" aria-labelledby="toc-h">
+      <h2 id="toc-h">Scope</h2>
+      <p class="muted">Everything assumes repo root <code>v5-workspace</code>. Paths are relative to that folder unless absolute.</p>
+      <ol>
+        <li><a href="#quick">Install + run</a></li>
+        <li><a href="#code">Reusable snippets</a></li>
+        <li><a href="#offers">Product bundles (sellable)</a></li>
+        <li><a href="#channels">Gumroad / Codester / other</a></li>
+        <li><a href="#metrics">Weekly KPIs</a></li>
+      </ol>
+    </section>
+
+    <section id="quick">
+      <h2>§ Quick start</h2>
+      <h3>First-time setup</h3>
+      <pre><code>cd /path/to/AutoTagger/v5-workspace
+./setup_autotag.sh</code></pre>
+      <h3>Scan a folder you choose</h3>
+      <pre><code>./autotag.sh "/path/to/target" my_analysis --no-open</code></pre>
+      <h3>Default source = workspace root</h3>
+      <pre><code>./autotag.sh
+# uses v5-workspace as source; timestamped run name</code></pre>
+      <p class="muted">Compat pipeline: <code>./autotag_compat.sh</code> with the same arguments.</p>
+    </section>
+
+    <section id="code">
+      <h2>§ Code examples</h2>
+      <h3>Batch multiple targets</h3>
+      <pre><code>#!/bin/bash
+set -e
+cd /path/to/AutoTagger/v5-workspace
+
+./autotag.sh "/path/to/Automations" automations_scan --no-open
+./autotag.sh "/path/to/Docs" docs_scan --no-open
+./autotag.sh "/path/to/Clients/ClientA" client_a_scan --no-open</code></pre>
+      <h3>Rank tools from CSV (Python)</h3>
+      <pre><code>import pandas as pd
+
+csv_path = "output/automations_scan/automations_scan_results.csv"
+df = pd.read_csv(csv_path)
+top = df.sort_values("predicted_business_value", ascending=False).head(20)
+print(top[["name", "intelligent_category", "predicted_business_value"]])</code></pre>
+      <h3>Weekly artifact</h3>
+      <pre><code>RUN_NAME="weekly_$(date +%Y%m%d)"
+./autotag.sh "/path/to/BusinessAssets" "$RUN_NAME" --no-open
+ls -la "output/$RUN_NAME"</code></pre>
+    </section>
+
+    <section id="offers">
+      <h2>§ Sellable bundles (reference)</h2>
+      <ul>
+        <li><strong>Starter kit</strong> — scripts + sample outputs + README. Anchor <strong>$19–$49</strong>.</li>
+        <li><strong>Pro bundle</strong> — configs, taxonomy presets, advanced docs. <strong>$79–$199</strong>.</li>
+        <li><strong>DWY setup</strong> — live session + first-run handoff. <strong>$250–$1,000</strong>.</li>
+      </ul>
+    </section>
+
+    <section id="channels">
+      <h2>§ Distribution channels</h2>
+      <ul>
+        <li><strong>Gumroad</strong> — tiers, lead magnet, email follow-up.</li>
+        <li><strong>Codester</strong> — zip + changelog + verify script output screenshots.</li>
+        <li><strong>Services</strong> — Upwork/Fiverr listings that use AutoTag as fulfillment.</li>
+      </ul>
+    </section>
+
+    <section id="metrics">
+      <h2>§ Weekly metrics</h2>
+      <ul>
+        <li>Traffic → checkout conversion → AOV.</li>
+        <li>Support tickets per 100 sales.</li>
+        <li>Refund rate by tier.</li>
+        <li>Time-to-first successful scan (onboarding quality).</li>
+      </ul>
+      <p class="warn">Low conversion → add proof: real CSV excerpts, screenshots, 2-minute screen recording.</p>
+    </section>
+  </main>
+</body>
+</html>

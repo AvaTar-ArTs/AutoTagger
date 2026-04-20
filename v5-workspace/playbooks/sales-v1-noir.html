@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AutoTag V5 — Turn folders into sellable intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg: #050508; --elev: #12121a; --line: #2a2a38; --text: #f4f2ff; --dim: #9892b0; --hot: #ff4d6d; --cool: #5ce1e6; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Outfit, system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.55; }
+    .display { font-family: "Bebas Neue", Impact, sans-serif; letter-spacing: 0.04em; line-height: 0.95; }
+    a { color: var(--cool); }
+    a:focus, button:focus { outline: 2px solid var(--cool); outline-offset: 3px; }
+    .hero {
+      min-height: 72vh; display: grid; align-items: end;
+      padding: 3rem 1.5rem 4rem;
+      background:
+        radial-gradient(ellipse 80% 50% at 50% -20%, rgba(255,77,109,0.25), transparent),
+        radial-gradient(ellipse 60% 40% at 100% 50%, rgba(92,225,230,0.12), transparent),
+        var(--bg);
+    }
+    .hero-inner { max-width: 1100px; margin: 0 auto; }
+    .hero .display { font-size: clamp(3rem, 12vw, 6.5rem); max-width: 14ch; }
+    .hero p { max-width: 36ch; color: var(--dim); font-weight: 300; font-size: 1.15rem; margin: 1.25rem 0 2rem; }
+    .cta-row { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      padding: 0.85rem 1.5rem; border-radius: 999px; font-weight: 600; text-decoration: none; border: none; cursor: pointer; font-size: 0.95rem;
+    }
+    .btn-primary { background: var(--hot); color: #fff; }
+    .btn-ghost { background: transparent; color: var(--text); border: 1px solid var(--line); }
+    main { max-width: 1100px; margin: 0 auto; padding: 0 1.5rem 4rem; }
+    section { margin-top: 3.5rem; }
+    h2 { font-family: "Bebas Neue", sans-serif; font-size: 2rem; letter-spacing: 0.06em; margin: 0 0 1rem; color: var(--cool); }
+    .proof { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; }
+    .proof div { background: var(--elev); border: 1px solid var(--line); border-radius: 12px; padding: 1.1rem; }
+    .proof strong { display: block; font-size: 1.35rem; margin-bottom: 0.25rem; }
+    .proof span { font-size: 0.85rem; color: var(--dim); }
+    .tiers { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; align-items: stretch; }
+    .tier {
+      border: 1px solid var(--line); border-radius: 16px; padding: 1.5rem; background: var(--elev);
+      display: flex; flex-direction: column;
+    }
+    .tier.featured { border-color: var(--hot); box-shadow: 0 0 0 1px var(--hot); }
+    .tier h3 { margin: 0 0 0.25rem; font-size: 1.1rem; }
+    .price { font-family: "Bebas Neue", sans-serif; font-size: 2.5rem; color: var(--text); letter-spacing: 0.04em; }
+    .tier ul { margin: 1rem 0; padding-left: 1.1rem; color: var(--dim); font-size: 0.92rem; flex: 1; }
+    .tier .btn { width: 100%; margin-top: auto; }
+    details { border: 1px solid var(--line); border-radius: 12px; padding: 1rem 1.25rem; margin-bottom: 0.5rem; background: var(--elev); }
+    summary { cursor: pointer; font-weight: 600; }
+    footer { text-align: center; padding: 2rem; color: var(--dim); font-size: 0.85rem; }
+    footer a { color: var(--dim); }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="display">Index everything. Package the story. Sell the kit.</p>
+      <p>AutoTag V5 turns any folder into phased JSON + CSV you can ship as a product, upsell as a service, or reskin for agencies.</p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="https://gumroad.com" rel="noopener noreferrer">Replace with your Gumroad URL</a>
+        <a class="btn btn-ghost" href="../autotag_revenue_playbook.html">Open full playbook</a>
+        <a class="btn btn-ghost" href="index.html">All page variants</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section aria-labelledby="proof-h">
+      <h2 id="proof-h">Proof, not promises</h2>
+      <div class="proof">
+        <div><strong>3 phases</strong><span>Rapid scan → organize → intelligence layer</span></div>
+        <div><strong>CSV export</strong><span>Spreadsheet-ready for buyers and BI</span></div>
+        <div><strong>Local-first</strong><span>No cloud dependency in the default workflow</span></div>
+      </div>
+    </section>
+
+    <section aria-labelledby="tiers-h">
+      <h2 id="tiers-h">Pick a tier</h2>
+      <div class="tiers">
+        <article class="tier">
+          <h3>Starter</h3>
+          <div class="price">$29</div>
+          <p style="color:var(--dim);font-size:0.9rem;margin:0.5rem 0 0;">Solo operators · instant download</p>
+          <ul>
+            <li>Runnable workspace + README</li>
+            <li>Sample outputs (redacted OK)</li>
+            <li>Email: setup within 48h</li>
+          </ul>
+          <a class="btn btn-ghost" href="https://gumroad.com">Buy Starter</a>
+        </article>
+        <article class="tier featured">
+          <h3>Pro</h3>
+          <div class="price">$129</div>
+          <p style="color:var(--dim);font-size:0.9rem;margin:0.5rem 0 0;">Agencies · white-label friendly</p>
+          <ul>
+            <li>Everything in Starter</li>
+            <li>Category presets + config notes</li>
+            <li>90-day update channel</li>
+          </ul>
+          <a class="btn btn-primary" href="https://gumroad.com">Buy Pro</a>
+        </article>
+        <article class="tier">
+          <h3>Done-with-you</h3>
+          <div class="price">$499+</div>
+          <p style="color:var(--dim);font-size:0.9rem;margin:0.5rem 0 0;">Hands-on · calendar link</p>
+          <ul>
+            <li>Live onboarding call</li>
+            <li>Custom taxonomy pass</li>
+            <li>First production run together</li>
+          </ul>
+          <a class="btn btn-ghost" href="https://cal.com">Book call</a>
+        </article>
+      </div>
+    </section>
+
+    <section aria-labelledby="faq-h">
+      <h2 id="faq-h">FAQ</h2>
+      <details><summary>Who is this for?</summary><p style="color:var(--dim);margin:0.75rem 0 0;">Creators with messy tool folders, agencies inventorying client stacks, and developers reselling a packaged scanner.</p></details>
+      <details><summary>Codester vs Gumroad?</summary><p style="color:var(--dim);margin:0.75rem 0 0;">Gumroad for speed and story. Codester when your buyer is another dev who wants a clean repo + changelog.</p></details>
+      <details><summary>Can I reskin this page?</summary><p style="color:var(--dim);margin:0.75rem 0 0;">Yes. Duplicate this HTML, swap fonts in the <code>&lt;link&gt;</code>, replace CTA URLs, embed your Loom.</p></details>
+    </section>
+  </main>
+
+  <footer>
+    Variant <strong>B · v1 · Noir</strong> · <a href="index.html">Index</a>
+  </footer>
+</body>
+</html>

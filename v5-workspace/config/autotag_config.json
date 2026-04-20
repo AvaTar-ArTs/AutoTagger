@@ -5,10 +5,10 @@
     "description": "Intelligent tagging and categorization system for AVATARARTS automation tools"
   },
   "paths": {
-    "output_base": "/Users/steven/AutoTag/output",
-    "logs_base": "/Users/steven/AutoTag/logs",
-    "data_base": "/Users/steven/AutoTag/data",
-    "scripts_base": "/Users/steven/AutoTag/scripts"
+    "output_base": "./output",
+    "logs_base": "./logs",
+    "data_base": "./data",
+    "scripts_base": "./scripts"
   },
   "processing": {
     "phases": [
@@ -25,7 +25,7 @@
     "integration_potential_weight": 0.3
   },
   "database": {
-    "path": "/Users/steven/AutoTag/data/knowledge_base.db",
+    "path": "./data/knowledge_base.db",
     "backup_enabled": true,
     "backup_retention_days": 30
   }

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AutoTag V5 - Sales Complete v3</title>
+  <style>
+    :root { --bg:#08090d; --text:#f7f7ff; --muted:#a9abc2; --line:#2b2f42; --hot:#ff5e78; --cool:#66e2ff; --card:#131626; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background:var(--bg); color:var(--text); line-height:1.6; }
+    .hero { padding:64px 18px 44px; background: radial-gradient(80% 60% at 0% 0%, rgba(102,226,255,.15), transparent), radial-gradient(70% 50% at 100% 0%, rgba(255,94,120,.18), transparent), var(--bg); border-bottom:1px solid var(--line); }
+    .inner { max-width:1000px; margin:0 auto; }
+    h1 { margin:0 0 14px; font-size: clamp(2rem, 6vw, 3.8rem); line-height:1.05; }
+    .lead { max-width:42ch; color:var(--muted); font-size:1.08rem; }
+    .cta a { display:inline-block; margin-right:10px; margin-top:12px; text-decoration:none; padding:11px 16px; border-radius:999px; border:1px solid var(--line); color:var(--text); }
+    .cta a.primary { background:var(--hot); border-color:var(--hot); color:#fff; }
+    main { max-width:1000px; margin:0 auto; padding:26px 18px 50px; }
+    section { margin-bottom:18px; background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px; }
+    h2 { margin:0 0 10px; font-size:1.1rem; color:var(--cool); }
+    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:10px; }
+    .offer { border:1px solid var(--line); border-radius:10px; padding:12px; background:#0f1320; }
+    .price { font-size:1.5rem; font-weight:700; margin:6px 0; }
+    ul { margin:0; padding-left:18px; }
+    pre { margin:8px 0 0; padding:10px; background:#0a0f1b; border:1px solid var(--line); border-radius:8px; overflow:auto; font-size:.84rem; }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .muted { color:var(--muted); }
+    a { color:var(--cool); }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="inner">
+      <h1>Turn folder chaos into sellable intelligence.</h1>
+      <p class="lead">Complete sales-focused page with operational proof, packaged offers, channel strategy, and launch economics.</p>
+      <div class="cta">
+        <a class="primary" href="https://gumroad.com">Primary CTA (replace URL)</a>
+        <a href="https://codester.com">Codester Listing</a>
+        <a href="index.html">All Variants</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section>
+      <h2>Quick Product Proof</h2>
+      <div class="grid">
+        <div class="offer"><strong>3-Phase pipeline</strong><p class="muted">Scan -> organize -> intelligence scoring.</p></div>
+        <div class="offer"><strong>CSV + JSON output</strong><p class="muted">Immediate analytics and buyer-visible deliverables.</p></div>
+        <div class="offer"><strong>Local-first workflow</strong><p class="muted">No dependency on cloud backends for core use.</p></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Usage and Code Examples</h2>
+      <pre><code>cd /path/to/AutoTagger/v5-workspace
+./setup_autotag.sh
+./autotag.sh "/path/to/target" my_analysis --no-open
+./autotag.sh   # default source = workspace root</code></pre>
+      <pre><code>import pandas as pd
+df = pd.read_csv("output/my_analysis/my_analysis_results.csv")
+print(df.sort_values("predicted_business_value", ascending=False).head(10))</code></pre>
+    </section>
+
+    <section>
+      <h2>Offer Stack</h2>
+      <div class="grid">
+        <article class="offer">
+          <h3>Starter Kit</h3>
+          <div class="price">$19-$49</div>
+          <ul><li>Core workspace package</li><li>Sample outputs</li><li>Quick-start docs</li></ul>
+        </article>
+        <article class="offer">
+          <h3>Pro Bundle</h3>
+          <div class="price">$79-$199</div>
+          <ul><li>Advanced presets</li><li>Category strategy templates</li><li>Priority support window</li></ul>
+        </article>
+        <article class="offer">
+          <h3>Done-With-You</h3>
+          <div class="price">$250-$1,000</div>
+          <ul><li>Live implementation call</li><li>Custom taxonomy</li><li>First run handoff</li></ul>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <h2>Revenue Channels</h2>
+      <ul>
+        <li><strong>Gumroad:</strong> best for rapid testing, bundles, and email follow-up.</li>
+        <li><strong>Codester:</strong> best for dev buyers wanting packaged technical assets.</li>
+        <li><strong>Services:</strong> fixed-scope audits and implementation sessions.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Profit Math + Launch Plan</h2>
+      <pre><code>60 x $39  = $2,340
+15 x $129 = $1,935
+4  x $400 = $1,600
+Total     = $5,875/mo</code></pre>
+      <ol>
+        <li>Week 1: packaging + proof assets</li>
+        <li>Week 2: Gumroad launch</li>
+        <li>Week 3: Codester listing</li>
+        <li>Week 4: outreach + testimonials</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>KPIs to Track Weekly</h2>
+      <ul>
+        <li>Traffic -> conversion -> average order value</li>
+        <li>Refund rate by offer tier</li>
+        <li>Support burden per customer</li>
+        <li>Time to first successful user run</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>

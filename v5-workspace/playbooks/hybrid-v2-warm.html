@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AutoTag V5 — Hybrid (warm editorial)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Karla:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --cream: #f7f0e8; --paper: #fffdf9; --ink: #2c2419; --muted: #6b5f52;
+      --terracotta: #c45c3e; --sage: #3d5c5c; --rule: #e5d9cc;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Karla, system-ui, sans-serif; background: var(--cream); color: var(--ink); line-height: 1.6; }
+    a { color: var(--sage); font-weight: 700; }
+    a:focus { outline: 2px solid var(--terracotta); outline-offset: 2px; }
+    .masthead {
+      padding: 3.5rem 1.5rem 2.5rem;
+      background: var(--paper);
+      border-bottom: 3px solid var(--terracotta);
+    }
+    .masthead-inner { max-width: 720px; margin: 0 auto; }
+    .kicker { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.2em; color: var(--terracotta); font-weight: 700; margin: 0 0 0.75rem; }
+    .masthead h1 {
+      font-family: "Libre Baskerville", Georgia, serif; font-size: clamp(1.85rem, 4.5vw, 2.65rem);
+      font-weight: 700; line-height: 1.2; margin: 0 0 1rem;
+    }
+    .deck { font-family: "Libre Baskerville", Georgia, serif; font-style: italic; color: var(--muted); font-size: 1.1rem; margin: 0 0 1.5rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: 0.65rem; }
+    .actions a {
+      font-family: Karla, sans-serif; font-weight: 700; font-size: 0.88rem; text-decoration: none;
+      padding: 0.65rem 1.15rem; border-radius: 4px; border: 2px solid var(--ink); color: var(--ink); background: transparent;
+    }
+    .actions a.primary { background: var(--terracotta); border-color: var(--terracotta); color: #fff; }
+    main { max-width: 720px; margin: 0 auto; padding: 2rem 1.5rem 3rem; }
+    .panel { background: var(--paper); border: 1px solid var(--rule); padding: 1.35rem 1.5rem; margin-bottom: 1.25rem; }
+    .panel h2 { font-family: "Libre Baskerville", serif; font-size: 1.15rem; margin: 0 0 0.5rem; }
+    .panel p { margin: 0; color: var(--muted); font-size: 0.95rem; }
+    pre {
+      margin-top: 0.75rem; padding: 0.9rem 1rem; background: #2c2419; color: #f7f0e8;
+      font-size: 0.78rem; overflow: auto; border-radius: 2px; font-family: ui-monospace, Menlo, monospace; line-height: 1.45;
+    }
+    footer { text-align: center; font-size: 0.8rem; color: var(--muted); padding: 2rem 1rem; border-top: 1px solid var(--rule); }
+  </style>
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <p class="kicker">AutoTag V5 · hybrid editorial</p>
+      <h1>One page for the pitch and the procedure.</h1>
+      <p class="deck">Warm opener for humans who skim; monospace blocks for operators who execute.</p>
+      <div class="actions">
+        <a class="primary" href="https://gumroad.com">Buy the kit</a>
+        <a href="index.html">Other variants</a>
+        <a href="../autotag_revenue_playbook.html">Original all-in-one</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="panel">
+      <h2>Runbook</h2>
+      <p>From <code>v5-workspace</code>:</p>
+      <pre><code>./setup_autotag.sh
+./autotag.sh "/path/to/target" my_run --no-open</code></pre>
+    </section>
+
+    <section class="panel">
+      <h2>Revenue angles (same engine)</h2>
+      <p><strong>Digital:</strong> Gumroad bundle + email course drip using your CSV columns as lesson hooks.</p>
+      <p style="margin-top:0.65rem;"><strong>Code market:</strong> Codester listing with deterministic <code>verify_installation.sh</code> output in screenshots.</p>
+      <p style="margin-top:0.65rem;"><strong>Services:</strong> flat-fee “stack map” deliverable; AutoTag is your assembly line.</p>
+    </section>
+
+    <section class="panel">
+      <h2>Quality bar before you charge</h2>
+      <p>Ship a redacted sample CSV, one JSON excerpt, and a 60-second screen capture. That trio outsells adjectives.</p>
+    </section>
+  </main>
+
+  <footer>Variant C · v2 · hybrid-v2-warm.html</footer>
+</body>
+</html>

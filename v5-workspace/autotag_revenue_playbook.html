@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AutoTag V5 - Usage and Revenue Playbook</title>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #121a31;
+      --muted: #9fb0d8;
+      --text: #e8eeff;
+      --accent: #66d9ef;
+      --accent-2: #a6e22e;
+      --warn: #ffd866;
+      --border: #2a365f;
+      --code: #0a1328;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: linear-gradient(180deg, #080d1c 0%, #0b1020 100%);
+      color: var(--text);
+      line-height: 1.55;
+    }
+    .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 28px 20px 56px;
+    }
+    .hero, .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+    h1, h2, h3 { margin: 0 0 10px; }
+    h1 { font-size: 1.8rem; }
+    h2 { font-size: 1.3rem; margin-top: 8px; }
+    h3 { font-size: 1.05rem; color: var(--accent); }
+    p, li { color: var(--text); }
+    .muted { color: var(--muted); }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 12px;
+    }
+    .pill {
+      display: inline-block;
+      font-size: 0.78rem;
+      padding: 4px 8px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      margin-right: 6px;
+      margin-bottom: 8px;
+    }
+    pre {
+      margin: 10px 0 0;
+      background: var(--code);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px;
+      overflow: auto;
+      font-size: 0.86rem;
+    }
+    code { font-family: "SFMono-Regular", Menlo, Consolas, monospace; }
+    .good { color: var(--accent-2); }
+    .warn { color: var(--warn); }
+    a { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <p class="muted" style="margin-bottom:12px;font-size:0.9rem;">
+      Prefer split layouts? See <a href="playbooks/index.html">playbooks/index.html</a> (operator, sales, hybrid — two styles each).
+    </p>
+    <section class="hero">
+      <h1>AutoTag V5: Practical Usage + Revenue Playbook</h1>
+      <p class="muted">
+        Single-page field guide for operating <code>v5-workspace</code>, packaging results, and turning it into revenue on marketplaces like Gumroad and Codester.
+      </p>
+      <div>
+        <span class="pill">v5-workspace</span>
+        <span class="pill">automation indexing</span>
+        <span class="pill">productization</span>
+        <span class="pill">Gumroad / Codester</span>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>1) Quick Start (Operator Flow)</h2>
+      <div class="grid">
+        <div>
+          <h3>Set up</h3>
+          <pre><code>cd /path/to/AutoTagger/v5-workspace
+./setup_autotag.sh</code></pre>
+        </div>
+        <div>
+          <h3>Run on a chosen folder</h3>
+          <pre><code>./autotag.sh "/path/to/target" my_analysis --no-open</code></pre>
+        </div>
+        <div>
+          <h3>Run with base folder as source</h3>
+          <pre><code>./autotag.sh
+# defaults to v5-workspace as source</code></pre>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>2) Code Examples You Can Reuse</h2>
+      <h3>Batch runs for multiple folders</h3>
+      <pre><code>#!/bin/bash
+set -e
+cd /path/to/AutoTagger/v5-workspace
+
+./autotag.sh "/Users/you/Automations" automations_scan --no-open
+./autotag.sh "/Users/you/Docs" docs_scan --no-open
+./autotag.sh "/Users/you/Clients/ClientA" client_a_scan --no-open
+echo "All scans complete."</code></pre>
+
+      <h3>Python snippet to summarize high-value tools from CSV</h3>
+      <pre><code>import pandas as pd
+
+csv_path = "output/automations_scan/automations_scan_results.csv"
+df = pd.read_csv(csv_path)
+
+top = df.sort_values("predicted_business_value", ascending=False).head(20)
+print(top[["name", "intelligent_category", "predicted_business_value"]])</code></pre>
+
+      <h3>Create a weekly report artifact</h3>
+      <pre><code>#!/bin/bash
+set -e
+cd /path/to/AutoTagger/v5-workspace
+
+RUN_NAME="weekly_$(date +%Y%m%d)"
+./autotag.sh "/Users/you/BusinessAssets" "$RUN_NAME" --no-open
+echo "Report files:"
+ls -la "output/$RUN_NAME"</code></pre>
+    </section>
+
+    <section class="card">
+      <h2>3) Suggested Product Offers (What to Sell)</h2>
+      <div class="grid">
+        <div>
+          <h3>Offer A: Local Automation Inventory Kit</h3>
+          <ul>
+            <li>Deliverable: setup scripts + opinionated templates + report examples.</li>
+            <li>Buyer: solo founders, operators, no-code builders.</li>
+            <li>Price anchor: <strong>$19-$49</strong>.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Offer B: Premium AutoTag Pro Bundle</h3>
+          <ul>
+            <li>Deliverable: advanced configs, scoring weights, category presets, docs.</li>
+            <li>Buyer: agencies and consultant teams.</li>
+            <li>Price anchor: <strong>$79-$199</strong>.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Offer C: Done-With-You Setup Service</h3>
+          <ul>
+            <li>Deliverable: 60-90 min setup + custom taxonomy + first run handoff.</li>
+            <li>Buyer: high-intent professionals.</li>
+            <li>Price anchor: <strong>$250-$1,000</strong>.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>4) Marketplace Strategy</h2>
+      <div class="grid">
+        <div>
+          <h3>Gumroad (fastest to monetize)</h3>
+          <ul>
+            <li>Sell bundles, templates, and setup guides.</li>
+            <li>Use tiered pricing: Starter / Pro / Pro+Support.</li>
+            <li>Lead magnet: free mini scanner script.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Codester (dev audience)</h3>
+          <ul>
+            <li>Package as developer toolkit with clean docs.</li>
+            <li>Include install script, sample outputs, and changelog.</li>
+            <li>Highlight portability and local/offline workflow.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Also consider</h3>
+          <ul>
+            <li>GitHub Sponsors for ongoing maintenance.</li>
+            <li>Lemon Squeezy for software-style checkout.</li>
+            <li>Freelancer/Upwork gigs using AutoTag as fulfillment engine.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>5) Profit Model (Simple Math)</h2>
+      <pre><code>Monthly Revenue = (Digital Product Sales) + (Services) + (Upsells)
+
+Example target:
+- 60 sales/month x $39 starter pack = $2,340
+- 15 sales/month x $129 pro pack = $1,935
+- 4 setup calls/month x $400 = $1,600
+Total: $5,875/month (before platform fees/taxes)</code></pre>
+      <p class="muted">
+        Use AutoTag output CSVs as proof artifacts in product pages and case studies. Tangible before/after examples increase conversion rates.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>6) 30-Day Launch Plan</h2>
+      <ol>
+        <li>Week 1: finalize packaging (docs, scripts, sample outputs, license).</li>
+        <li>Week 2: publish Gumroad listing + one free lead magnet.</li>
+        <li>Week 3: publish Codester listing + technical walkthrough video.</li>
+        <li>Week 4: run outreach (X, LinkedIn, Reddit communities) + gather testimonials.</li>
+      </ol>
+      <p><span class="good">Best first move:</span> launch Gumroad first, then cross-list on Codester once docs and support flow are stable.</p>
+    </section>
+
+    <section class="card">
+      <h2>7) What to Track Weekly</h2>
+      <ul>
+        <li>Page views → conversion rate → average order value.</li>
+        <li>Support tickets per customer (quality signal).</li>
+        <li>Refund rate by offer tier.</li>
+        <li>Time-to-value: how quickly a new user gets first successful scan.</li>
+      </ul>
+      <p class="warn">If conversion is low, improve proof: add real screenshots, output snippets, and a 2-minute demo.</p>
+    </section>
+  </div>
+</body>
+</html>

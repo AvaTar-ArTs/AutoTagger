@@ -23,3 +23,28 @@ env/
 # Local environment files
 .env
 .env.*
+
+# Generated outputs and run artifacts
+output/
+**/output/
+**/logs/
+**/reports/
+
+# Large archives and exports
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+
+# Runtime databases and bulky local state
+*.sqlite
+*.sqlite3
+*.db
+
+# Local tool/session state
+.serena/
+
+# Local workspace mirrors and large clones
+n8n_workflows/
+v6-workspace/

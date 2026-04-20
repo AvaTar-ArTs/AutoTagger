@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AutoTag V5 — Hybrid (stack)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@500;700;800&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg: #0e0f12; --card: #181a20; --line: #2e323c; --text: #eef0f4; --muted: #8b919d; --a1: #7c5cff; --a2: #00d4aa; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: "Work Sans", system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.55; }
+    a { color: var(--a2); }
+    a:focus { outline: 2px solid var(--a1); outline-offset: 2px; }
+    .hero {
+      padding: 4rem 1.5rem 3rem;
+      background: linear-gradient(135deg, #12141a 0%, #0e0f12 50%, #15182a 100%);
+      border-bottom: 1px solid var(--line);
+    }
+    .hero-inner { max-width: 960px; margin: 0 auto; }
+    .hero h1 { font-family: Syne, sans-serif; font-size: clamp(2rem, 5vw, 3.2rem); font-weight: 800; line-height: 1.1; margin: 0 0 1rem; max-width: 18ch; }
+    .hero p { color: var(--muted); max-width: 40ch; margin: 0 0 1.5rem; font-size: 1.05rem; }
+    .strip { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+    .strip a, .strip span {
+      display: inline-flex; align-items: center; padding: 0.65rem 1.1rem; border-radius: 999px;
+      font-size: 0.85rem; font-weight: 600; text-decoration: none; border: 1px solid var(--line);
+    }
+    .strip a.primary { background: var(--a1); color: #fff; border-color: transparent; }
+    .strip a.secondary { background: var(--card); color: var(--text); }
+    .strip span { color: var(--muted); font-weight: 500; }
+    main { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem 3rem; }
+    article {
+      background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 1.25rem 1.35rem; margin-bottom: 1rem;
+    }
+    article h2 { font-family: Syne, sans-serif; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--a1); margin: 0 0 0.5rem; }
+    article h3 { margin: 1rem 0 0.35rem; font-size: 0.95rem; }
+    pre { margin: 0.4rem 0 0; padding: 0.85rem 1rem; background: #0b0c10; border-radius: 8px; overflow: auto; font-size: 0.78rem; border: 1px solid var(--line); }
+    code { font-family: ui-monospace, Menlo, monospace; }
+    ul { margin: 0.35rem 0 0; padding-left: 1.1rem; color: var(--muted); font-size: 0.92rem; }
+    footer { text-align: center; padding: 1.5rem; font-size: 0.8rem; color: var(--muted); border-top: 1px solid var(--line); }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <h1>Run it locally. Sell what it proves.</h1>
+      <p>Hybrid layout: short conversion block up top, operator reference below — one URL for demos and docs.</p>
+      <div class="strip">
+        <a class="primary" href="https://gumroad.com">Primary CTA</a>
+        <a class="secondary" href="../autotag_revenue_playbook.html">Full combined playbook</a>
+        <span>Variant C · v1</span>
+        <a class="secondary" href="index.html">Index</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <article>
+      <h2>Quick commands</h2>
+      <h3>Setup</h3>
+      <pre><code>cd /path/to/AutoTagger/v5-workspace
+./setup_autotag.sh</code></pre>
+      <h3>Scan</h3>
+      <pre><code>./autotag.sh "/path/to/target" run_name --no-open
+./autotag.sh   # default source = v5-workspace</code></pre>
+    </article>
+
+    <article>
+      <h2>Why buyers pay</h2>
+      <ul>
+        <li>CSV + JSON artifacts are tangible “before/after” proof.</li>
+        <li>Local-first story reduces trust friction vs opaque cloud tools.</li>
+        <li>Same engine powers product, retainer, and marketplace SKUs.</li>
+      </ul>
+    </article>
+
+    <article>
+      <h2>Go-to-market stack</h2>
+      <ul>
+        <li><strong>Gumroad</strong> — story + file delivery + upsell email.</li>
+        <li><strong>Codester</strong> — zip + changelog + strict support window.</li>
+        <li><strong>Services</strong> — fixed SKU: “inventory + 10-page brief” using AutoTag output.</li>
+      </ul>
+    </article>
+  </main>
+
+  <footer>AutoTag V5 · hybrid-v1-stack.html</footer>
+</body>
+</html>

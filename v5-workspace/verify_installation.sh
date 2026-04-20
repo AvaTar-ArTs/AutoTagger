@@ -5,13 +5,16 @@
 echo "🔍 Verifying AutoTag System Installation"
 echo "======================================="
 
+# Resolve workspace root from this script location so verification is portable.
+AUTOTAG_ROOT="$(cd "$(dirname "$0")" && pwd)"
+
 # Check main directory
 echo ""
 echo "📁 Checking main AutoTag directory..."
-if [ -d "/Users/steven/AutoTag" ]; then
-    echo "✅ /Users/steven/AutoTag directory exists"
+if [ -d "$AUTOTAG_ROOT" ]; then
+    echo "✅ $AUTOTAG_ROOT directory exists"
 else
-    echo "❌ /Users/steven/AutoTag directory does not exist"
+    echo "❌ $AUTOTAG_ROOT directory does not exist"
     exit 1
 fi
 
@@ -19,10 +22,10 @@ fi
 echo ""
 echo "📄 Checking essential files..."
 essential_files=(
-    "/Users/steven/AutoTag/autotag.sh"
-    "/Users/steven/AutoTag/setup_autotag.sh"
-    "/Users/steven/AutoTag/test_autotag.sh"
-    "/Users/steven/AutoTag/README.md"
+    "$AUTOTAG_ROOT/autotag.sh"
+    "$AUTOTAG_ROOT/setup_autotag.sh"
+    "$AUTOTAG_ROOT/test_autotag.sh"
+    "$AUTOTAG_ROOT/README.md"
 )
 
 for file in "${essential_files[@]}"; do
@@ -38,13 +41,13 @@ done
 echo ""
 echo "📂 Checking essential directories..."
 directories=(
-    "/Users/steven/AutoTag/scripts"
-    "/Users/steven/AutoTag/config"
-    "/Users/steven/AutoTag/data"
-    "/Users/steven/AutoTag/output"
-    "/Users/steven/AutoTag/logs"
-    "/Users/steven/AutoTag/docs"
-    "/Users/steven/AutoTag/venv"
+    "$AUTOTAG_ROOT/scripts"
+    "$AUTOTAG_ROOT/config"
+    "$AUTOTAG_ROOT/data"
+    "$AUTOTAG_ROOT/output"
+    "$AUTOTAG_ROOT/logs"
+    "$AUTOTAG_ROOT/docs"
+    "$AUTOTAG_ROOT/venv"
 )
 
 for dir in "${directories[@]}"; do
@@ -60,11 +63,11 @@ done
 echo ""
 echo "⚙️  Checking scripts directory contents..."
 script_files=(
-    "/Users/steven/AutoTag/scripts/autotag_main.py"
-    "/Users/steven/AutoTag/scripts/phase1_rapid_scan.py"
-    "/Users/steven/AutoTag/scripts/phase2_intelligent_organization.py"
-    "/Users/steven/AutoTag/scripts/phase3_advanced_intelligence.py"
-    "/Users/steven/AutoTag/scripts/run_tiered_indexing.py"
+    "$AUTOTAG_ROOT/scripts/autotag_main.py"
+    "$AUTOTAG_ROOT/scripts/phase1_rapid_scan.py"
+    "$AUTOTAG_ROOT/scripts/phase2_intelligent_organization.py"
+    "$AUTOTAG_ROOT/scripts/phase3_advanced_intelligence.py"
+    "$AUTOTAG_ROOT/scripts/run_tiered_indexing.py"
 )
 
 for file in "${script_files[@]}"; do
@@ -80,8 +83,8 @@ done
 echo ""
 echo "📚 Checking documentation..."
 doc_files=(
-    "/Users/steven/AutoTag/docs/user_guide.md"
-    "/Users/steven/AutoTag/config/autotag_config.json"
+    "$AUTOTAG_ROOT/docs/user_guide.md"
+    "$AUTOTAG_ROOT/config/autotag_config.json"
 )
 
 for file in "${doc_files[@]}"; do
@@ -97,9 +100,9 @@ done
 echo ""
 echo "🔒 Checking file permissions..."
 executable_files=(
-    "/Users/steven/AutoTag/autotag.sh"
-    "/Users/steven/AutoTag/setup_autotag.sh"
-    "/Users/steven/AutoTag/test_autotag.sh"
+    "$AUTOTAG_ROOT/autotag.sh"
+    "$AUTOTAG_ROOT/setup_autotag.sh"
+    "$AUTOTAG_ROOT/test_autotag.sh"
 )
 
 for file in "${executable_files[@]}"; do
@@ -115,10 +118,10 @@ done
 # Test functionality
 echo ""
 echo "🧪 Testing basic functionality..."
-cd /Users/steven/AutoTag
+cd "$AUTOTAG_ROOT"
 
 # Test if virtual environment is working
-if [ -d "/Users/steven/AutoTag/venv" ]; then
+if [ -d "$AUTOTAG_ROOT/venv" ]; then
     echo "✅ Virtual environment exists"
 else
     echo "❌ Virtual environment does not exist"
@@ -138,9 +141,9 @@ fi
 # Check if CSV functionality is working
 echo ""
 echo "📊 Checking CSV functionality..."
-if [ -f "/Users/steven/AutoTag/output/csv_test/csv_test_results.csv" ]; then
+if [ -f "$AUTOTAG_ROOT/output/csv_test/csv_test_results.csv" ]; then
     echo "✅ CSV output file exists"
-    csv_columns=$(head -1 "/Users/steven/AutoTag/output/csv_test/csv_test_results.csv")
+    csv_columns=$(head -1 "$AUTOTAG_ROOT/output/csv_test/csv_test_results.csv")
     echo "   CSV columns: $csv_columns"
 else
     echo "❌ CSV output file does not exist"
@@ -162,6 +165,6 @@ echo ""
 echo "AutoTag is ready for use!"
 echo ""
 echo "To run AutoTag:"
-echo "  cd /Users/steven/AutoTag"
+echo "  cd $AUTOTAG_ROOT"
 echo "  ./autotag.sh /path/to/target/directory [optional_name]"
 echo ""
