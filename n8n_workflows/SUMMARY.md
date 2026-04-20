@@ -7,6 +7,7 @@
 - Covered mapping now completed for all 12 targets.
 - n8n template library completed (1 free + 12 premium).
 - **V2 operator documentation** under `docs/v2/` (import/credentials, env matrix, Trend Pulse contract, full index, keyword link map) plus root `CHANGELOG.md`.
+- **V3 Annex note** under `docs/v3/` (how narrative playbooks relate to this library without duplicating JSON).
 
 ## Completed workflow templates
 

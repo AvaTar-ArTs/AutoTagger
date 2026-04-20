@@ -18,12 +18,15 @@ V2 adds a markdown “truth” layer beside the JSON templates:
 
 **AutoTagger cross-links:** product/playbook narrative lives in `v5-workspace/playbooks/v2` and `v3`; AutoTag execution truth in `v5-workspace/docs/v2/`.
 
+**V3 (Annex note) for this library:** [`docs/v3/00-annex.md`](./docs/v3/00-annex.md) — how n8n docs relate to creative Annex playbooks (no duplicate JSON).
+
 ## Repository structure
 
 ```
 n8n_workflows/
 ├── docs/
-│   └── v2/                     # V2 operator docs (markdown)
+│   ├── v2/                     # V2 operator docs (markdown)
+│   └── v3/                     # Annex positioning note (markdown)
 ├── CHANGELOG.md                # Library changelog
 ├── workflows/                  # Independent self-contained packages
 │   ├── WORKFLOWS_INDEX.md
