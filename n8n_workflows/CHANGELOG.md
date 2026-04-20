@@ -1,5 +1,15 @@
 # Changelog — n8n_workflows (Trend Pulse library)
 
+## 2026-04-20 — Real trees in AutoTagger + session export
+
+### Added
+
+- `docs/SESSION_EXPORT_REAL_TREES_AND_POLICY.md` — long-form handoff: commits, rsync, verification, `.gitignore` / `.cursorignore`, dual-repo alignment.
+
+### Changed
+
+- `README.md` — link to the session export from the V2 documentation section.
+
 ## 2026-04-20 — V2 documentation baseline
 
 ### Added

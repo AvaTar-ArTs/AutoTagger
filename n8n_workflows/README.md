@@ -8,6 +8,8 @@ Trend Pulse-aligned workflow library for:
 
 **Start here:** [`docs/v2/00-start-here.md`](./docs/v2/00-start-here.md)
 
+**Workspace layout (real files in git, dual-repo policy, rsync):** [`docs/SESSION_EXPORT_REAL_TREES_AND_POLICY.md`](./docs/SESSION_EXPORT_REAL_TREES_AND_POLICY.md)
+
 V2 adds a markdown “truth” layer beside the JSON templates:
 
 - import + credentials discipline
