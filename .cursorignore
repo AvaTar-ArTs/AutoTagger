@@ -1,15 +1,38 @@
-# .cursorignore - List files/directories for Cursor to ignore during indexing.
-# 
-# Syntax:
-#   - Use glob patterns (e.g. *.log, build/)
-#   - Comments start with '#'
-#   - Blank lines are ignored
-#
-# Example patterns:
-# node_modules/
-# *.log
-# .env
-# build/
-# dist/
-# *.csv
-# .DS_Store
+# Cursor indexing — AutoTagger repo
+# Goal: keep agents focused on v5 + docs; skip generated clones and bulk artifacts.
+
+# Generated outputs and large run folders
+output/
+**/output/
+**/logs/
+**/reports/
+
+# Large local-only workspace clone (gitignored)
+v6-workspace/
+
+# Root archives (also gitignored; still skip for IDE context)
+*.zip
+
+# Secrets and OS noise
+.DS_Store
+.env
+.env.*
+
+# Python / Node noise (if present under any workspace)
+**/__pycache__/
+**/node_modules/
+**/venv/
+**/.venv/
+
+# Optional — uncomment to shrink index when you are not editing legacy trees:
+# v1-original-kb/
+# v2-engine/
+# v3-dev/
+# v4-workspace/
+
+# Optional — when n8n JSON dirs symlink to /Users/steven/n8n_workflows, uncomment
+# to index only tracked n8n markdown in this repo:
+# n8n_workflows/free
+# n8n_workflows/premium
+# n8n_workflows/workflows
+# n8n_workflows/imports
