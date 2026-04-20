@@ -20,6 +20,8 @@ V2 adds a markdown “truth” layer beside the JSON templates:
 
 **V3 (Annex note) for this library:** [`docs/v3/00-annex.md`](./docs/v3/00-annex.md) — how n8n docs relate to creative Annex playbooks (no duplicate JSON).
 
+**Canonical home:** this path is the full-weight library. See [`CANONICAL_HOME.md`](./CANONICAL_HOME.md). **Cursor:** [`.cursorignore`](./.cursorignore) trims indexing noise; **Git (optional):** [`.gitignore`](./.gitignore) is ready if you `git init` here.
+
 ## Repository structure
 
 ```
