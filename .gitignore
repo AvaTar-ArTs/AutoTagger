@@ -46,9 +46,5 @@ output/
 .serena/
 
 # Local workspace mirrors and large clones
-# n8n: track `n8n_workflows/docs/` and top-level *.md; ignore symlinked JSON trees (often point outside repo)
-n8n_workflows/free
-n8n_workflows/premium
-n8n_workflows/workflows
-n8n_workflows/imports
+# n8n_workflows: full real trees (free/premium/workflows/imports) are tracked in git — do not ignore.
 v6-workspace/

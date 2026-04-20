@@ -1,0 +1,133 @@
+{
+  "name": "Trend Pulse - AI Note Taker Pro",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manualTrigger",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [220, 260]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            { "name": "audio_url", "value": "https://example.com/meeting-audio.mp3" },
+            { "name": "workspace_id", "value": "demo-workspace" },
+            { "name": "tier", "value": "premium" }
+          ]
+        }
+      },
+      "id": "intake",
+      "name": "Intake - Meeting Audio",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [460, 260]
+    },
+    {
+      "parameters": {
+        "url": "https://api.whisperx.example/v1/transcribe",
+        "method": "POST",
+        "jsonParameters": true,
+        "options": {},
+        "bodyParametersJson": "={\"audio_url\":\"{{$json.audio_url}}\",\"api_key\":\"{{$env.WHISPERX_API_KEY}}\"}"
+      },
+      "id": "transcription",
+      "name": "Enrichment - Transcription API",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [700, 260],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000
+    },
+    {
+      "parameters": {
+        "operation": "chat",
+        "model": "gpt-4.1-mini",
+        "messages": {
+          "messageValues": [
+            {
+              "message": "=Using transcript text, return strict JSON with fields: summary, key_points[], action_items[], owners[], deadlines[], decisions[]. Transcript: {{$json.transcript || $json.text || \"\"}}"
+            }
+          ]
+        }
+      },
+      "id": "noteStructuring",
+      "name": "Scoring + Structuring",
+      "type": "n8n-nodes-base.openAi",
+      "typeVersion": 1,
+      "position": [940, 260],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "credentials": {
+        "openAiApi": {
+          "id": "env-openai",
+          "name": "OPENAI_API_KEY via {{$env.OPENAI_API_KEY}}"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"workspace_id\": $json.workspace_id, \"note_package\": $json, \"exports\":[\"notion\",\"slack\",\"json\"]}"
+      },
+      "id": "outputPayload",
+      "name": "Content Generation - Note Payload",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [1180, 260]
+    },
+    {
+      "parameters": {
+        "url": "={{$env.SLACK_WEBHOOK_URL}}",
+        "method": "POST",
+        "jsonParameters": true,
+        "bodyParametersJson": "={\"text\":\"AI Note Taker Pro run complete for workspace {{$json.workspace_id}}\"}"
+      },
+      "id": "publishSlack",
+      "name": "Publish - Slack Notification",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [1420, 260]
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"status\":\"error\",\"workflow\":\"AI Note Taker Pro\",\"timestamp\":\"{{$now}}\",\"payload\":$json}"
+      },
+      "id": "errorLog",
+      "name": "Logging - Error",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [1180, 430]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [[{ "node": "Intake - Meeting Audio", "type": "main", "index": 0 }]]
+    },
+    "Intake - Meeting Audio": {
+      "main": [[{ "node": "Enrichment - Transcription API", "type": "main", "index": 0 }]]
+    },
+    "Enrichment - Transcription API": {
+      "main": [[{ "node": "Scoring + Structuring", "type": "main", "index": 0 }]]
+    },
+    "Scoring + Structuring": {
+      "main": [[{ "node": "Content Generation - Note Payload", "type": "main", "index": 0 }]]
+    },
+    "Content Generation - Note Payload": {
+      "main": [[{ "node": "Publish - Slack Notification", "type": "main", "index": 0 }]]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "pinData": {},
+  "meta": {
+    "templateType": "premium",
+    "keywordCoverage": ["ai note taking", "ai transcription"],
+    "trendPulseStageOrder": ["intake", "enrichment", "scoring", "content_generation", "publishing", "logging"]
+  }
+}

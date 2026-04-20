@@ -1,0 +1,98 @@
+{
+  "name": "Trend Pulse - Trend Analyzer Free",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manualTrigger",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [260, 260]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            { "name": "keyword", "value": "ai note taking" },
+            { "name": "variant_1", "value": "ai meeting notes" },
+            { "name": "variant_2", "value": "meeting summarizer ai" },
+            { "name": "intent", "value": "transactional" },
+            { "name": "tier", "value": "free" }
+          ]
+        }
+      },
+      "id": "intakeSet",
+      "name": "Intake - Keyword Input",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [500, 260]
+    },
+    {
+      "parameters": {
+        "operation": "chat",
+        "model": "gpt-4.1-mini",
+        "messages": {
+          "messageValues": [
+            {
+              "message": "=Score this keyword for SEO and AEO (0-100), estimate growth range for next 12 months, and suggest one n8n automation use case. Return strict JSON with fields: seo_score, aeo_score, growth_projection, content_angle, n8n_use_case. Keyword: {{$json.keyword}}. Variants: {{$json.variant_1}}, {{$json.variant_2}}. Intent: {{$json.intent}}."
+            }
+          ]
+        }
+      },
+      "id": "openaiScore",
+      "name": "Enrichment + Scoring (LLM)",
+      "type": "n8n-nodes-base.openAi",
+      "typeVersion": 1,
+      "position": [740, 260],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "credentials": {
+        "openAiApi": {
+          "id": "env-openai",
+          "name": "OPENAI_API_KEY via {{$env.OPENAI_API_KEY}}"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"keyword\": $json.keyword, \"tier\": \"free\", \"analysis\": $json, \"cta\": \"Upgrade to Trend Analyzer Pro for multi-keyword batch scoring, richer AEO outputs, and publishing automation.\"}"
+      },
+      "id": "finalOutput",
+      "name": "Output - Free Result",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [980, 260]
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"status\": \"error\", \"workflow\": \"Trend Analyzer Free\", \"timestamp\": \"{{$now}}\", \"details\": $json}"
+      },
+      "id": "errorLog",
+      "name": "Error Log",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [980, 420]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [[{ "node": "Intake - Keyword Input", "type": "main", "index": 0 }]]
+    },
+    "Intake - Keyword Input": {
+      "main": [[{ "node": "Enrichment + Scoring (LLM)", "type": "main", "index": 0 }]]
+    },
+    "Enrichment + Scoring (LLM)": {
+      "main": [[{ "node": "Output - Free Result", "type": "main", "index": 0 }]]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "pinData": {},
+  "meta": {
+    "templateType": "free",
+    "trendPulseStageOrder": ["intake", "enrichment", "scoring", "output", "logging"]
+  }
+}

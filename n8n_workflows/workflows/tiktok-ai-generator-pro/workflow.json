@@ -1,0 +1,255 @@
+{
+  "name": "Trend Pulse - TikTok AI Generator Pro",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manualTrigger",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        220,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "name": "topic",
+              "value": "AI automation hacks in 30 seconds"
+            },
+            {
+              "name": "style",
+              "value": "fast, punchy"
+            },
+            {
+              "name": "campaign",
+              "value": "trend-pulse"
+            },
+            {
+              "name": "tier",
+              "value": "premium"
+            }
+          ]
+        }
+      },
+      "id": "intake",
+      "name": "Intake - Input",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [
+        460,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "chat",
+        "model": "gpt-4.1-mini",
+        "messages": {
+          "messageValues": [
+            {
+              "message": "=Create TikTok content package in strict JSON: {hook, 30s_script, caption, hashtags[], broll_prompts[]}. Topic: {{$json.topic}}"
+            }
+          ]
+        }
+      },
+      "id": "enrich",
+      "name": "Enrichment - TikTok Content Plan",
+      "type": "n8n-nodes-base.openAi",
+      "typeVersion": 1,
+      "position": [
+        700,
+        260
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "credentials": {
+        "openAiApi": {
+          "id": "env-openai",
+          "name": "OPENAI_API_KEY via {{$env.OPENAI_API_KEY}}"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"platform\":\"tiktok\",\"package\":$json,\"exports\":[\"caption_sheet\",\"hashtag_set\",\"shoot_plan\"]}"
+      },
+      "id": "generate",
+      "name": "Content Generation - TikTok Asset Pack",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [
+        940,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "chat",
+        "model": "gpt-4.1-mini",
+        "messages": {
+          "messageValues": [
+            {
+              "message": "=Score this workflow output for SEO/AEO around keyword tiktok ai. Return strict JSON {seo_score, aeo_score, growth_projection, improvements[]}. Payload: {$json}"
+            }
+          ]
+        }
+      },
+      "id": "scoring",
+      "name": "Scoring - SEO/AEO/Growth",
+      "type": "n8n-nodes-base.openAi",
+      "typeVersion": 1,
+      "position": [
+        1180,
+        260
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "credentials": {
+        "openAiApi": {
+          "id": "env-openai",
+          "name": "OPENAI_API_KEY via {{$env.OPENAI_API_KEY}}"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "url": "={{$env.SLACK_WEBHOOK_URL}}",
+        "method": "POST",
+        "jsonParameters": true,
+        "bodyParametersJson": "={\"text\":\"TikTok AI Generator Pro completed for campaign {{$json.campaign}}\"}"
+      },
+      "id": "publish",
+      "name": "Publishing - Team Notification",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [
+        1420,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"status\":\"ok\",\"workflow\":\"TikTok AI Generator Pro\",\"timestamp\":\"{$now}\",\"payload\":$json}"
+      },
+      "id": "logSuccess",
+      "name": "Logging - Success",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [
+        1660,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"status\":\"error\",\"workflow\":\"TikTok AI Generator Pro\",\"timestamp\":\"{$now}\",\"payload\":$json}"
+      },
+      "id": "logError",
+      "name": "Logging - Error",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [
+        1180,
+        420
+      ]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [
+        [
+          {
+            "node": "Intake - Input",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Intake - Input": {
+      "main": [
+        [
+          {
+            "node": "Enrichment - TikTok Content Plan",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Enrichment - TikTok Content Plan": {
+      "main": [
+        [
+          {
+            "node": "Content Generation - TikTok Asset Pack",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Content Generation - TikTok Asset Pack": {
+      "main": [
+        [
+          {
+            "node": "Scoring - SEO/AEO/Growth",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Scoring - SEO/AEO/Growth": {
+      "main": [
+        [
+          {
+            "node": "Publishing - Team Notification",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Publishing - Team Notification": {
+      "main": [
+        [
+          {
+            "node": "Logging - Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "pinData": {},
+  "meta": {
+    "templateType": "premium",
+    "keywordCoverage": [
+      "tiktok ai"
+    ],
+    "trendPulseStageOrder": [
+      "intake",
+      "enrichment",
+      "scoring",
+      "content_generation",
+      "publishing",
+      "logging"
+    ],
+    "envNotes": [
+      "OPENAI_API_KEY",
+      "SLACK_WEBHOOK_URL"
+    ]
+  }
+}

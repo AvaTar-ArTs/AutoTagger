@@ -1,0 +1,251 @@
+{
+  "name": "Trend Pulse - Agentic Workflow Builder Pro",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manualTrigger",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        220,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "name": "business_goal",
+              "value": "Automate lead qualification and follow-up"
+            },
+            {
+              "name": "constraints",
+              "value": "Budget under $200/mo, no-code first"
+            },
+            {
+              "name": "tier",
+              "value": "premium"
+            }
+          ]
+        }
+      },
+      "id": "intake",
+      "name": "Intake - Input",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [
+        460,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "chat",
+        "model": "gpt-4.1-mini",
+        "messages": {
+          "messageValues": [
+            {
+              "message": "=Design agentic workflow blueprint in strict JSON: {agents[], tools[], memory_model, handoffs[], guardrails[], monitoring_metrics[]}. Goal: {{$json.business_goal}} Constraints: {{$json.constraints}}"
+            }
+          ]
+        }
+      },
+      "id": "enrich",
+      "name": "Enrichment - Agent Blueprint",
+      "type": "n8n-nodes-base.openAi",
+      "typeVersion": 1,
+      "position": [
+        700,
+        260
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "credentials": {
+        "openAiApi": {
+          "id": "env-openai",
+          "name": "OPENAI_API_KEY via {{$env.OPENAI_API_KEY}}"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"execution_plan\":$json,\"artifacts\":[\"workflow_json_spec\",\"ops_checklist\",\"sla_grid\"]}"
+      },
+      "id": "generate",
+      "name": "Content Generation - Build Spec",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [
+        940,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "chat",
+        "model": "gpt-4.1-mini",
+        "messages": {
+          "messageValues": [
+            {
+              "message": "=Score this workflow output for SEO/AEO around keyword agentic workflow automation. Return strict JSON {seo_score, aeo_score, growth_projection, improvements[]}. Payload: {$json}"
+            }
+          ]
+        }
+      },
+      "id": "scoring",
+      "name": "Scoring - SEO/AEO/Growth",
+      "type": "n8n-nodes-base.openAi",
+      "typeVersion": 1,
+      "position": [
+        1180,
+        260
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "credentials": {
+        "openAiApi": {
+          "id": "env-openai",
+          "name": "OPENAI_API_KEY via {{$env.OPENAI_API_KEY}}"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "url": "={{$env.SLACK_WEBHOOK_URL}}",
+        "method": "POST",
+        "jsonParameters": true,
+        "bodyParametersJson": "={\"text\":\"Agentic Workflow Builder Pro spec generated.\"}"
+      },
+      "id": "publish",
+      "name": "Publishing - Slack Notify",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [
+        1420,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"status\":\"ok\",\"workflow\":\"Agentic Workflow Builder Pro\",\"timestamp\":\"{$now}\",\"payload\":$json}"
+      },
+      "id": "logSuccess",
+      "name": "Logging - Success",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [
+        1660,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"status\":\"error\",\"workflow\":\"Agentic Workflow Builder Pro\",\"timestamp\":\"{$now}\",\"payload\":$json}"
+      },
+      "id": "logError",
+      "name": "Logging - Error",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [
+        1180,
+        420
+      ]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [
+        [
+          {
+            "node": "Intake - Input",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Intake - Input": {
+      "main": [
+        [
+          {
+            "node": "Enrichment - Agent Blueprint",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Enrichment - Agent Blueprint": {
+      "main": [
+        [
+          {
+            "node": "Content Generation - Build Spec",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Content Generation - Build Spec": {
+      "main": [
+        [
+          {
+            "node": "Scoring - SEO/AEO/Growth",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Scoring - SEO/AEO/Growth": {
+      "main": [
+        [
+          {
+            "node": "Publishing - Slack Notify",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Publishing - Slack Notify": {
+      "main": [
+        [
+          {
+            "node": "Logging - Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "pinData": {},
+  "meta": {
+    "templateType": "premium",
+    "keywordCoverage": [
+      "agentic workflow automation"
+    ],
+    "trendPulseStageOrder": [
+      "intake",
+      "enrichment",
+      "scoring",
+      "content_generation",
+      "publishing",
+      "logging"
+    ],
+    "envNotes": [
+      "OPENAI_API_KEY",
+      "SLACK_WEBHOOK_URL"
+    ]
+  }
+}

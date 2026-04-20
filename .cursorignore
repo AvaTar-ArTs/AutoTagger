@@ -30,9 +30,7 @@ v6-workspace/
 # v3-dev/
 # v4-workspace/
 
-# Optional — when n8n JSON dirs symlink to /Users/steven/n8n_workflows, uncomment
-# to index only tracked n8n markdown in this repo:
-# n8n_workflows/free
-# n8n_workflows/premium
-# n8n_workflows/workflows
-# n8n_workflows/imports
+# Optional — if n8n_workflows grows very large and you want Cursor to skip JSON here,
+# uncomment (normally keep indexed; trees are real copies in git):
+# n8n_workflows/premium/
+# n8n_workflows/workflows/

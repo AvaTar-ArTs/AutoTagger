@@ -1,0 +1,243 @@
+{
+  "name": "Trend Pulse - Local LLM Assistant Pro",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manualTrigger",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        220,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "name": "user_query",
+              "value": "Summarize this week's workflow failures and fixes."
+            },
+            {
+              "name": "local_model",
+              "value": "llama3.2:latest"
+            },
+            {
+              "name": "workspace_scope",
+              "value": "ops"
+            },
+            {
+              "name": "tier",
+              "value": "premium"
+            }
+          ]
+        }
+      },
+      "id": "intake",
+      "name": "Intake - Local LLM Query",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [
+        460,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "url": "http://localhost:11434/api/embeddings",
+        "method": "POST",
+        "jsonParameters": true,
+        "bodyParametersJson": "={\"model\":\"nomic-embed-text\",\"prompt\":\"{{$json.user_query}}\"}"
+      },
+      "id": "embed",
+      "name": "Enrichment - Local Embeddings",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [
+        700,
+        260
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000
+    },
+    {
+      "parameters": {
+        "url": "http://localhost:11434/api/generate",
+        "method": "POST",
+        "jsonParameters": true,
+        "bodyParametersJson": "={\"model\":\"{{$json.local_model}}\",\"prompt\":\"Answer as a private ops assistant. Query: {{$json.user_query}}\",\"stream\":false}"
+      },
+      "id": "generate",
+      "name": "Content Generation - Local Model Response",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [
+        940,
+        260
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2500
+    },
+    {
+      "parameters": {
+        "operation": "chat",
+        "model": "gpt-4.1-mini",
+        "messages": {
+          "messageValues": [
+            {
+              "message": "=Evaluate this local-LLM output for SEO/AEO visibility around keyword local llm. Return strict JSON {seo_score, aeo_score, growth_projection, improvements[]}. Output: {{$json.response || $json}}"
+            }
+          ]
+        }
+      },
+      "id": "scoring",
+      "name": "Scoring - SEO/AEO/Growth",
+      "type": "n8n-nodes-base.openAi",
+      "typeVersion": 1,
+      "position": [
+        1180,
+        260
+      ],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "credentials": {
+        "openAiApi": {
+          "id": "env-openai",
+          "name": "OPENAI_API_KEY via {{$env.OPENAI_API_KEY}}"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"channel\":\"private_ops\",\"tier\":\"premium\",\"assistant_output\":$json,\"exports\":[\"json\",\"markdown\"]}"
+      },
+      "id": "exports",
+      "name": "Publish/Export Payload",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [
+        1420,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"status\":\"ok\",\"workflow\":\"Local LLM Assistant Pro\",\"timestamp\":\"{{$now}}\"}"
+      },
+      "id": "logSuccess",
+      "name": "Logging - Success",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [
+        1660,
+        260
+      ]
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"status\":\"error\",\"workflow\":\"Local LLM Assistant Pro\",\"timestamp\":\"{{$now}}\",\"payload\":$json}"
+      },
+      "id": "logError",
+      "name": "Logging - Error",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [
+        1180,
+        420
+      ]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [
+        [
+          {
+            "node": "Intake - Local LLM Query",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Intake - Local LLM Query": {
+      "main": [
+        [
+          {
+            "node": "Enrichment - Local Embeddings",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Enrichment - Local Embeddings": {
+      "main": [
+        [
+          {
+            "node": "Content Generation - Local Model Response",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Content Generation - Local Model Response": {
+      "main": [
+        [
+          {
+            "node": "Scoring - SEO/AEO/Growth",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Scoring - SEO/AEO/Growth": {
+      "main": [
+        [
+          {
+            "node": "Publish/Export Payload",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Publish/Export Payload": {
+      "main": [
+        [
+          {
+            "node": "Logging - Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "pinData": {},
+  "meta": {
+    "templateType": "premium",
+    "keywordCoverage": [
+      "local llm"
+    ],
+    "trendPulseStageOrder": [
+      "intake",
+      "enrichment",
+      "scoring",
+      "content_generation",
+      "exports",
+      "logging"
+    ]
+  }
+}

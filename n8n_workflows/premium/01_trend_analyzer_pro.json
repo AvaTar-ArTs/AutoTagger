@@ -1,0 +1,140 @@
+{
+  "name": "Trend Pulse - Trend Analyzer Pro",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manualTrigger",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [220, 260]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            { "name": "seed_topic", "value": "ai note taking" },
+            { "name": "region", "value": "global" },
+            { "name": "tier", "value": "premium" }
+          ]
+        }
+      },
+      "id": "intakeSet",
+      "name": "Intake - Pro Input",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [460, 260]
+    },
+    {
+      "parameters": {
+        "operation": "chat",
+        "model": "gpt-4.1-mini",
+        "messages": {
+          "messageValues": [
+            {
+              "message": "=Generate 10 high-intent keyword candidates for seed topic {{$json.seed_topic}} in {{$json.region}}. Include variants and user intent tags. Return strict JSON array."
+            }
+          ]
+        }
+      },
+      "id": "keywordExpansion",
+      "name": "Enrichment - Keyword Expansion",
+      "type": "n8n-nodes-base.openAi",
+      "typeVersion": 1,
+      "position": [700, 260],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "credentials": {
+        "openAiApi": {
+          "id": "env-openai",
+          "name": "OPENAI_API_KEY via {{$env.OPENAI_API_KEY}}"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "chat",
+        "model": "gpt-4.1-mini",
+        "messages": {
+          "messageValues": [
+            {
+              "message": "=For expanded keyword list in previous step, score each keyword for SEO (0-100), AEO (0-100), growth projection range, and n8n use-case mapping. Mark covered vs planned. Return strict JSON table."
+            }
+          ]
+        }
+      },
+      "id": "scoringNode",
+      "name": "Scoring - SEO/AEO/Growth",
+      "type": "n8n-nodes-base.openAi",
+      "typeVersion": 1,
+      "position": [940, 260],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "credentials": {
+        "openAiApi": {
+          "id": "env-openai",
+          "name": "OPENAI_API_KEY via {{$env.OPENAI_API_KEY}}"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"seed_topic\": $json.seed_topic, \"tier\": \"premium\", \"trend_pulse_report\": $json, \"exports\": [\"markdown\", \"csv\", \"json\"], \"next_action\": \"Send to content + workflow generation pipelines\"}"
+      },
+      "id": "contentGen",
+      "name": "Content Generation - Report Payload",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [1180, 260]
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"status\":\"ok\",\"workflow\":\"Trend Analyzer Pro\",\"timestamp\":\"{{$now}}\",\"seed_topic\":$json.seed_topic}"
+      },
+      "id": "logSuccess",
+      "name": "Logging - Success",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [1420, 260]
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"status\":\"error\",\"workflow\":\"Trend Analyzer Pro\",\"timestamp\":\"{{$now}}\",\"error_payload\":$json}"
+      },
+      "id": "logError",
+      "name": "Logging - Error",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [1180, 430]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [[{ "node": "Intake - Pro Input", "type": "main", "index": 0 }]]
+    },
+    "Intake - Pro Input": {
+      "main": [[{ "node": "Enrichment - Keyword Expansion", "type": "main", "index": 0 }]]
+    },
+    "Enrichment - Keyword Expansion": {
+      "main": [[{ "node": "Scoring - SEO/AEO/Growth", "type": "main", "index": 0 }]]
+    },
+    "Scoring - SEO/AEO/Growth": {
+      "main": [[{ "node": "Content Generation - Report Payload", "type": "main", "index": 0 }]]
+    },
+    "Content Generation - Report Payload": {
+      "main": [[{ "node": "Logging - Success", "type": "main", "index": 0 }]]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "pinData": {},
+  "meta": {
+    "templateType": "premium",
+    "trendPulseStageOrder": ["intake", "enrichment", "scoring", "content_generation", "exports", "logging"]
+  }
+}

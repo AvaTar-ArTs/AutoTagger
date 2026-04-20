@@ -1,16 +1,19 @@
-# Canonical n8n library home
+# n8n library locations
 
-The **full JSON + package trees** for this library live at:
+## In this repo (AutoTagger)
 
-`/Users/steven/n8n_workflows`
+**`AutoTagger/n8n_workflows/`** holds a **full real copy** of:
 
-That folder holds `free/`, `premium/`, `workflows/`, `imports/`, and keeps `docs/` in sync with this mirror when you update either side.
+- `free/`, `premium/`, `workflows/`, `imports/`
+- `docs/v2`, `docs/v3`
+- library markdown (`README.md`, `CHANGELOG.md`, etc.)
+
+This is what `git clone` of AutoTagger delivers for n8n templates—**no symlinks**.
+
+## Standalone repo (optional second checkout)
+
+You may also use **`/Users/steven/n8n_workflows`** as a separate git repo (`AvaTar-ArTs/n8n_workflows`) for focused work. Treat it as a sibling copy, not a link target: **merge changes via git or `rsync`**, then commit where you want history to live.
 
 ## Cursor
 
-- Open **`/Users/steven/n8n_workflows`** as its own workspace when you want every workflow JSON indexed without the rest of AutoTagger.
-- That path includes **`.cursorignore`** for lightweight indexing.
-
-## Git in AutoTagger
-
-This repository tracks **`n8n_workflows` markdown and top-level library docs**; heavy JSON dirs may be symlinked to the canonical home. See `LOCAL_BASE_NOTE.md` in this folder.
+- For **only** n8n: open `/Users/steven/n8n_workflows` as its own workspace, or work inside `AutoTagger/n8n_workflows/` here.

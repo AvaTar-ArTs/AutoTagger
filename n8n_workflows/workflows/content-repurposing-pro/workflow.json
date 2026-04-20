@@ -1,0 +1,144 @@
+{
+  "name": "Trend Pulse - Content Repurposing Pro",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "manualTrigger",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [220, 260]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            { "name": "source_content", "value": "Long-form transcript or article body goes here." },
+            { "name": "brand_voice", "value": "direct, pragmatic, trend-driven" },
+            { "name": "channels", "value": "linkedin,tiktok,youtube_short,x_thread,newsletter" },
+            { "name": "tier", "value": "premium" }
+          ]
+        }
+      },
+      "id": "intake",
+      "name": "Intake - Source Content",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [460, 260]
+    },
+    {
+      "parameters": {
+        "operation": "chat",
+        "model": "gpt-4.1-mini",
+        "messages": {
+          "messageValues": [
+            {
+              "message": "=Analyze source content and return strict JSON: themes[], hooks[], entities[], keyword_targets[], and opportunity_score(0-100). Source: {{$json.source_content}}"
+            }
+          ]
+        }
+      },
+      "id": "enrichment",
+      "name": "Enrichment - Topic/Hook Extraction",
+      "type": "n8n-nodes-base.openAi",
+      "typeVersion": 1,
+      "position": [700, 260],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "credentials": {
+        "openAiApi": {
+          "id": "env-openai",
+          "name": "OPENAI_API_KEY via {{$env.OPENAI_API_KEY}}"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "chat",
+        "model": "gpt-4.1-mini",
+        "messages": {
+          "messageValues": [
+            {
+              "message": "=Using extracted hooks and keyword targets, produce channel outputs in strict JSON object with keys: linkedin_post, tiktok_script, youtube_short_script, x_thread, newsletter_summary. Include SEO and AEO hints per channel."
+            }
+          ]
+        }
+      },
+      "id": "generation",
+      "name": "Content Generation - Multi-channel",
+      "type": "n8n-nodes-base.openAi",
+      "typeVersion": 1,
+      "position": [940, 260],
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "credentials": {
+        "openAiApi": {
+          "id": "env-openai",
+          "name": "OPENAI_API_KEY via {{$env.OPENAI_API_KEY}}"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"tier\":\"premium\",\"repurposed_assets\":$json,\"export_targets\":[\"notion\",\"slack\",\"api\"]}"
+      },
+      "id": "exports",
+      "name": "Publish/Export Payload",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [1180, 260]
+    },
+    {
+      "parameters": {
+        "url": "={{$env.SLACK_WEBHOOK_URL}}",
+        "method": "POST",
+        "jsonParameters": true,
+        "bodyParametersJson": "={\"text\":\"Content Repurposing Pro completed. Assets prepared for channels: {{$json.channels || 'multi'}}\"}"
+      },
+      "id": "slackNotify",
+      "name": "Publishing - Slack Notify",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [1420, 260]
+    },
+    {
+      "parameters": {
+        "mode": "jsonOutput",
+        "jsonOutput": "={\"status\":\"error\",\"workflow\":\"Content Repurposing Pro\",\"timestamp\":\"{{$now}}\",\"payload\":$json}"
+      },
+      "id": "errorLog",
+      "name": "Logging - Error",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 2,
+      "position": [1180, 420]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [[{ "node": "Intake - Source Content", "type": "main", "index": 0 }]]
+    },
+    "Intake - Source Content": {
+      "main": [[{ "node": "Enrichment - Topic/Hook Extraction", "type": "main", "index": 0 }]]
+    },
+    "Enrichment - Topic/Hook Extraction": {
+      "main": [[{ "node": "Content Generation - Multi-channel", "type": "main", "index": 0 }]]
+    },
+    "Content Generation - Multi-channel": {
+      "main": [[{ "node": "Publish/Export Payload", "type": "main", "index": 0 }]]
+    },
+    "Publish/Export Payload": {
+      "main": [[{ "node": "Publishing - Slack Notify", "type": "main", "index": 0 }]]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "pinData": {},
+  "meta": {
+    "templateType": "premium",
+    "keywordCoverage": ["content repurposing", "tiktok ai", "faceless youtube"],
+    "trendPulseStageOrder": ["intake", "enrichment", "scoring", "content_generation", "publishing", "logging"]
+  }
+}
