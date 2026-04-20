@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Operator — Playbooks V2</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Syne:wght@500;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#0c0f12; --card:#121820; --line:#2a3340; --text:#e8edf2; --muted:#93a1b5; --mint:#5eead4; --sun:#fbbf24; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family:"Syne",system-ui,sans-serif; background:var(--bg); color:var(--text); line-height:1.55; }
+    a { color: var(--mint); text-underline-offset: 3px; }
+    a:focus-visible { outline: 2px solid var(--sun); outline-offset: 2px; }
+    header { padding: 2rem 1.25rem 1rem; max-width: 760px; margin: 0 auto; border-bottom: 1px solid var(--line); }
+    nav { max-width:760px; margin:0 auto; padding:0.75rem 1.25rem; font-family:"JetBrains Mono",monospace; font-size:0.78rem; }
+    main { max-width:760px; margin:0 auto; padding:1.5rem 1.25rem 3rem; }
+    h1 { font-size:1.75rem; margin:0 0 0.5rem; }
+    .sub { color:var(--muted); margin:0 0 1.5rem; font-size:0.95rem; }
+    section { margin-bottom: 2rem; }
+    h2 { font-size:0.8rem; letter-spacing:0.14em; text-transform:uppercase; color:var(--sun); margin:0 0 0.75rem; }
+    pre { font-family:"JetBrains Mono",monospace; font-size:0.8rem; background:var(--card); border:1px solid var(--line); padding:1rem; border-radius:12px; overflow:auto; }
+    .callout { border-left: 3px solid var(--mint); padding-left: 1rem; color: var(--muted); font-size: 0.92rem; }
+    .badge { display:inline-block; font-family:"JetBrains Mono",monospace; font-size:0.7rem; padding:0.2rem 0.45rem; border-radius:6px; background:#1e2630; border:1px solid var(--line); color:var(--sun); }
+  </style>
+</head>
+<body>
+  <header>
+    <p><span class="badge">V2 · Operator</span></p>
+    <h1>Runbook deck</h1>
+    <p class="sub">Commands below mirror <a href="../../docs/v2/operator.md">docs/v2/operator.md</a>. If they diverge, the markdown file wins.</p>
+  </header>
+  <nav aria-label="Breadcrumb"><a href="index.html">V2 hub</a> / Operator</nav>
+  <main>
+    <section>
+      <h2>Decision fork</h2>
+      <p class="callout">First run ever? Start with setup. Recurring run? Jump to execute. Something broke? Open truth FAQ.</p>
+    </section>
+    <section>
+      <h2>Setup</h2>
+      <pre><code>cd /path/to/AutoTagger/v5-workspace
+./setup_autotag.sh</code></pre>
+    </section>
+    <section>
+      <h2>Execute</h2>
+      <p style="color:var(--muted);font-size:0.9rem;">Scan the workspace itself (no args):</p>
+      <pre><code>./autotag.sh</code></pre>
+      <p style="color:var(--muted);font-size:0.9rem;">Scan a target tree:</p>
+      <pre><code>./autotag.sh /path/to/target [optional_output_name] [--no-open]</code></pre>
+    </section>
+    <section>
+      <h2>Verify</h2>
+      <pre><code>./verify_installation.sh</code></pre>
+    </section>
+    <section>
+      <h2>Truth links</h2>
+      <ul style="color:var(--muted);font-family:'JetBrains Mono',monospace;font-size:0.82rem;">
+        <li><a href="../../docs/v2/faq-troubleshooting.md">faq-troubleshooting.md</a></li>
+        <li><a href="../../docs/v2/uses-library.md">uses-library.md</a></li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Uses catalog — Playbooks V2</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Syne:wght@500;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#0c0f12; --line:#2a3340; --text:#e8edf2; --muted:#8b98a8; --mint:#5eead4; --sun:#fbbf24; --card:#121820; }
+    body { margin:0; font-family:"Syne",sans-serif; background:var(--bg); color:var(--text); line-height:1.45; }
+    a { color: var(--mint); }
+    a:focus-visible { outline: 2px solid var(--sun); outline-offset: 2px; }
+    header { padding:2rem 1.25rem 1rem; max-width:900px; margin:0 auto; }
+    nav { max-width:900px; margin:0 auto; padding:0 1.25rem 1rem; font-family:"JetBrains Mono",monospace; font-size:0.75rem; }
+    main { max-width:900px; margin:0 auto; padding:0 1.25rem 3rem; display:grid; gap:1rem; grid-template-columns: repeat(auto-fit, minmax(240px,1fr)); }
+    article { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:1rem 1.1rem; transition: border-color .15s ease, transform .15s ease; }
+    article:hover { border-color:#3d4d62; transform: translateY(-2px); }
+    article h2 { margin:0 0 0.35rem; font-size:1rem; }
+    .id { font-family:"JetBrains Mono",monospace; font-size:0.7rem; color:var(--sun); letter-spacing:0.06em; }
+    p { margin:0; color:var(--muted); font-size:0.88rem; }
+    footer { max-width:900px; margin:0 auto; padding:0 1.25rem 2rem; font-size:0.8rem; color:var(--muted); font-family:"JetBrains Mono",monospace; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 style="margin:0 0 0.35rem;">Uses catalog</h1>
+    <p style="margin:0;color:var(--muted);max-width:60ch;">Cards are narrative shorthand. Full patterns: <a href="../../docs/v2/uses-library.md">docs/v2/uses-library.md</a>.</p>
+  </header>
+  <nav aria-label="Breadcrumb"><a href="index.html">V2 hub</a> / Uses</nav>
+  <main>
+    <article><p class="id">U1</p><h2>Inventory storm</h2><p>Catalog unknown automation sprawl; output is evidence wall for stakeholders.</p></article>
+    <article><p class="id">U2</p><h2>Value triage</h2><p>Two scans, diff business value columns, decide keep/merge/retire.</p></article>
+    <article><p class="id">U3</p><h2>Lead magnet</h2><p>Sanitized tree + playbook PDF export as digital product.</p></article>
+    <article><p class="id">U4</p><h2>Hygiene cron</h2><p>n8n/CI wraps <code>autotag.sh</code>; timestamped folders for audit.</p></article>
+    <article><p class="id">U5</p><h2>Knowledge ingest</h2><p>CSV keys into Notion rows; path as stable join key.</p></article>
+  </main>
+  <footer>V3 sibling: <a href="../v3/uses-wunderkammer.html">Annex Wunderkammer</a></footer>
+</body>
+</html>

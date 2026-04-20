@@ -1,7 +1,7 @@
 # AutoTagger V2 Documentation + Playbooks Design
 
 Date: 2026-04-20  
-Status: Draft for user approval  
+Status: Implemented baseline (V2 truth + V2/V3 playbooks + hub links); iterate in follow-up PRs  
 Scope: V2 documentation system for `v5-workspace` across markdown truth docs and creative HTML playbooks
 
 ## 1) Goal

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AutoTag V5 — Annex V3</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;1,9..144,500&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --paper: #ebe4d8;
+      --ink: #1c1915;
+      --fog: #5c564c;
+      --oxide: #a63b24;
+      --wax: #d9c9a8;
+      --shadow: rgba(28, 25, 21, 0.12);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Fraunces", Georgia, serif;
+      background: var(--paper);
+      color: var(--ink);
+      min-height: 100vh;
+      background-image:
+        radial-gradient(ellipse at 20% 0%, #f5efe6 0%, transparent 50%),
+        linear-gradient(180deg, transparent 0%, rgba(166, 59, 36, 0.04) 100%);
+    }
+    a { color: var(--oxide); font-weight: 600; text-underline-offset: 3px; }
+    a:focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; }
+    .wrap { max-width: 880px; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+    .masthead {
+      border: 2px solid var(--ink);
+      padding: 1.5rem 1.25rem;
+      position: relative;
+      box-shadow: 8px 8px 0 var(--shadow);
+      background: #f7f2ea;
+    }
+    .stamp {
+      position: absolute;
+      top: 1rem; right: 1rem;
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      border: 2px dashed var(--oxide);
+      color: var(--oxide);
+      padding: 0.35rem 0.5rem;
+      transform: rotate(-6deg);
+    }
+    h1 { font-size: clamp(1.85rem, 4vw, 2.4rem); margin: 0 0 0.5rem; font-weight: 700; }
+    .lede { font-family: "IBM Plex Mono", monospace; font-size: 0.82rem; color: var(--fog); max-width: 52ch; line-height: 1.6; margin: 0 0 2rem; }
+    .specimen-grid {
+      display: grid;
+      gap: 1.25rem;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    }
+    .specimen {
+      background: #faf7f1;
+      border: 1px solid var(--wax);
+      padding: 1.15rem 1.2rem 1.25rem;
+      transform: rotate(-0.8deg);
+      box-shadow: 4px 5px 0 var(--shadow);
+    }
+    .specimen:nth-child(even) { transform: rotate(0.6deg); }
+    .catno { font-family: "IBM Plex Mono", monospace; font-size: 0.7rem; color: var(--oxide); letter-spacing: 0.12em; margin-bottom: 0.35rem; }
+    .specimen h2 { font-size: 1.15rem; margin: 0 0 0.4rem; }
+    .specimen p { margin: 0; font-size: 0.92rem; color: var(--fog); line-height: 1.45; }
+    .specimen a { font-family: "IBM Plex Mono", monospace; font-size: 0.78rem; display: inline-block; margin-top: 0.75rem; }
+    .ledger {
+      margin-top: 2.5rem;
+      border-top: 2px solid var(--ink);
+      padding-top: 1rem;
+      font-family: "IBM Plex Mono", monospace;
+      font-size: 0.78rem;
+      color: var(--fog);
+    }
+    footer { margin-top: 2rem; font-size: 0.78rem; color: var(--fog); font-family: "IBM Plex Mono", monospace; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="masthead">
+      <div class="stamp">Annex · V3</div>
+      <h1>Catalog of entrances</h1>
+      <p class="lede">This layer is intentionally eccentric: specimen cards, ledger tone, museum pacing. Commands still live in <a href="../../docs/v2/operator.md">docs/v2</a> — the annex never overrides truth.</p>
+    </header>
+    <main class="specimen-grid" style="margin-top:2rem;" aria-label="Annex specimens">
+      <article class="specimen">
+        <div class="catno">Specimen A · Operator</div>
+        <h2>Field notes</h2>
+        <p>Runbooks as labeled drawers: setup, execute, verify, recover.</p>
+        <a href="operator-annex.html">Open drawer →</a>
+      </article>
+      <article class="specimen">
+        <div class="catno">Specimen B · Builder</div>
+        <h2>Blueprints</h2>
+        <p>Contracts for CI, n8n, and extension without folklore.</p>
+        <a href="builder-annex.html">Unroll blueprint →</a>
+      </article>
+      <article class="specimen">
+        <div class="catno">Specimen C · Seller</div>
+        <h2>Offer vitrines</h2>
+        <p>Pricing ladders as display cases, not promises you cannot keep.</p>
+        <a href="seller-annex.html">View vitrine →</a>
+      </article>
+      <article class="specimen">
+        <div class="catno">Specimen D · Hybrid</div>
+        <h2>Demonstration wing</h2>
+        <p>One walk that proves value, then sells the next step.</p>
+        <a href="hybrid-annex.html">Enter wing →</a>
+      </article>
+      <article class="specimen">
+        <div class="catno">Specimen E · Wunderkammer</div>
+        <h2>Curiosities of use</h2>
+        <p>Use-case jars with trigger labels and risk insects pinned beside.</p>
+        <a href="uses-wunderkammer.html">Open cabinet →</a>
+      </article>
+    </main>
+    <div class="ledger">
+      REGISTERED TRUTH: <a href="../../docs/v3/00-annex.md">docs/v3/00-annex.md</a>
+      · MAP <a href="LINK_MAP.md">LINK_MAP.md</a>
+    </div>
+    <footer>
+      <a href="../v2/index.html">← V2 editorial hub</a>
+      ·
+      <a href="../index.html">V1 index</a>
+    </footer>
+  </div>
+</body>
+</html>

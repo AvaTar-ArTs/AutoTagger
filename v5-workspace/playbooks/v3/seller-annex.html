@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Annex — Seller vitrine</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --paper:#ebe4d8; --ink:#1c1915; --fog:#5c564c; --oxide:#a63b24; }
+    body { margin:0; background:var(--paper); color:var(--ink); font-family:"Fraunces",serif; }
+    a { color: var(--oxide); font-weight:600; }
+    a:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+    .wrap { max-width: 680px; margin:0 auto; padding:2rem 1.25rem 3rem; }
+    nav { font-family:"IBM Plex Mono",monospace; font-size:0.75rem; margin-bottom:1rem; }
+    .case { border:1px solid var(--ink); padding:1.1rem; margin:1rem 0; background:#faf7f1; position:relative; }
+    .case::before { content:""; position:absolute; inset:4px; border:1px solid rgba(166,59,36,0.25); pointer-events:none; }
+    h2 { font-size:1.05rem; margin:0 0 0.35rem; }
+    p { margin:0; color:var(--fog); font-size:0.9rem; line-height:1.5; font-family:"IBM Plex Mono",monospace; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <nav><a href="index.html">Annex</a> / Seller</nav>
+    <h1>Offer vitrines</h1>
+    <div class="case">
+      <h2>Case I — Evidence bundle</h2>
+      <p>CSV highlights + directory map screenshots + one paragraph of interpretation. Truth: <a href="../../docs/v2/seller.md">seller.md</a></p>
+    </div>
+    <div class="case">
+      <h2>Case II — Cadence subscription</h2>
+      <p>Weekly scan + diff of high-value rows. Scope honestly; no fake SLAs.</p>
+    </div>
+    <div class="case">
+      <h2>Case III — Workshop artifact</h2>
+      <p>Print-to-PDF from Annex pages; pair with live terminal for authority.</p>
+    </div>
+  </div>
+</body>
+</html>

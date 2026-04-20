@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Annex — Wunderkammer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,500;1,9..144,700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --paper:#e8e0d2; --ink:#1a1612; --muted:#6a6258; --rust:#8b3a2b; --glass: rgba(255,255,255,0.35); }
+    body { margin:0; background: var(--paper); color: var(--ink); font-family: "Fraunces", Georgia, serif; }
+    a { color: var(--rust); font-weight: 600; }
+    a:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+    .room { max-width: 920px; margin: 0 auto; padding: 2rem 1.25rem 3rem; }
+    nav { font-family: "IBM Plex Mono", monospace; font-size: 0.74rem; margin-bottom: 1.25rem; color: var(--muted); }
+    h1 { font-size: 2rem; font-style: italic; margin: 0 0 0.25rem; }
+    .sub { font-family:"IBM Plex Mono",monospace; font-size:0.78rem; color:var(--muted); margin:0 0 2rem; }
+    .cabinet { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; }
+    .jar {
+      position: relative;
+      border-radius: 40% 40% 45% 45% / 48% 48% 52% 52%;
+      background: linear-gradient(180deg, var(--glass) 0%, transparent 40%), #f3ece2;
+      border: 1px solid rgba(26,22,18,0.35);
+      padding: 1.35rem 1rem 1.5rem;
+      min-height: 160px;
+      box-shadow: inset 0 -12px 20px rgba(26,22,18,0.06), 0 10px 24px rgba(26,22,18,0.08);
+    }
+    .jar:nth-child(3n) { border-radius: 42% 38% 48% 42% / 50% 46% 54% 50%; }
+    .jar h2 { font-size: 1rem; margin: 0 0 0.35rem; font-style: italic; }
+    .jar p { margin: 0; font-family: "IBM Plex Mono", monospace; font-size: 0.72rem; color: var(--muted); line-height: 1.5; }
+    .pin {
+      position: absolute; top: 0.5rem; right: 0.65rem;
+      width: 10px; height: 10px; border-radius: 50%;
+      background: var(--rust);
+      box-shadow: 0 0 0 2px #f3ece2;
+    }
+    .footer-note { margin-top: 2rem; font-family:"IBM Plex Mono",monospace; font-size:0.72rem; color:var(--muted); }
+  </style>
+</head>
+<body>
+  <div class="room">
+    <nav><a href="index.html">Annex</a> / Wunderkammer</nav>
+    <h1>Curiosities of use</h1>
+    <p class="sub">Each jar is a metaphorical compression of a pattern in <a href="../../docs/v2/uses-library.md">uses-library.md</a>. Open the jar, then open the doc.</p>
+    <div class="cabinet" aria-label="Use case specimens">
+      <article class="jar"><span class="pin" aria-hidden="true"></span><h2>Jar I — Inventory leviathan</h2><p>Trigger: unknown sprawl. Risk: sensitive paths in exports.</p></article>
+      <article class="jar"><span class="pin" aria-hidden="true"></span><h2>Jar II — Value duel</h2><p>Trigger: two trees compete. Risk: over-trust in scores.</p></article>
+      <article class="jar"><span class="pin" aria-hidden="true"></span><h2>Jar III — Lead reliquary</h2><p>Trigger: marketing artifact. Risk: overclaiming precision.</p></article>
+      <article class="jar"><span class="pin" aria-hidden="true"></span><h2>Jar IV — Cron beetle</h2><p>Trigger: scheduled hygiene. Risk: long runs at peak hours.</p></article>
+      <article class="jar"><span class="pin" aria-hidden="true"></span><h2>Jar V — Notion symbiosis</h2><p>Trigger: knowledge ops. Risk: path drift after moves.</p></article>
+    </div>
+    <p class="footer-note">V2 catalog (less eccentric): <a href="../v2/uses-catalog-v2.html">uses-catalog-v2.html</a></p>
+  </div>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Builder — Playbooks V2</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Syne:wght@500;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#0c0f12; --card:#121820; --line:#2a3340; --text:#e8edf2; --muted:#93a1b5; --mint:#5eead4; --sun:#fbbf24; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family:"Syne",sans-serif; background:var(--bg); color:var(--text); line-height:1.55; }
+    a { color: var(--mint); }
+    a:focus-visible { outline: 2px solid var(--sun); outline-offset: 2px; }
+    header { padding:2rem 1.25rem 1rem; max-width:760px; margin:0 auto; border-bottom:1px solid var(--line); }
+    nav { max-width:760px; margin:0 auto; padding:0.75rem 1.25rem; font-family:"JetBrains Mono",monospace; font-size:0.78rem; }
+    main { max-width:760px; margin:0 auto; padding:1.5rem 1.25rem 3rem; }
+    h1 { font-size:1.65rem; margin:0 0 0.5rem; }
+    .sub { color:var(--muted); margin:0 0 1.25rem; }
+    h2 { font-size:0.78rem; letter-spacing:0.14em; text-transform:uppercase; color:var(--sun); margin:2rem 0 0.5rem; }
+    table { width:100%; border-collapse:collapse; font-family:"JetBrains Mono",monospace; font-size:0.78rem; }
+    th, td { border:1px solid var(--line); padding:0.5rem 0.6rem; text-align:left; }
+    th { background:var(--card); color:var(--mint); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Builder deck</h1>
+    <p class="sub">Integration map. Canonical detail: <a href="../../docs/v2/builder.md">docs/v2/builder.md</a></p>
+  </header>
+  <nav aria-label="Breadcrumb"><a href="index.html">V2 hub</a> / Builder</nav>
+  <main>
+    <h2>Core paths</h2>
+    <table>
+      <thead><tr><th>Path</th><th>Role</th></tr></thead>
+      <tbody>
+        <tr><td><code>scripts/autotag_main.py</code></td><td>Orchestration entry</td></tr>
+        <tr><td><code>config/autotag_config.json</code></td><td>Portable path config</td></tr>
+        <tr><td><code>data/</code></td><td>Local datasets / DB</td></tr>
+        <tr><td><code>output/</code></td><td>Run artifacts</td></tr>
+      </tbody>
+    </table>
+    <h2>Contract</h2>
+    <p style="color:var(--muted);font-size:0.92rem;">Wrap <code>./autotag.sh</code> from n8n or CI; never embed secrets in repo. Exit codes should surface failures upstream.</p>
+  </main>
+</body>
+</html>

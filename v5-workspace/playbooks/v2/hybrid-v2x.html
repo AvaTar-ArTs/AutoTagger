@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hybrid — Playbooks V2</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Syne:wght@500;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#0c0f12; --line:#2a3340; --text:#e8edf2; --muted:#93a1b5; --mint:#5eead4; --sun:#fbbf24; }
+    body { margin:0; font-family:"Syne",sans-serif; background:var(--bg); color:var(--text); }
+    a { color: var(--mint); }
+    a:focus-visible { outline: 2px solid var(--sun); outline-offset: 2px; }
+    header { padding:2rem 1.25rem; max-width:760px; margin:0 auto; }
+    nav { max-width:760px; margin:0 auto; padding:0 1.25rem; font-family:"JetBrains Mono",monospace; font-size:0.78rem; }
+    main { max-width:760px; margin:0 auto; padding:1rem 1.25rem 3rem; }
+    .flow { display:flex; flex-wrap:wrap; gap:0.75rem; margin-top:1rem; }
+    .step { flex:1 1 200px; border:1px solid var(--line); border-radius:12px; padding:1rem; background:#121820; }
+    .step strong { color:var(--sun); font-size:0.72rem; letter-spacing:0.08em; text-transform:uppercase; }
+    p { color:var(--muted); line-height:1.5; font-size:0.92rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 style="margin:0 0 0.5rem;">Hybrid deck</h1>
+    <p style="margin:0;color:var(--muted);max-width:50ch;">One arc for demos: prove the run, then show the revenue path. Truth spine: <a href="../../docs/v2/00-start-here.md">00-start-here.md</a> + <a href="../../docs/v2/uses-library.md">uses-library.md</a>.</p>
+  </header>
+  <nav aria-label="Breadcrumb"><a href="index.html">V2 hub</a> / Hybrid</nav>
+  <main>
+    <div class="flow" role="list">
+      <div class="step" role="listitem"><strong>01</strong><p>Live command: <code>./autotag.sh</code> on a safe directory.</p></div>
+      <div class="step" role="listitem"><strong>02</strong><p>Open CSV; narrate columns that matter to buyers.</p></div>
+      <div class="step" role="listitem"><strong>03</strong><p>Map to an offer from seller truth doc.</p></div>
+      <div class="step" role="listitem"><strong>04</strong><p>Hand off checklist + FAQ links.</p></div>
+    </div>
+  </main>
+</body>
+</html>
