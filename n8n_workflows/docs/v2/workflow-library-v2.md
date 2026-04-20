@@ -30,3 +30,5 @@ Each folder: `workflow.json`, `README.md`, `.env.example`.
 Slugs: `trend-analyzer-free`, `trend-analyzer-pro`, `ai-note-taker-pro`, `content-repurposing-pro`, `ai-voice-generator-pro`, `local-llm-assistant-pro`, `private-gpt-rag-pro`, `ai-video-generator-pro`, `faceless-youtube-automation-pro`, `tiktok-ai-generator-pro`, `aeo-optimizer-pro`, `agentic-workflow-builder-pro`, `multimodal-pipeline-pro`.
 
 See `workflows/WORKFLOWS_INDEX.md`.
+
+**Examples:** narrative scenarios and sample inputs for every slug live in [`product-scenarios.md`](./product-scenarios.md). Sales-style one-pagers live under AutoTagger at `v5-workspace/playbooks/products/` (open `index.html` in a browser).

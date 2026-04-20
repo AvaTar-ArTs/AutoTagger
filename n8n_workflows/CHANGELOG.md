@@ -1,5 +1,15 @@
 # Changelog — n8n_workflows (Trend Pulse library)
 
+## 2026-04-20 — Product scenarios (examples)
+
+### Added
+
+- `docs/v2/product-scenarios.md` — per-workflow example narratives and sample inputs (anchors match workflow slugs).
+
+### Changed
+
+- `docs/v2/00-start-here.md`, `workflow-library-v2.md` — link to product scenarios and V5 HTML product hub.
+
 ## 2026-04-20 — Real trees in AutoTagger + session export
 
 ### Added

@@ -14,9 +14,11 @@ This is the **V2 operator index** for the workflow pack. The same tree ships ins
 | [env-vars-matrix.md](./env-vars-matrix.md) | One table of env keys → workflows |
 | [trend-pulse-pattern.md](./trend-pulse-pattern.md) | Required node chain and QA |
 | [workflow-library-v2.md](./workflow-library-v2.md) | Full inventory `01`–`12` + free + packages |
+| [product-scenarios.md](./product-scenarios.md) | Example narratives + sample inputs per workflow |
 | [link-map-v2.md](./link-map-v2.md) | Keyword research row → workflow file |
 
 ## Related (AutoTagger repo)
 
 - Product / operator narrative: `v5-workspace/playbooks/v2/` and `v5-workspace/playbooks/v3/`
+- **HTML product pages (one per workflow):** `../../../v5-workspace/playbooks/products/index.html`
 - AutoTag runbooks: `v5-workspace/docs/v2/`

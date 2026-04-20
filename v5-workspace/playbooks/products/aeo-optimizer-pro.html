@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AEO Optimizer Pro — Trend Pulse</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Syne:wght@500;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#0c0f12; --line:#2a3340; --text:#e8edf2; --muted:#8b98a8; --mint:#5eead4; --sun:#fbbf24; --card:#121820; --accent2:#fb7185; }
+    body { margin:0; font-family:"Syne",sans-serif; background:var(--bg); color:var(--text); line-height:1.5; }
+    a { color: var(--mint); text-underline-offset: 3px; }
+    a:focus-visible { outline: 2px solid var(--sun); outline-offset: 3px; }
+    header { padding:2rem 1.25rem 1rem; max-width:900px; margin:0 auto; }
+    nav { max-width:900px; margin:0 auto; padding:0 1.25rem 1rem; font-family:"JetBrains Mono",monospace; font-size:0.72rem; color:var(--muted); }
+    main { max-width:900px; margin:0 auto; padding:0 1.25rem 3rem; }
+    .tier { font-size:0.7rem; letter-spacing:0.12em; text-transform:uppercase; color:var(--sun); margin:0 0 0.35rem; }
+    h1 { margin:0 0 0.5rem; font-size:1.65rem; }
+    .lead { color:var(--muted); margin:0 0 1.5rem; max-width:62ch; }
+    section { margin-bottom:1.75rem; border:1px solid var(--line); border-radius:14px; padding:1.1rem 1.2rem; background:var(--card); }
+    section h2 { margin:0 0 0.5rem; font-size:0.95rem; color:var(--mint); }
+    ul { margin:0.25rem 0 0; padding-left:1.1rem; color:var(--muted); font-size:0.9rem; }
+    .links { font-family:"JetBrains Mono",monospace; font-size:0.78rem; word-break:break-all; }
+    .links a { display:block; margin:0.35rem 0; }
+    .example { background:#0a1018; border-radius:10px; padding:0.85rem 1rem; margin-top:0.5rem; color:var(--text); font-size:0.9rem; }
+    footer { max-width:900px; margin:0 auto; padding:0 1.25rem 2rem; font-size:0.78rem; color:var(--muted); font-family:"JetBrains Mono",monospace; }
+  </style>
+</head>
+<body>
+  <header>
+    <p class="tier">Premium</p>
+    <h1>AEO Optimizer Pro</h1>
+    <p class="lead">Answer-engine readiness: entities, FAQs, and snippet targets from your page copy.</p>
+  </header>
+  <nav aria-label="Breadcrumb"><a href="index.html">Products</a> · <a href="../v2/index.html">V2 hub</a> · <a href="../index.html">Playbooks</a></nav>
+  <main>
+    <section>
+      <h2>Who it is for</h2>
+      <p class="lead" style="margin:0;">SEO/AEO specialists, editorial leads.</p>
+    </section>
+    <section>
+      <h2>IO contract (from package README)</h2>
+      <p class="lead" style="margin:0;"><strong>Inputs:</strong> page URL or HTML, target queries</p>
+      <p class="lead" style="margin:0.5rem 0 0;"><strong>Outputs:</strong> AEO patch list: headings, FAQ schema notes, internal link hints.</p>
+    </section>
+    <section>
+      <h2>Worked example</h2>
+      <p class="lead" style="margin:0;"><strong>Pillar refresh before launch</strong></p>
+      <div class="example">Paste a long guide; get prioritized answer blocks for Chat-style surfaces without rewriting everything blind.</div>
+      <p class="lead" style="margin:0.75rem 0 0;font-size:0.85rem;">Longer narrative + sample rows: <a href="../../../n8n_workflows/docs/v2/product-scenarios.md#aeo-optimizer-pro">product-scenarios.md#aeo-optimizer-pro</a></p>
+    </section>
+    <section>
+      <h2>Technical artifacts</h2>
+      <div class="links">
+        <a href="../../../n8n_workflows/workflows/aeo-optimizer-pro/README.md">Package README (markdown)</a>
+        <a href="../../../n8n_workflows/workflows/aeo-optimizer-pro/workflow.json">workflow.json</a>
+        <a href="../../../n8n_workflows/premium/10_aeo_optimizer_pro.json">Bundled JSON (premium/10_aeo_optimizer_pro.json)</a>
+      </div>
+      <p class="lead" style="margin:0.75rem 0 0;font-size:0.82rem;">Credentials: wire keys in n8n per README / <a href="../../docs/v2/import-and-credentials.md">import-and-credentials.md</a> (add <code>.env</code> or n8n credentials from your providers).</p>
+    </section>
+    <section>
+      <h2>Operator truth</h2>
+      <div class="links">
+        <a href="../../docs/v2/workflow-library-v2.md">workflow-library-v2.md</a>
+        <a href="../../docs/v2/import-and-credentials.md">import-and-credentials.md</a>
+        <a href="../../docs/v2/env-vars-matrix.md">env-vars-matrix.md</a>
+      </div>
+    </section>
+  </main>
+  <footer>Trend Pulse library · AutoTagger <code>n8n_workflows/</code></footer>
+</body>
+</html>

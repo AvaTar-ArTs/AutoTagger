@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trend Pulse — Product pages</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Syne:wght@500;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#0c0f12; --line:#2a3340; --text:#e8edf2; --muted:#8b98a8; --mint:#5eead4; --sun:#fbbf24; --card:#121820; }
+    body { margin:0; font-family:"Syne",sans-serif; background:var(--bg); color:var(--text); line-height:1.45; }
+    a { color: var(--mint); }
+    a:focus-visible { outline: 2px solid var(--sun); outline-offset: 3px; }
+    header { padding:2rem 1.25rem 1rem; max-width:960px; margin:0 auto; }
+    nav { max-width:960px; margin:0 auto; padding:0 1.25rem 1rem; font-family:"JetBrains Mono",monospace; font-size:0.75rem; color:var(--muted); }
+    main { max-width:960px; margin:0 auto; padding:0 1.25rem 3rem; display:grid; gap:1rem; grid-template-columns: repeat(auto-fit, minmax(260px,1fr)); }
+    article { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:1rem 1.1rem; transition: border-color .15s ease, transform .15s ease; }
+    article:hover { border-color:#3d4d62; transform: translateY(-2px); }
+    article h2 { margin:0 0 0.35rem; font-size:1rem; }
+    article h2 a { color: var(--text); text-decoration: none; }
+    article h2 a:hover { text-decoration: underline; text-decoration-color: var(--mint); }
+    .id { font-family:"JetBrains Mono",monospace; font-size:0.7rem; color:var(--sun); letter-spacing:0.06em; margin:0 0 0.35rem; }
+    p { margin:0; color:var(--muted); font-size:0.88rem; }
+    footer { max-width:960px; margin:0 auto; padding:0 1.25rem 2rem; font-size:0.8rem; color:var(--muted); font-family:"JetBrains Mono",monospace; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 style="margin:0 0 0.35rem;">Trend Pulse product pages</h1>
+    <p style="margin:0;color:var(--muted);max-width:62ch;">Sales-ready one-pagers plus deep links into the self-contained n8n packages and V2 operator docs. Open locally or via any static server.</p>
+  </header>
+  <nav aria-label="Breadcrumb"><a href="../v2/index.html">V2 hub</a> / <a href="../index.html">Playbooks</a> / Products</nav>
+  <main>
+    <article>
+      <p class="id">Free</p>
+      <h2><a href="trend-analyzer-free.html">Trend Analyzer Free</a></h2>
+      <p>Lead-gen snapshot: one keyword row with SEO/AEO framing and a clean upgrade path.</p>
+    </article>
+    <article>
+      <p class="id">Premium</p>
+      <h2><a href="trend-analyzer-pro.html">Trend Analyzer Pro</a></h2>
+      <p>Expand a seed topic into a scored keyword set for SEO/AEO and growth bets.</p>
+    </article>
+    <article>
+      <p class="id">Premium</p>
+      <h2><a href="ai-note-taker-pro.html">AI Note Taker Pro</a></h2>
+      <p>Turn recordings into structured notes, actions, owners, and a publish-ready payload.</p>
+    </article>
+    <article>
+      <p class="id">Premium</p>
+      <h2><a href="content-repurposing-pro.html">Content Repurposing Pro</a></h2>
+      <p>Long-form in → channel-native variants out (threads, carousels, email blocks).</p>
+    </article>
+    <article>
+      <p class="id">Premium</p>
+      <h2><a href="ai-voice-generator-pro.html">AI Voice Generator Pro</a></h2>
+      <p>Script to voice pipeline for ads, explainers, and faceless narration.</p>
+    </article>
+    <article>
+      <p class="id">Premium</p>
+      <h2><a href="local-llm-assistant-pro.html">Local LLM Assistant Pro</a></h2>
+      <p>Private assistant loop on hardware you control—no cloud transcript retention.</p>
+    </article>
+    <article>
+      <p class="id">Premium</p>
+      <h2><a href="private-gpt-rag-pro.html">Private GPT RAG Pro</a></h2>
+      <p>RAG over your corpus with retrieval gates and answer formatting for support.</p>
+    </article>
+    <article>
+      <p class="id">Premium</p>
+      <h2><a href="ai-video-generator-pro.html">AI Video Generator Pro</a></h2>
+      <p>Storyboard → shot list → generative video hooks for short-form tests.</p>
+    </article>
+    <article>
+      <p class="id">Premium</p>
+      <h2><a href="faceless-youtube-automation-pro.html">Faceless YouTube Automation Pro</a></h2>
+      <p>Title packs, descriptions, and chapter beats for faceless channels at volume.</p>
+    </article>
+    <article>
+      <p class="id">Premium</p>
+      <h2><a href="tiktok-ai-generator-pro.html">TikTok AI Generator Pro</a></h2>
+      <p>Native-feeling TikTok scripts and on-screen text beats from one brief.</p>
+    </article>
+    <article>
+      <p class="id">Premium</p>
+      <h2><a href="aeo-optimizer-pro.html">AEO Optimizer Pro</a></h2>
+      <p>Answer-engine readiness: entities, FAQs, and snippet targets from your page copy.</p>
+    </article>
+    <article>
+      <p class="id">Premium</p>
+      <h2><a href="agentic-workflow-builder-pro.html">Agentic Workflow Builder Pro</a></h2>
+      <p>Compose multi-step agent graphs with guardrails and handoff nodes.</p>
+    </article>
+    <article>
+      <p class="id">Premium</p>
+      <h2><a href="multimodal-pipeline-pro.html">Multimodal Pipeline Pro</a></h2>
+      <p>Image + text + metadata intake into a single scored asset record.</p>
+    </article>
+  </main>
+  <footer>Scenarios: <a href="../../../n8n_workflows/docs/v2/product-scenarios.md">n8n_workflows/docs/v2/product-scenarios.md</a> · Revenue deck: <a href="../../autotag_revenue_playbook.html">autotag_revenue_playbook.html</a></footer>
+</body>
+</html>

@@ -11,6 +11,8 @@ V3 is narrative-first; truth remains in `docs/v2/`.
 | `hybrid-annex.html` | `docs/v2/uses-library.md` |
 | `uses-wunderkammer.html` | `docs/v2/uses-library.md` |
 
+**Trend Pulse (Specimen F on `index.html`):** card links to `../products/index.html`; operator truth in `../../../n8n_workflows/docs/v2/workflow-library-v2.md` and `product-scenarios.md`.
+
 ## Relative paths (from `playbooks/v3/`)
 
 - To V2 truth: `../../docs/v2/<file>.md`

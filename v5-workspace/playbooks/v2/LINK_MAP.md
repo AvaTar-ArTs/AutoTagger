@@ -10,10 +10,14 @@ Convention: playbook pages are under `playbooks/v2/`. Truth docs are under `docs
 | `seller-v2x.html` | `docs/v2/seller.md` | `uses-library.md` |
 | `hybrid-v2x.html` | `docs/v2/00-start-here.md` | `uses-library.md` |
 | `uses-catalog-v2.html` | `docs/v2/uses-library.md` | `seller.md` |
+| `../products/index.html` | `../../../n8n_workflows/docs/v2/workflow-library-v2.md` | `product-scenarios.md` |
+| `../products/<slug>.html` | `../../../n8n_workflows/docs/v2/product-scenarios.md` | package `README.md` |
 
 ## Relative paths (from `playbooks/v2/`)
 
 - To truth: `../../docs/v2/<file>.md`
+- To n8n V2 docs: `../../../n8n_workflows/docs/v2/<file>.md`
+- To product hub: `../products/index.html`
 
 ## QA gate
 
