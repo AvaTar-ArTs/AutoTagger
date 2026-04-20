@@ -1,14 +1,13 @@
 # AutoTagger Workspace Preview
 
 This is a quick, high-signal preview of the main workspace areas:
-`autotagger-lite`, `current`, `docs`, `v6`, `output`, `v1-original-kb`, `v2-engine`, `v3-dev`, `v4-workspace`.
+`autotagger-lite`, `current`, `docs`, `output`, `v1-original-kb`, `v2-engine`, `v3-dev`, `v4-workspace`.
 
 ## At a glance
 
 - `autotagger-lite`: `16K`, `2 files` - minimal lite variant (`README`, `scan.py`)
 - `current`: `16K`, `3 files` - compact active script entrypoint area
-- `docs`: lightweight central docs (`learned-context`, `superpowers`, previews)
-- `v6`: SaaS track — overview, strategy, roadmap, landing HTML (versioned at repo root)
+- `docs`: lightweight central docs (`learned-context`, `superpowers`, previews) **plus `docs/v6/`** (SaaS track: overview, strategy, roadmap, landing HTML)
 - `output`: `151M`, `127 files` - generated artifacts and exports (largest data payload)
 - `v1-original-kb`: `11M`, `38 files` - original KB generation
 - `v2-engine`: `15M`, `81 files` - expanded engine with backups
@@ -19,7 +18,7 @@ This is a quick, high-signal preview of the main workspace areas:
 
 - **Active runtime/workspace:** `v4-workspace`, `current`
 - **Reference implementation:** `autotagger-lite`
-- **Documentation:** `docs`, **`v6/`** (SaaS positioning + MVP notes)
+- **Documentation:** `docs` (includes **`docs/v6/`** for SaaS positioning + MVP notes)
 - **Generated outputs:** `output`, `v4-workspace/output`
 - **Legacy versions / historical KB snapshots:** `v1-original-kb`, `v2-engine`, `v3-dev`
 
@@ -39,13 +38,8 @@ This is a quick, high-signal preview of the main workspace areas:
 
 ### `docs`
 
-- Main contents: `learned-context.md`, `workspace_preview.md`, `superpowers/`.
-- Notes: project-wide specs/plans; not the V6 SaaS bundle (see **`v6/`**).
-
-### `v6`
-
-- Main contents: `README.md`, `V6_SAAS_OVERVIEW.md`, `saas/*.md`, `saas_landing_v1.html`.
-- Notes: **canonical tracked** SaaS track. Heavy experiments may still live in gitignored `v6-workspace/`.
+- Main contents: `learned-context.md`, `workspace_preview.md`, `superpowers/`, **`v6/`** (SaaS — `README.md`, `V6_SAAS_OVERVIEW.md`, `saas/*.md`, `saas_landing_v1.html`).
+- Notes: **Canonical V6 docs** live under `docs/v6/`. Heavy local experiments may still use gitignored `v6-workspace/` at the repo root.
 
 ### `output`
 
