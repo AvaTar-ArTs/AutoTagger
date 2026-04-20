@@ -1,6 +1,6 @@
 # V6 SaaS Overview
 
-V6 is the **SaaS-oriented** track for AutoTag. **Versioned docs** live in this folder (`docs/v6/`). The optional folder `v6-workspace/` at the repo root is a **local sandbox** (gitignored) for experiments and heavy mirrors—not the source of truth for these files.
+V6 is the **SaaS-oriented** track for AutoTag. **Versioned docs** live at the **repository root** (`V6.md`, `V6_SAAS_OVERVIEW.md`, `saas/*.md`, `saas_landing_v1.html`). The optional folder `v6-workspace/` is a **local sandbox** (gitignored) for experiments and heavy mirrors—not the source of truth for these files.
 
 ## Should this be a SaaS?
 

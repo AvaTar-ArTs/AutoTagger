@@ -1,9 +1,8 @@
-# V6 — SaaS track (tracked)
+# V6 material moved
 
-This folder is the **git-tracked** home for V6 SaaS positioning and MVP notes.
+SaaS track files now live at the **repository root**:
 
-- **Overview:** [V6_SAAS_OVERVIEW.md](./V6_SAAS_OVERVIEW.md)
-- **Strategy / roadmap:** [saas/SAAS_PRODUCT_STRATEGY.md](./saas/SAAS_PRODUCT_STRATEGY.md), [saas/SAAS_MVP_ROADMAP.md](./saas/SAAS_MVP_ROADMAP.md)
-- **Landing draft (HTML):** [saas_landing_v1.html](./saas_landing_v1.html) — open locally in a browser.
-
-The directory `v6-workspace/` at the repo root remains a **local, gitignored** sandbox (often a full workspace mirror with `_root-links/`, `output/`, `venv/`). It is not required to read or ship V6 docs—start here instead.
+- [`V6.md`](../../V6.md) — index  
+- [`V6_SAAS_OVERVIEW.md`](../../V6_SAAS_OVERVIEW.md)  
+- [`saas/`](../../saas/) — strategy + roadmap  
+- [`saas_landing_v1.html`](../../saas_landing_v1.html)
