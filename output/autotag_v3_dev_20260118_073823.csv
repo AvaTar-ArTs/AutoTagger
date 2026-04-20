@@ -1,0 +1,43 @@
+name,category,value,complexity,size_mb,path
+multi_format_directory_indexer.py,Data Analysis,0.00,low,0.009,/Users/steven/AutoTagger/v3-dev/multi_format_directory_indexer.py
+COMPLETE_SYSTEM_OVERVIEW.md,Data Analysis,0.00,N/A,0.005,/Users/steven/AutoTagger/v3-dev/COMPLETE_SYSTEM_OVERVIEW.md
+test_relations.csv,Data Analysis,0.00,N/A,6.036,/Users/steven/AutoTagger/v3-dev/test_relations.csv
+SYSTEM_SUMMARY.md,AI/ML,1.00,N/A,0.005,/Users/steven/AutoTagger/v3-dev/SYSTEM_SUMMARY.md
+devonthink_ocr_enhancement.sh,Automation Scripts,0.00,N/A,0.003,/Users/steven/AutoTagger/v3-dev/devonthink_ocr_enhancement.sh
+AVATARARTS_KNOWLEDGE_BASE.md,Automation Scripts,2.00,N/A,0.01,/Users/steven/AutoTagger/v3-dev/AVATARARTS_KNOWLEDGE_BASE.md
+KNOWLEDGE_BASE_TOOLS_README.md,Automation Scripts,1.00,N/A,0.005,/Users/steven/AutoTagger/v3-dev/KNOWLEDGE_BASE_TOOLS_README.md
+ENHANCED_CLIPBOARD_CAPTURE.md,AI/ML,1.00,N/A,0.004,/Users/steven/AutoTagger/v3-dev/ENHANCED_CLIPBOARD_CAPTURE.md
+AUTO_SORTING_SYSTEM.md,Data Analysis,2.00,N/A,0.005,/Users/steven/AutoTagger/v3-dev/AUTO_SORTING_SYSTEM.md
+MULTI_FORMAT_INDEXER.md,Web Development,1.00,N/A,0.007,/Users/steven/AutoTagger/v3-dev/MULTI_FORMAT_INDEXER.md
+phase2_intelligent_organization.py,Automation Scripts,2.00,low,0.008,/Users/steven/AutoTagger/v3-dev/phase2_intelligent_organization.py
+save_knowledge_to_db.py,Automation Scripts,0.00,low,0.006,/Users/steven/AutoTagger/v3-dev/save_knowledge_to_db.py
+phase1_rapid_scan.py,Automation Scripts,1.00,low,0.005,/Users/steven/AutoTagger/v3-dev/phase1_rapid_scan.py
+run_tiered_indexing.py,Automation Scripts,0.00,low,0.003,/Users/steven/AutoTagger/v3-dev/run_tiered_indexing.py
+automations_export.csv,AI/ML,1.00,N/A,0.062,/Users/steven/AutoTagger/v3-dev/automations_export.csv
+autotag.sh,Automation Scripts,0.00,N/A,0.001,/Users/steven/AutoTagger/v3-dev/autotag.sh
+INITIALIZE_SYSTEM.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/AutoTagger/v3-dev/INITIALIZE_SYSTEM.sh
+TIERED_INDEXING_RESULTS_SUMMARY.md,Automation Scripts,0.00,N/A,0.003,/Users/steven/AutoTagger/v3-dev/TIERED_INDEXING_RESULTS_SUMMARY.md
+ZSHRC_INTEGRATION_EXAMPLE.md,Automation Scripts,1.00,N/A,0.004,/Users/steven/AutoTagger/v3-dev/ZSHRC_INTEGRATION_EXAMPLE.md
+scan_output.csv,AI/ML,1.00,N/A,0.043,/Users/steven/AutoTagger/v3-dev/scan_output.csv
+UNIVERSAL_INDEXER_COMPLETE_SYSTEM.md,Data Analysis,0.00,N/A,0.005,/Users/steven/AutoTagger/v3-dev/UNIVERSAL_INDEXER_COMPLETE_SYSTEM.md
+csv_import_export.py,Data Analysis,1.00,low,0.007,/Users/steven/AutoTagger/v3-dev/csv_import_export.py
+sample_scan_data.csv,AI/ML,1.00,N/A,0.001,/Users/steven/AutoTagger/v3-dev/sample_scan_data.csv
+DEVONTHINK_ALTERNATIVE.md,Data Analysis,0.00,N/A,0.006,/Users/steven/AutoTagger/v3-dev/DEVONTHINK_ALTERNATIVE.md
+CSV_INTEGRATION_SYSTEM.md,Data Analysis,1.00,N/A,0.006,/Users/steven/AutoTagger/v3-dev/CSV_INTEGRATION_SYSTEM.md
+simulate_scan_function.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/AutoTagger/v3-dev/simulate_scan_function.sh
+HYBRID_INTELLIGENCE_SYSTEM.md,Automation Scripts,0.00,N/A,0.006,/Users/steven/AutoTagger/v3-dev/HYBRID_INTELLIGENCE_SYSTEM.md
+SETUP_SYSTEM.sh,Automation Scripts,0.00,N/A,0.001,/Users/steven/AutoTagger/v3-dev/SETUP_SYSTEM.sh
+UNIVERSAL_DIRECTORY_INDEXER.md,AI/ML,1.00,N/A,0.005,/Users/steven/AutoTagger/v3-dev/UNIVERSAL_DIRECTORY_INDEXER.md
+README.md,Web Development,1.00,N/A,0.006,/Users/steven/AutoTagger/v3-dev/README.md
+knowledge_base.db,General,0.00,N/A,0.621,/Users/steven/AutoTagger/v3-dev/knowledge_base.db
+enhanced_clipboard_capture.py,Automation Scripts,1.00,low,0.008,/Users/steven/AutoTagger/v3-dev/enhanced_clipboard_capture.py
+phase3_advanced_intelligence.py,Web Development,1.00,low,0.01,/Users/steven/AutoTagger/v3-dev/phase3_advanced_intelligence.py
+auto_sorter.py,Automation Scripts,1.00,low,0.012,/Users/steven/AutoTagger/v3-dev/auto_sorter.py
+kb_aliases.sh,General,0.00,N/A,0.005,/Users/steven/AutoTagger/v3-dev/kb_aliases.sh
+SYSTEM_STATUS.md,Automation Scripts,0.00,N/A,0.002,/Users/steven/AutoTagger/v3-dev/SYSTEM_STATUS.md
+devonthink_alternative.py,Automation Scripts,0.00,low,0.007,/Users/steven/AutoTagger/v3-dev/devonthink_alternative.py
+capture_conversation.py,Automation Scripts,0.00,low,0.008,/Users/steven/AutoTagger/v3-dev/capture_conversation.py
+universal_directory_indexer.py,Web Development,0.00,low,0.004,/Users/steven/AutoTagger/v3-dev/universal_directory_indexer.py
+hybrid_intelligence_system.py,Automation Scripts,1.00,high,0.018,/Users/steven/AutoTagger/v3-dev/hybrid_intelligence_system.py
+DEVONTHINK_ALTERNATIVE_COMPLETE.md,Data Analysis,1.00,N/A,0.005,/Users/steven/AutoTagger/v3-dev/DEVONTHINK_ALTERNATIVE_COMPLETE.md
+save_knowledge.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/AutoTagger/v3-dev/save_knowledge.sh

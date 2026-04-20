@@ -1,0 +1,32 @@
+{
+  "system": {
+    "name": "AutoTag - AVATARARTS Automation Tagging System",
+    "version": "1.0",
+    "description": "Intelligent tagging and categorization system for AVATARARTS automation tools"
+  },
+  "paths": {
+    "output_base": "/Users/steven/AutoTag/output",
+    "logs_base": "/Users/steven/AutoTag/logs",
+    "data_base": "/Users/steven/AutoTag/data",
+    "scripts_base": "/Users/steven/AutoTag/scripts"
+  },
+  "processing": {
+    "phases": [
+      "rapid_scan",
+      "intelligent_organization", 
+      "advanced_intelligence"
+    ],
+    "default_timeout_seconds": 3600,
+    "max_file_size_mb": 100
+  },
+  "categorization": {
+    "confidence_threshold": 0.5,
+    "business_value_weight": 0.7,
+    "integration_potential_weight": 0.3
+  },
+  "database": {
+    "path": "/Users/steven/AutoTag/data/knowledge_base.db",
+    "backup_enabled": true,
+    "backup_retention_days": 30
+  }
+}

@@ -1,0 +1,595 @@
+name,category,value,complexity,size_mb,path
+ecosystem_enabled_disabled.md,AI/ML,0.00,N/A,0.009,/Users/steven/iterm2/ecosystem_enabled_disabled.md
+CODING_STANDARDS.md,AI/ML,1.00,N/A,0.012,/Users/steven/iterm2/CODING_STANDARDS.md
+ecosystem_inventory.json,General,0.00,N/A,27.356,/Users/steven/iterm2/ecosystem_inventory.json
+docs-02-10-16:59.csv,Data Analysis,1.00,N/A,0.049,/Users/steven/iterm2/docs-02-10-16:59.csv
+ 🚀 The Ultimate AI Ecosystem.txt,AI/ML,1.00,N/A,1.277,/Users/steven/iterm2/ 🚀 The Ultimate AI Ecosystem.txt
+AGENTS.md,AI/ML,2.00,N/A,0.026,/Users/steven/iterm2/AGENTS.md
+docs.txt,General,0.00,N/A,0.0,/Users/steven/iterm2/docs.txt
+event_log.py,General,0.00,low,0.001,/Users/steven/iterm2/agent_ops/event_log.py
+handoff.py,AI/ML,1.00,low,0.003,/Users/steven/iterm2/agent_ops/handoff.py
+tool_tracker.py,General,0.00,low,0.002,/Users/steven/iterm2/agent_ops/tool_tracker.py
+hook_events.py,AI/ML,0.00,low,0.001,/Users/steven/iterm2/agent_ops/hook_events.py
+__init__.py,General,0.00,low,0.0,/Users/steven/iterm2/agent_ops/__init__.py
+spans.py,AI/ML,1.00,low,0.001,/Users/steven/iterm2/agent_ops/spans.py
+version.json,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/version.json
+config.json,AI/ML,0.00,N/A,0.0,/Users/steven/iterm2/Codex/config.json
+history.json,AI/ML,0.00,N/A,0.0,/Users/steven/iterm2/Codex/history.json
+update-check.json,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/update-check.json
+auth.json,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/Codex/auth.json
+models_cache.json,Automation Scripts,0.00,N/A,0.16,/Users/steven/iterm2/Codex/models_cache.json
+config.toml,AI/ML,0.00,N/A,0.003,/Users/steven/iterm2/Codex/config.toml
+AGENTS.md,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/Codex/AGENTS.md
+history.jsonl,General,0.00,N/A,7.545,/Users/steven/iterm2/Codex/history.jsonl
+instructions.md,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/instructions.md
+rollout-2025-10-16T22-59-02-0199f01b-4133-7302-8639-d84be3c1b614.jsonl,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/archived_sessions/rollout-2025-10-16T22-59-02-0199f01b-4133-7302-8639-d84be3c1b614.jsonl
+019c475e-f766-7da0-9107-84177c46e753.sh,AI/ML,1.00,N/A,0.277,/Users/steven/iterm2/Codex/shell_snapshots/019c475e-f766-7da0-9107-84177c46e753.sh
+019c4763-625b-7cf2-8a5b-48145d3a7213.sh,AI/ML,1.00,N/A,0.277,/Users/steven/iterm2/Codex/shell_snapshots/019c4763-625b-7cf2-8a5b-48145d3a7213.sh
+019c3edc-62d2-7090-95ba-21e55558a8a9.sh,AI/ML,1.00,N/A,0.147,/Users/steven/iterm2/Codex/shell_snapshots/019c3edc-62d2-7090-95ba-21e55558a8a9.sh
+019c4751-6ad0-7a93-93f5-3e94b24f0f9e.sh,AI/ML,1.00,N/A,0.277,/Users/steven/iterm2/Codex/shell_snapshots/019c4751-6ad0-7a93-93f5-3e94b24f0f9e.sh
+019c3b2d-f45b-71f0-987d-cfb6d8e2c92f.sh,AI/ML,1.00,N/A,0.155,/Users/steven/iterm2/Codex/shell_snapshots/019c3b2d-f45b-71f0-987d-cfb6d8e2c92f.sh
+019c438f-98c2-7623-a8a7-0e54b95e657f.sh,AI/ML,1.00,N/A,0.148,/Users/steven/iterm2/Codex/shell_snapshots/019c438f-98c2-7623-a8a7-0e54b95e657f.sh
+019c3e8d-15d9-73d1-b42a-377c7d583451.sh,AI/ML,1.00,N/A,0.153,/Users/steven/iterm2/Codex/shell_snapshots/019c3e8d-15d9-73d1-b42a-377c7d583451.sh
+019c46de-3406-7501-8012-fb70c0938e20.sh,AI/ML,1.00,N/A,0.277,/Users/steven/iterm2/Codex/shell_snapshots/019c46de-3406-7501-8012-fb70c0938e20.sh
+019c4680-2f9e-7103-a31d-4f81d2c79c61.sh,AI/ML,1.00,N/A,0.245,/Users/steven/iterm2/Codex/shell_snapshots/019c4680-2f9e-7103-a31d-4f81d2c79c61.sh
+019c4002-e456-7492-a312-9c5ba1bfa2c0.sh,AI/ML,1.00,N/A,0.148,/Users/steven/iterm2/Codex/shell_snapshots/019c4002-e456-7492-a312-9c5ba1bfa2c0.sh
+019c3edc-83fe-7892-82aa-750ecc6709a2.sh,AI/ML,1.00,N/A,0.147,/Users/steven/iterm2/Codex/shell_snapshots/019c3edc-83fe-7892-82aa-750ecc6709a2.sh
+019c4675-9269-7d61-a81c-76b0c93a24d4.sh,AI/ML,1.00,N/A,0.279,/Users/steven/iterm2/Codex/shell_snapshots/019c4675-9269-7d61-a81c-76b0c93a24d4.sh
+019c3edc-7032-7931-a8d3-6becd6d7738d.sh,AI/ML,1.00,N/A,0.147,/Users/steven/iterm2/Codex/shell_snapshots/019c3edc-7032-7931-a8d3-6becd6d7738d.sh
+019c4960-5932-70b3-a590-14aa3dec2ab0.sh,AI/ML,1.00,N/A,0.277,/Users/steven/iterm2/Codex/shell_snapshots/019c4960-5932-70b3-a590-14aa3dec2ab0.sh
+019c447a-03d1-7a20-9415-5f442934d3b2.sh,AI/ML,1.00,N/A,0.023,/Users/steven/iterm2/Codex/shell_snapshots/019c447a-03d1-7a20-9415-5f442934d3b2.sh
+019c45d8-151e-7fb0-b9dc-4d9a2672b484.sh,AI/ML,1.00,N/A,0.054,/Users/steven/iterm2/Codex/shell_snapshots/019c45d8-151e-7fb0-b9dc-4d9a2672b484.sh
+rollout-2025-06-08-631c2327-266f-4289-8e04-dc1287045985.json,General,0.00,N/A,0.003,/Users/steven/iterm2/Codex/sessions/rollout-2025-06-08-631c2327-266f-4289-8e04-dc1287045985.json
+rollout-2025-06-08-b3b85d11-2857-4cd9-b98b-2e5773b38ddc.json,Data Analysis,0.00,N/A,0.054,/Users/steven/iterm2/Codex/sessions/rollout-2025-06-08-b3b85d11-2857-4cd9-b98b-2e5773b38ddc.json
+rollout-2025-06-08-2cc8d02e-75ff-46cb-a1fc-730eae4e95e9.json,General,0.00,N/A,0.031,/Users/steven/iterm2/Codex/sessions/rollout-2025-06-08-2cc8d02e-75ff-46cb-a1fc-730eae4e95e9.json
+rollout-2025-06-08-c492d022-733b-4b38-8427-53b8024fb0b0.json,Data Analysis,0.00,N/A,0.158,/Users/steven/iterm2/Codex/sessions/rollout-2025-06-08-c492d022-733b-4b38-8427-53b8024fb0b0.json
+rollout-2025-06-08-44ec916c-b106-4af9-be92-1f8c760a8959.json,General,0.00,N/A,0.055,/Users/steven/iterm2/Codex/sessions/rollout-2025-06-08-44ec916c-b106-4af9-be92-1f8c760a8959.json
+rollout-2025-06-08-c32cec5b-7624-4773-b6f9-5d0e3744e4af.json,General,0.00,N/A,0.122,/Users/steven/iterm2/Codex/sessions/rollout-2025-06-08-c32cec5b-7624-4773-b6f9-5d0e3744e4af.json
+rollout-2025-11-27T05-49-53-019ac4ef-125c-7560-aece-c7acece31ee5.jsonl,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/sessions/2025/11/27/rollout-2025-11-27T05-49-53-019ac4ef-125c-7560-aece-c7acece31ee5.jsonl
+rollout-2025-11-27T05-53-38-019ac4f2-81ec-7221-b569-a5a931849dc7.jsonl,AI/ML,1.00,N/A,0.013,/Users/steven/iterm2/Codex/sessions/2025/11/27/rollout-2025-11-27T05-53-38-019ac4f2-81ec-7221-b569-a5a931849dc7.jsonl
+rollout-2025-11-27T05-56-05-019ac4f4-bfa7-7ea2-be58-96855f960474.jsonl,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/sessions/2025/11/27/rollout-2025-11-27T05-56-05-019ac4f4-bfa7-7ea2-be58-96855f960474.jsonl
+rollout-2025-11-27T05-52-27-019ac4f1-6acf-7c10-8ea6-14b85480a64d.jsonl,AI/ML,1.00,N/A,0.01,/Users/steven/iterm2/Codex/sessions/2025/11/27/rollout-2025-11-27T05-52-27-019ac4f1-6acf-7c10-8ea6-14b85480a64d.jsonl
+rollout-2025-11-27T09-58-43-019ac5d2-e466-7aa2-b776-4413ad73cafb.jsonl,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/sessions/2025/11/27/rollout-2025-11-27T09-58-43-019ac5d2-e466-7aa2-b776-4413ad73cafb.jsonl
+rollout-2025-11-27T06-00-35-019ac4f8-ddd2-7873-9d94-9357a47f5f97.jsonl,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/Codex/sessions/2025/11/27/rollout-2025-11-27T06-00-35-019ac4f8-ddd2-7873-9d94-9357a47f5f97.jsonl
+rollout-2025-11-25T18-27-56-019abd58-5fa7-70b3-821e-0dc7938f19f1.jsonl,AI/ML,1.00,N/A,0.722,/Users/steven/iterm2/Codex/sessions/2025/11/25/rollout-2025-11-25T18-27-56-019abd58-5fa7-70b3-821e-0dc7938f19f1.jsonl
+rollout-2025-11-25T17-33-40-019abd26-b090-7850-8b7d-5e7f2949c7ec.jsonl,General,0.00,N/A,1.128,/Users/steven/iterm2/Codex/sessions/2025/11/25/rollout-2025-11-25T17-33-40-019abd26-b090-7850-8b7d-5e7f2949c7ec.jsonl
+rollout-2025-11-25T17-10-59-019abd11-ecd9-7a23-855c-4214f584056c.jsonl,AI/ML,1.00,N/A,0.215,/Users/steven/iterm2/Codex/sessions/2025/11/25/rollout-2025-11-25T17-10-59-019abd11-ecd9-7a23-855c-4214f584056c.jsonl
+rollout-2025-10-16T23-39-37-0199f040-69bf-7ba3-8092-64e49c16fe35.jsonl,AI/ML,1.00,N/A,0.016,/Users/steven/iterm2/Codex/sessions/2025/10/16/rollout-2025-10-16T23-39-37-0199f040-69bf-7ba3-8092-64e49c16fe35.jsonl
+rollout-2025-10-09T04-39-22-0199c81f-f8f4-7793-9d07-f472d09859be.jsonl,AI/ML,1.00,N/A,0.037,/Users/steven/iterm2/Codex/sessions/2025/10/09/rollout-2025-10-09T04-39-22-0199c81f-f8f4-7793-9d07-f472d09859be.jsonl
+rollout-2025-10-14T15-02-56-0199e41a-a898-7442-9623-b4a7272770d4.jsonl,General,0.00,N/A,13.535,/Users/steven/iterm2/Codex/sessions/2025/10/14/rollout-2025-10-14T15-02-56-0199e41a-a898-7442-9623-b4a7272770d4.jsonl
+rollout-2025-09-13T02-33-13-41e08317-4cd4-4a9e-bd83-d280f8395b30.jsonl,AI/ML,1.00,N/A,0.036,/Users/steven/iterm2/Codex/sessions/2025/09/13/rollout-2025-09-13T02-33-13-41e08317-4cd4-4a9e-bd83-d280f8395b30.jsonl
+rollout-2025-09-13T02-48-09-56898d7d-6c14-42d5-a8a9-0945745a5f75.jsonl,AI/ML,1.00,N/A,0.007,/Users/steven/iterm2/Codex/sessions/2025/09/13/rollout-2025-09-13T02-48-09-56898d7d-6c14-42d5-a8a9-0945745a5f75.jsonl
+rollout-2025-09-13T05-50-22-ee293436-8d1a-40fd-85ad-18d6a9438dac.jsonl,AI/ML,1.00,N/A,0.133,/Users/steven/iterm2/Codex/sessions/2025/09/13/rollout-2025-09-13T05-50-22-ee293436-8d1a-40fd-85ad-18d6a9438dac.jsonl
+rollout-2025-09-13T05-20-49-1e135b25-ea72-45c9-a3a9-d192e9f18654.jsonl,AI/ML,1.00,N/A,0.011,/Users/steven/iterm2/Codex/sessions/2025/09/13/rollout-2025-09-13T05-20-49-1e135b25-ea72-45c9-a3a9-d192e9f18654.jsonl
+rollout-2025-09-13T02-36-11-8313683c-fec8-4c59-ac51-5150d7d761de.jsonl,AI/ML,1.00,N/A,0.077,/Users/steven/iterm2/Codex/sessions/2025/09/13/rollout-2025-09-13T02-36-11-8313683c-fec8-4c59-ac51-5150d7d761de.jsonl
+rollout-2025-09-13T05-25-43-5c5e66e5-53cb-4032-b6a6-f5a1b39c1c38.jsonl,AI/ML,1.00,N/A,0.013,/Users/steven/iterm2/Codex/sessions/2025/09/13/rollout-2025-09-13T05-25-43-5c5e66e5-53cb-4032-b6a6-f5a1b39c1c38.jsonl
+rollout-2026-02-05T22-38-22-019c3107-847c-7d00-afe6-01613c68cb7a.jsonl,AI/ML,1.00,N/A,0.01,/Users/steven/iterm2/Codex/sessions/2026/02/05/rollout-2026-02-05T22-38-22-019c3107-847c-7d00-afe6-01613c68cb7a.jsonl
+rollout-2026-02-05T22-35-38-019c3105-0696-7d23-ae52-ad60b0a1ee83.jsonl,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/sessions/2026/02/05/rollout-2026-02-05T22-35-38-019c3105-0696-7d23-ae52-ad60b0a1ee83.jsonl
+rollout-2026-02-05T22-36-29-019c3105-cc50-7010-9792-68332f726a61.jsonl,AI/ML,1.00,N/A,0.054,/Users/steven/iterm2/Codex/sessions/2026/02/05/rollout-2026-02-05T22-36-29-019c3105-cc50-7010-9792-68332f726a61.jsonl
+rollout-2026-02-05T22-59-38-019c311a-fd66-7952-9276-3e61815d8194.jsonl,AI/ML,1.00,N/A,0.888,/Users/steven/iterm2/Codex/sessions/2026/02/05/rollout-2026-02-05T22-59-38-019c311a-fd66-7952-9276-3e61815d8194.jsonl
+rollout-2026-02-05T22-38-45-019c3107-df42-7323-a0be-e0eb9cb07e0d.jsonl,General,0.00,N/A,4.195,/Users/steven/iterm2/Codex/sessions/2026/02/05/rollout-2026-02-05T22-38-45-019c3107-df42-7323-a0be-e0eb9cb07e0d.jsonl
+rollout-2026-02-05T23-26-27-019c3133-8c55-7361-8f7b-524f3a9ca2a9.jsonl,AI/ML,1.00,N/A,0.032,/Users/steven/iterm2/Codex/sessions/2026/02/05/rollout-2026-02-05T23-26-27-019c3133-8c55-7361-8f7b-524f3a9ca2a9.jsonl
+rollout-2026-02-05T05-01-16-019c2d3f-b722-72d3-9962-2bacb189e5fc.jsonl,General,0.00,N/A,3.77,/Users/steven/iterm2/Codex/sessions/2026/02/05/rollout-2026-02-05T05-01-16-019c2d3f-b722-72d3-9962-2bacb189e5fc.jsonl
+rollout-2026-02-10T16-06-17-019c4960-5932-70b3-a590-14aa3dec2ab0.jsonl,General,0.00,N/A,1.745,/Users/steven/iterm2/Codex/sessions/2026/02/10/rollout-2026-02-10T16-06-17-019c4960-5932-70b3-a590-14aa3dec2ab0.jsonl
+rollout-2026-02-10T04-24-53-019c46de-3406-7501-8012-fb70c0938e20.jsonl,AI/ML,1.00,N/A,0.024,/Users/steven/iterm2/Codex/sessions/2026/02/10/rollout-2026-02-10T04-24-53-019c46de-3406-7501-8012-fb70c0938e20.jsonl
+rollout-2026-02-10T02-42-11-019c4680-2f9e-7103-a31d-4f81d2c79c61.jsonl,General,0.00,N/A,1.141,/Users/steven/iterm2/Codex/sessions/2026/02/10/rollout-2026-02-10T02-42-11-019c4680-2f9e-7103-a31d-4f81d2c79c61.jsonl
+rollout-2026-02-10T02-40-49-019c467e-ef76-7131-9c27-57d1186eb7d2.jsonl,AI/ML,1.00,N/A,0.012,/Users/steven/iterm2/Codex/sessions/2026/02/10/rollout-2026-02-10T02-40-49-019c467e-ef76-7131-9c27-57d1186eb7d2.jsonl
+rollout-2026-02-10T06-30-44-019c4751-6ad0-7a93-93f5-3e94b24f0f9e.jsonl,General,0.00,N/A,1.505,/Users/steven/iterm2/Codex/sessions/2026/02/10/rollout-2026-02-10T06-30-44-019c4751-6ad0-7a93-93f5-3e94b24f0f9e.jsonl
+rollout-2026-02-10T16-35-53-019c497b-7352-7660-a3bb-b338386f3f2d.jsonl,AI/ML,1.00,N/A,0.547,/Users/steven/iterm2/Codex/sessions/2026/02/10/rollout-2026-02-10T16-35-53-019c497b-7352-7660-a3bb-b338386f3f2d.jsonl
+rollout-2026-02-10T02-30-36-019c4675-9269-7d61-a81c-76b0c93a24d4.jsonl,AI/ML,1.00,N/A,0.114,/Users/steven/iterm2/Codex/sessions/2026/02/10/rollout-2026-02-10T02-30-36-019c4675-9269-7d61-a81c-76b0c93a24d4.jsonl
+rollout-2026-02-10T06-50-21-019c4763-625b-7cf2-8a5b-48145d3a7213.jsonl,General,0.00,N/A,3.271,/Users/steven/iterm2/Codex/sessions/2026/02/10/rollout-2026-02-10T06-50-21-019c4763-625b-7cf2-8a5b-48145d3a7213.jsonl
+rollout-2026-02-10T06-45-32-019c475e-f766-7da0-9107-84177c46e753.jsonl,AI/ML,1.00,N/A,0.343,/Users/steven/iterm2/Codex/sessions/2026/02/10/rollout-2026-02-10T06-45-32-019c475e-f766-7da0-9107-84177c46e753.jsonl
+rollout-2026-02-07T21-56-33-019c3b2d-f45b-71f0-987d-cfb6d8e2c92f.jsonl,General,0.00,N/A,2.063,/Users/steven/iterm2/Codex/sessions/2026/02/07/rollout-2026-02-07T21-56-33-019c3b2d-f45b-71f0-987d-cfb6d8e2c92f.jsonl
+rollout-2026-02-07T01-43-30-019c36d7-60fc-7a93-9799-cdc973bafcff.jsonl,AI/ML,1.00,N/A,0.648,/Users/steven/iterm2/Codex/sessions/2026/02/07/rollout-2026-02-07T01-43-30-019c36d7-60fc-7a93-9799-cdc973bafcff.jsonl
+rollout-2026-02-07T00-20-30-019c368b-64c5-71f2-80cb-0841a49ac8b8.jsonl,General,0.00,N/A,3.606,/Users/steven/iterm2/Codex/sessions/2026/02/07/rollout-2026-02-07T00-20-30-019c368b-64c5-71f2-80cb-0841a49ac8b8.jsonl
+rollout-2026-02-07T09-02-07-019c3868-f237-7b30-be29-67204f136e7d.jsonl,AI/ML,1.00,N/A,0.902,/Users/steven/iterm2/Codex/sessions/2026/02/07/rollout-2026-02-07T09-02-07-019c3868-f237-7b30-be29-67204f136e7d.jsonl
+rollout-2026-02-09T23-38-35-019c45d8-151e-7fb0-b9dc-4d9a2672b484.jsonl,AI/ML,1.00,N/A,0.011,/Users/steven/iterm2/Codex/sessions/2026/02/09/rollout-2026-02-09T23-38-35-019c45d8-151e-7fb0-b9dc-4d9a2672b484.jsonl
+rollout-2026-02-09T13-00-10-019c438f-98c2-7623-a8a7-0e54b95e657f.jsonl,AI/ML,1.00,N/A,0.778,/Users/steven/iterm2/Codex/sessions/2026/02/09/rollout-2026-02-09T13-00-10-019c438f-98c2-7623-a8a7-0e54b95e657f.jsonl
+rollout-2026-02-09T17-16-13-019c447a-03d1-7a20-9415-5f442934d3b2.jsonl,General,0.00,N/A,2.405,/Users/steven/iterm2/Codex/sessions/2026/02/09/rollout-2026-02-09T17-16-13-019c447a-03d1-7a20-9415-5f442934d3b2.jsonl
+rollout-2026-02-08T15-06-05-019c3edc-83fe-7892-82aa-750ecc6709a2.jsonl,AI/ML,1.00,N/A,0.527,/Users/steven/iterm2/Codex/sessions/2026/02/08/rollout-2026-02-08T15-06-05-019c3edc-83fe-7892-82aa-750ecc6709a2.jsonl
+rollout-2026-02-08T15-05-59-019c3edc-7032-7931-a8d3-6becd6d7738d.jsonl,AI/ML,1.00,N/A,0.53,/Users/steven/iterm2/Codex/sessions/2026/02/08/rollout-2026-02-08T15-05-59-019c3edc-7032-7931-a8d3-6becd6d7738d.jsonl
+rollout-2026-02-08T18-29-13-019c3f96-8011-75d3-a5cf-c4ee9e0f4300.jsonl,AI/ML,1.00,N/A,0.025,/Users/steven/iterm2/Codex/sessions/2026/02/08/rollout-2026-02-08T18-29-13-019c3f96-8011-75d3-a5cf-c4ee9e0f4300.jsonl
+rollout-2026-02-08T22-17-31-019c4067-8208-7d32-95f1-a42aff5cd47b.jsonl,General,0.00,N/A,1.039,/Users/steven/iterm2/Codex/sessions/2026/02/08/rollout-2026-02-08T22-17-31-019c4067-8208-7d32-95f1-a42aff5cd47b.jsonl
+rollout-2026-02-08T15-05-56-019c3edc-62d2-7090-95ba-21e55558a8a9.jsonl,AI/ML,1.00,N/A,0.155,/Users/steven/iterm2/Codex/sessions/2026/02/08/rollout-2026-02-08T15-05-56-019c3edc-62d2-7090-95ba-21e55558a8a9.jsonl
+rollout-2026-02-08T13-39-19-019c3e8d-15d9-73d1-b42a-377c7d583451.jsonl,General,0.00,N/A,4.116,/Users/steven/iterm2/Codex/sessions/2026/02/08/rollout-2026-02-08T13-39-19-019c3e8d-15d9-73d1-b42a-377c7d583451.jsonl
+rollout-2026-02-08T22-19-40-019c4069-7b69-7f33-87c8-fa33abb7c715.jsonl,General,0.00,N/A,1.086,/Users/steven/iterm2/Codex/sessions/2026/02/08/rollout-2026-02-08T22-19-40-019c4069-7b69-7f33-87c8-fa33abb7c715.jsonl
+rollout-2026-02-08T13-54-27-019c3e9a-f07c-7eb2-ae0d-08b7d090e47b.jsonl,AI/ML,1.00,N/A,0.101,/Users/steven/iterm2/Codex/sessions/2026/02/08/rollout-2026-02-08T13-54-27-019c3e9a-f07c-7eb2-ae0d-08b7d090e47b.jsonl
+rollout-2026-02-08T06-16-47-019c3cf7-eefe-7332-be64-2185ed8838d5.jsonl,AI/ML,1.00,N/A,0.019,/Users/steven/iterm2/Codex/sessions/2026/02/08/rollout-2026-02-08T06-16-47-019c3cf7-eefe-7332-be64-2185ed8838d5.jsonl
+rollout-2026-02-08T20-27-37-019c4002-e456-7492-a312-9c5ba1bfa2c0.jsonl,General,0.00,N/A,3.807,/Users/steven/iterm2/Codex/sessions/2026/02/08/rollout-2026-02-08T20-27-37-019c4002-e456-7492-a312-9c5ba1bfa2c0.jsonl
+rollout-2026-02-06T22-51-53-019c363a-4179-78a2-bf0a-e9422700bcd7.jsonl,AI/ML,1.00,N/A,0.234,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T22-51-53-019c363a-4179-78a2-bf0a-e9422700bcd7.jsonl
+rollout-2026-02-06T23-09-00-019c3649-ed97-7ad1-8e93-cfe80bdcc6dd.jsonl,General,0.00,N/A,2.579,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T23-09-00-019c3649-ed97-7ad1-8e93-cfe80bdcc6dd.jsonl
+rollout-2026-02-06T21-22-12-019c35e8-270d-78c0-bd16-78445fb085ad.jsonl,AI/ML,1.00,N/A,0.026,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T21-22-12-019c35e8-270d-78c0-bd16-78445fb085ad.jsonl
+rollout-2026-02-06T11-08-38-019c33b6-6ac9-7d73-995c-e036097d3537.jsonl,General,0.00,N/A,1.47,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T11-08-38-019c33b6-6ac9-7d73-995c-e036097d3537.jsonl
+rollout-2026-02-06T22-57-39-019c363f-895b-77b0-97cb-297d463e10a1.jsonl,AI/ML,1.00,N/A,0.037,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T22-57-39-019c363f-895b-77b0-97cb-297d463e10a1.jsonl
+rollout-2026-02-06T22-51-24-019c3639-d118-70c1-9de7-ba22d5b86d72.jsonl,General,0.00,N/A,5.412,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T22-51-24-019c3639-d118-70c1-9de7-ba22d5b86d72.jsonl
+rollout-2026-02-06T16-38-41-019c34e4-9469-70e0-b153-7b23d44ad0f7.jsonl,AI/ML,1.00,N/A,0.504,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T16-38-41-019c34e4-9469-70e0-b153-7b23d44ad0f7.jsonl
+rollout-2026-02-06T23-08-36-019c3649-9033-7a42-a0e8-31042889972a.jsonl,General,0.00,N/A,5.399,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T23-08-36-019c3649-9033-7a42-a0e8-31042889972a.jsonl
+rollout-2026-02-06T22-49-04-019c3637-acd1-7c92-ba67-71167f22f059.jsonl,General,0.00,N/A,7.817,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T22-49-04-019c3637-acd1-7c92-ba67-71167f22f059.jsonl
+rollout-2026-02-06T08-09-16-019c3312-3339-7c03-ba87-bb4aebccaa44.jsonl,AI/ML,1.00,N/A,0.039,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T08-09-16-019c3312-3339-7c03-ba87-bb4aebccaa44.jsonl
+rollout-2026-02-06T10-40-03-019c339c-3f47-7492-acb1-87b688294adf.jsonl,General,0.00,N/A,7.742,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T10-40-03-019c339c-3f47-7492-acb1-87b688294adf.jsonl
+rollout-2026-02-06T22-49-24-019c3637-fc5c-7872-911d-67707e7e4c73.jsonl,General,0.00,N/A,5.361,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T22-49-24-019c3637-fc5c-7872-911d-67707e7e4c73.jsonl
+rollout-2026-02-06T22-45-58-019c3634-d8c3-7a03-82ae-ff103551f67d.jsonl,AI/ML,1.00,N/A,0.028,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T22-45-58-019c3634-d8c3-7a03-82ae-ff103551f67d.jsonl
+rollout-2026-02-06T23-03-41-019c3645-0ddc-7bc3-901b-a9bf99c03946.jsonl,AI/ML,1.00,N/A,0.025,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T23-03-41-019c3645-0ddc-7bc3-901b-a9bf99c03946.jsonl
+rollout-2026-02-06T22-10-18-019c3614-30e6-7972-a7a1-ef012a9a195d.jsonl,General,0.00,N/A,3.256,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T22-10-18-019c3614-30e6-7972-a7a1-ef012a9a195d.jsonl
+rollout-2026-02-06T22-49-15-019c3637-d978-70e0-87f1-e7588fc618bb.jsonl,General,0.00,N/A,7.844,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T22-49-15-019c3637-d978-70e0-87f1-e7588fc618bb.jsonl
+rollout-2026-02-06T22-47-59-019c3636-add8-7531-ad2e-c936e5cbe20e.jsonl,General,0.00,N/A,7.789,/Users/steven/iterm2/Codex/sessions/2026/02/06/rollout-2026-02-06T22-47-59-019c3636-add8-7531-ad2e-c936e5cbe20e.jsonl
+rollout-2026-01-20T16-01-05-019bdd36-0dfa-7690-8e35-4d84aebfaf34.jsonl,AI/ML,1.00,N/A,0.234,/Users/steven/iterm2/Codex/sessions/2026/01/20/rollout-2026-01-20T16-01-05-019bdd36-0dfa-7690-8e35-4d84aebfaf34.jsonl
+rollout-2026-01-20T14-24-37-019bdcdd-ba99-7580-b7cf-adbb4cc69be2.jsonl,AI/ML,1.00,N/A,0.22,/Users/steven/iterm2/Codex/sessions/2026/01/20/rollout-2026-01-20T14-24-37-019bdcdd-ba99-7580-b7cf-adbb4cc69be2.jsonl
+rollout-2026-01-20T16-48-31-019bdd61-7b19-7941-94c8-b4ec9b0a0f7b.jsonl,AI/ML,1.00,N/A,0.033,/Users/steven/iterm2/Codex/sessions/2026/01/20/rollout-2026-01-20T16-48-31-019bdd61-7b19-7941-94c8-b4ec9b0a0f7b.jsonl
+rollout-2026-01-18T19-56-23-019bd3c0-c048-7083-ab03-9de5765879bb.jsonl,AI/ML,1.00,N/A,0.034,/Users/steven/iterm2/Codex/sessions/2026/01/18/rollout-2026-01-18T19-56-23-019bd3c0-c048-7083-ab03-9de5765879bb.jsonl
+rollout-2026-01-18T19-56-23-019bd3c0-bf97-7bc3-8f06-7fc50b73642f.jsonl,AI/ML,1.00,N/A,0.057,/Users/steven/iterm2/Codex/sessions/2026/01/18/rollout-2026-01-18T19-56-23-019bd3c0-bf97-7bc3-8f06-7fc50b73642f.jsonl
+rollout-2026-01-19T01-01-29-019bd4d8-13a3-78e3-af2f-553d02fe04f8.jsonl,AI/ML,1.00,N/A,0.019,/Users/steven/iterm2/Codex/sessions/2026/01/19/rollout-2026-01-19T01-01-29-019bd4d8-13a3-78e3-af2f-553d02fe04f8.jsonl
+rollout-2026-01-19T00-45-49-019bd4c9-bea9-7e00-876a-10a43a68688e.jsonl,AI/ML,1.00,N/A,0.02,/Users/steven/iterm2/Codex/sessions/2026/01/19/rollout-2026-01-19T00-45-49-019bd4c9-bea9-7e00-876a-10a43a68688e.jsonl
+rollout-2026-01-19T01-01-29-019bd4d8-12ca-7450-bd2c-1894fbdadfcc.jsonl,General,0.00,N/A,4.604,/Users/steven/iterm2/Codex/sessions/2026/01/19/rollout-2026-01-19T01-01-29-019bd4d8-12ca-7450-bd2c-1894fbdadfcc.jsonl
+rollout-2026-01-19T00-45-49-019bd4c9-bdc1-7c11-b4ec-b1071fd59c5e.jsonl,General,0.00,N/A,2.61,/Users/steven/iterm2/Codex/sessions/2026/01/19/rollout-2026-01-19T00-45-49-019bd4c9-bdc1-7c11-b4ec-b1071fd59c5e.jsonl
+rollout-2026-01-15T19-18-53-019bc42b-5693-7b81-9ea6-36c5b070eb6b.jsonl,AI/ML,1.00,N/A,0.442,/Users/steven/iterm2/Codex/sessions/2026/01/15/rollout-2026-01-15T19-18-53-019bc42b-5693-7b81-9ea6-36c5b070eb6b.jsonl
+rollout-2026-01-15T22-53-54-019bc4f0-3197-7360-bb45-a715258c9e24.jsonl,AI/ML,1.00,N/A,0.035,/Users/steven/iterm2/Codex/sessions/2026/01/15/rollout-2026-01-15T22-53-54-019bc4f0-3197-7360-bb45-a715258c9e24.jsonl
+rollout-2026-01-15T19-18-53-019bc42b-571b-73c0-b09b-daacacc90e16.jsonl,AI/ML,1.00,N/A,0.048,/Users/steven/iterm2/Codex/sessions/2026/01/15/rollout-2026-01-15T19-18-53-019bc42b-571b-73c0-b09b-daacacc90e16.jsonl
+default.rules,AI/ML,1.00,N/A,0.007,/Users/steven/iterm2/Codex/rules/default.rules
+codex-tui.log,General,0.00,N/A,3.268,/Users/steven/iterm2/Codex/log/codex-tui.log
+sora.zip,Automation Scripts,0.00,N/A,0.042,/Users/steven/iterm2/Codex/skills/sora.zip
+SKILL.md,Automation Scripts,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/narrative-blueprints/SKILL.md
+summary_targets_20260208.md,Automation Scripts,0.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/summary_targets_20260208.md
+inventory_targets_20260208.json,Data Analysis,0.00,N/A,0.706,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/inventory_targets_20260208.json
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/SKILL.md
+inventory.json,General,0.00,N/A,59.412,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/inventory.json
+claude_inventory.json,AI/ML,0.00,N/A,11.613,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/claude_inventory.json
+targets.md,AI/ML,0.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/references/targets.md
+openai.yaml,AI/ML,1.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/agents/openai.yaml
+inventory.py,General,0.00,low,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/scripts/inventory.py
+migration_mapping.csv,AI/ML,1.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/migration_mapping.csv
+ecosystem_agent.db,General,0.00,N/A,0.027,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/ecosystem_agent.db
+ChatGPT.md,Automation Scripts,1.00,N/A,0.145,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/ChatGPT.md
+SOCIAL_MEDIA_STRATEGY.md,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/SOCIAL_MEDIA_STRATEGY.md
+AVATARARTS_STRATEGIC_IMPLEMENTATION_PLAN.md,Automation Scripts,2.00,N/A,0.009,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_STRATEGIC_IMPLEMENTATION_PLAN.md
+ds5.html,Web Development,1.00,N/A,0.051,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/ds5.html
+qwen_conversations_export_advanced_backup_20260116_160225.html,Automation Scripts,2.00,N/A,0.3,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/qwen_conversations_export_advanced_backup_20260116_160225.html
+pythons_quick_reference.md,Automation Scripts,2.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/pythons_quick_reference.md
+QWEN.md,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/QWEN.md
+AVATARARTS_PLATFORM_COMPLETION_CERTIFICATE.md,Data Analysis,2.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_PLATFORM_COMPLETION_CERTIFICATE.md
+zshrc.template,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/zshrc.template
+cursor_project_file_structure.md,AI/ML,0.00,N/A,0.016,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/cursor_project_file_structure.md
+qwen_simple_space.html,Web Development,0.00,N/A,2.772,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/qwen_simple_space.html
+GUMROAD_BUNDLE_4_PRODUCT_PAGE.md,Automation Scripts,0.00,N/A,0.009,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GUMROAD_BUNDLE_4_PRODUCT_PAGE.md
+settreview.txt,AI/ML,1.00,N/A,0.154,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/settreview.txt
+review.txt,General,0.00,N/A,1.499,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/review.txt
+gemini-fix-iterm.txt,AI/ML,0.00,N/A,1.971,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/gemini-fix-iterm.txt
+GEMINI-universal-operatingv2.md,Automation Scripts,2.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GEMINI-universal-operatingv2.md
+NON_AVATARARTS_COMPLETE_ANALYSIS.csv,Data Analysis,0.00,N/A,0.035,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/NON_AVATARARTS_COMPLETE_ANALYSIS.csv
+consolidation_ai_setup.sh,AI/ML,1.00,N/A,0.017,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/consolidation_ai_setup.sh
+cursor-agent.txt,AI/ML,0.00,N/A,0.525,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/cursor-agent.txt
+INVENTORY-pip-python-npm-node-brew.md,General,0.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/INVENTORY-pip-python-npm-node-brew.md
+default.code-profile,General,0.00,N/A,0.159,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/default.code-profile
+pythons_chaos_manifest.txt,AI/ML,0.00,N/A,0.572,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/pythons_chaos_manifest.txt
+comparison_batches.txt,Automation Scripts,0.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/comparison_batches.txt
+real_python_scripts.csv,Automation Scripts,0.00,N/A,1.454,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/real_python_scripts.csv
+batch3_categorization_plan.txt,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/batch3_categorization_plan.txt
+XSH_TOOL_DOCUMENTATION.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/XSH_TOOL_DOCUMENTATION.md
+vault_comparison_full.txt,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/vault_comparison_full.txt
+DOMAIN_STRATEGY_ANALYSIS.md,AI/ML,1.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/DOMAIN_STRATEGY_ANALYSIS.md
+Untitled_2.txt,General,0.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/Untitled_2.txt
+find_code_dupes.py,General,0.00,low,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/find_code_dupes.py
+AVATARARTS_ECOSYSTEM_ANALYSIS_REPORT.md,Data Analysis,2.00,N/A,0.009,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_ECOSYSTEM_ANALYSIS_REPORT.md
+research_and_seek_out_files_within_the_folders_yo,AI/ML,1.00,N/A,0.305,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/research_and_seek_out_files_within_the_folders_yo
+AVATARARTS_PRODUCTS_AND_SERVICES.md,AI/ML,2.00,N/A,0.013,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_PRODUCTS_AND_SERVICES.md
+hidden_files_recent_activity_20260205_191119.txt,AI/ML,1.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/hidden_files_recent_activity_20260205_191119.txt
+EXTENDED_HOME_FINDINGS.md,Data Analysis,1.00,N/A,0.013,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/EXTENDED_HOME_FINDINGS.md
+PYTHONS_ANALYSIS_AND_IMPROVEMENTS.md,Data Analysis,0.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/PYTHONS_ANALYSIS_AND_IMPROVEMENTS.md
+xeo-seo-etc.md,AI/ML,2.00,N/A,0.277,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/xeo-seo-etc.md
+batch3_etsy_cleanup.txt,Data Analysis,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/batch3_etsy_cleanup.txt
+logic_tags.txt,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/logic_tags.txt
+UNIVERSAL_SETUP_GUIDE.md,Automation Scripts,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/UNIVERSAL_SETUP_GUIDE.md
+GEMINI.md.original_backup,AI/ML,2.00,N/A,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GEMINI.md.original_backup
+BATCH2_PYTHONS_ACTIVATION_ANALYSIS.md,Automation Scripts,1.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/BATCH2_PYTHONS_ACTIVATION_ANALYSIS.md
+EXTENDED_HOME_FINDINGS.csv,Data Analysis,1.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/EXTENDED_HOME_FINDINGS.csv
+regex-excludes.txt,General,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/regex-excludes.txt
+conversation_fuzzy_finder.sh,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/conversation_fuzzy_finder.sh
+GPT_USERNAME_ALTERNATIVES.md,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GPT_USERNAME_ALTERNATIVES.md
+uv.lock,Data Analysis,0.00,N/A,0.098,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/uv.lock
+BATCH1_VAULT_REPORT.txt,General,0.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/BATCH1_VAULT_REPORT.txt
+Consolidated_Family_Tree_Report.md,AI/ML,1.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/Consolidated_Family_Tree_Report.md
+PROGRESS_REPORT.txt,AI/ML,1.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/PROGRESS_REPORT.txt
+ZIP_ORGANIZATION_FINAL.txt,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/ZIP_ORGANIZATION_FINAL.txt
+Caveats,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/Caveats
+intelli-scan.txt,AI/ML,1.00,N/A,0.99,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/intelli-scan.txt
+ultra_simple_demo.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/ultra_simple_demo.sh
+GUMROAD_BUNDLE_STRATEGY.md,Automation Scripts,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GUMROAD_BUNDLE_STRATEGY.md
+BATCH1_FINAL_SUMMARY.md,Data Analysis,0.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/BATCH1_FINAL_SUMMARY.md
+reorganization_preview_2026.csv,Automation Scripts,0.00,N/A,0.041,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/reorganization_preview_2026.csv
+AVATARARTS_organization_analysis_20260205_083226.json,Data Analysis,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_organization_analysis_20260205_083226.json
+update_music_inventory.py,Data Analysis,1.00,low,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/update_music_inventory.py
+qwen_conversations_simple_clean.html,Web Development,0.00,N/A,2.737,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/qwen_conversations_simple_clean.html
+ECOSYSTEM_ACTIVATION_DASHBOARD.md,Automation Scripts,2.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/ECOSYSTEM_ACTIVATION_DASHBOARD.md
+MASTER_BEFORE_AFTER_MIGRATION.csv,Data Analysis,0.00,N/A,1.38,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/MASTER_BEFORE_AFTER_MIGRATION.csv
+conversation_history_obsidian.md,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/conversation_history_obsidian.md
+conversation_fuzzy_finder_preview.md,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/conversation_fuzzy_finder_preview.md
+scan_results.csv,AI/ML,1.00,N/A,0.218,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/scan_results.csv
+rename_suno_uuids.py,Data Analysis,0.00,low,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/rename_suno_uuids.py
+consolidate_into_masterxeo.sh,General,1.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/consolidate_into_masterxeo.sh
+CONVERSATION-EXPORT.md,General,0.00,N/A,0.012,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/CONVERSATION-EXPORT.md
+AVATARARTS_PROJECT_COMPLETION_SUMMARY.md,Data Analysis,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_PROJECT_COMPLETION_SUMMARY.md
+filesystem_user_guide.md,AI/ML,1.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/filesystem_user_guide.md
+GUMROAD_PHASE_3_SUMMARY.md,Automation Scripts,2.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GUMROAD_PHASE_3_SUMMARY.md
+structural_dedupe_report.csv,Data Analysis,0.00,N/A,1.353,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/structural_dedupe_report.csv
+demo_ecosystem_assets.csv,Data Analysis,0.00,N/A,9.271,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/demo_ecosystem_assets.csv
+comprehensive_python_scan_results.json,General,0.00,N/A,4.786,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/comprehensive_python_scan_results.json
+tools_analysis_report.json,Automation Scripts,0.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/tools_analysis_report.json
+implement_intuitive_organization.sh,Data Analysis,1.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/implement_intuitive_organization.sh
+AVATARARTS_CURRENT_STATUS.md,Automation Scripts,2.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_CURRENT_STATUS.md
+AVATARARTS_FOUNDATION.md,Automation Scripts,2.00,N/A,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_FOUNDATION.md
+final_comprehensive_analysis.sh,Data Analysis,1.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/final_comprehensive_analysis.sh
+xeo0.txt,General,0.00,N/A,10.824,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/xeo0.txt
+summarize_manifest.py,General,0.00,low,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/summarize_manifest.py
+FUNCTIONS_AND_ALIASES.md,AI/ML,1.00,N/A,0.009,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/FUNCTIONS_AND_ALIASES.md
+consolidation_preview.sh,General,0.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/consolidation_preview.sh
+AVATARARTS_EMPIRE_NOTION_DATABASE.md,Automation Scripts,2.00,N/A,0.013,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_EMPIRE_NOTION_DATABASE.md
+consolidation_status.json,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/consolidation_status.json
+DOT_DIRS_FULL_FINDINGS.csv,Web Development,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/DOT_DIRS_FULL_FINDINGS.csv
+qwen_conversations_clean.html,Web Development,0.00,N/A,3.3,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/qwen_conversations_clean.html
+summarize_manifestr.py,General,0.00,low,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/summarize_manifestr.py
+AVATARARTS_ECOSYSTEM_COMPLETE_TRANSFORMATION_CERTIFICATE.md,General,1.00,N/A,0.013,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_ECOSYSTEM_COMPLETE_TRANSFORMATION_CERTIFICATE.md
+don_s_DoMinionv_-_faLse_Prophecies.csv,Automation Scripts,1.00,N/A,0.164,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/don_s_DoMinionv_-_faLse_Prophecies.csv
+CODESTER_vs_GUMROAD_STRATEGY.md,Automation Scripts,2.00,N/A,0.013,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/CODESTER_vs_GUMROAD_STRATEGY.md
+ETSY_CONTENT_REVIEW.txt,Data Analysis,0.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/ETSY_CONTENT_REVIEW.txt
+BATCH2_COMPLETE.txt,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/BATCH2_COMPLETE.txt
+consolidate_marketmaster.sh,Automation Scripts,0.00,N/A,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/consolidate_marketmaster.sh
+qwen_conversations_export.html,Web Development,0.00,N/A,3.147,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/qwen_conversations_export.html
+filesystem_master_index_20260205_182527.txt,AI/ML,1.00,N/A,0.019,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/filesystem_master_index_20260205_182527.txt
+manifest.tsv,AI/ML,1.00,N/A,0.052,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/manifest.tsv
+pyproject.toml,Automation Scripts,0.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/pyproject.toml
+selective_deduplication.py,General,0.00,low,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/selective_deduplication.py
+check_grok_setup_full.sh,Automation Scripts,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/check_grok_setup_full.sh
+AVATARARTS_COMPLETE_PROJECT_SUMMARY_AND_CELEBRATION.md,AI/ML,2.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_COMPLETE_PROJECT_SUMMARY_AND_CELEBRATION.md
+setup_dev.sh,AI/ML,1.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/setup_dev.sh
+TOP_20_MARKETPLACE_DESCRIPTIONS.md,Automation Scripts,1.00,N/A,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/TOP_20_MARKETPLACE_DESCRIPTIONS.md
+GEMINIi.md,Automation Scripts,2.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GEMINIi.md
+gumroad-massive.txt,General,0.00,N/A,0.995,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/gumroad-massive.txt
+xEo-loveable.txt,AI/ML,1.00,N/A,0.262,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/xEo-loveable.txt
+ETSY_CONSOLIDATION_COMPLETE.txt,Data Analysis,0.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/ETSY_CONSOLIDATION_COMPLETE.txt
+consolidation_preview.csv,Web Development,0.00,N/A,0.159,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/consolidation_preview.csv
+GUMROAD_QUICK_START.txt,AI/ML,2.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GUMROAD_QUICK_START.txt
+maintenance_output.log,AI/ML,1.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/maintenance_output.log
+content_audit_report.txt,Data Analysis,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/content_audit_report.txt
+review-xeo-ai.lovable.txt,AI/ML,1.00,N/A,0.064,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/review-xeo-ai.lovable.txt
+execute_special_cases.sh,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/execute_special_cases.sh
+compare_hashes.py,General,0.00,low,0.001,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/compare_hashes.py
+TWITTER_USERNAME_SUGGESTIONS.md,AI/ML,1.00,N/A,0.012,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/TWITTER_USERNAME_SUGGESTIONS.md
+DOT_DIRS_FULL_FINDINGS.md,AI/ML,1.00,N/A,0.013,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/DOT_DIRS_FULL_FINDINGS.md
+GUMROAD_MASTER_INDEX.md,AI/ML,2.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GUMROAD_MASTER_INDEX.md
+move_marketplace_docs.sh,General,1.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/move_marketplace_docs.sh
+READMEd.md,Automation Scripts,1.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/READMEd.md
+marketmaster_complete_guide.sh,Automation Scripts,0.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/marketmaster_complete_guide.sh
+xsh_tool.zsh,General,0.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/xsh_tool.zsh
+reorganization_preview_2026_MASTER_V3.csv,Automation Scripts,0.00,N/A,0.09,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/reorganization_preview_2026_MASTER_V3.csv
+verify_zsh_config.zsh,Automation Scripts,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/verify_zsh_config.zsh
+REVIEW_BEFORE_MOVING.txt,Automation Scripts,1.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/REVIEW_BEFORE_MOVING.txt
+AVATARARTS_IMPLEMENTATION_PLAN.md,Automation Scripts,2.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_IMPLEMENTATION_PLAN.md
+FULL_HOME_REVIEW_2026-02-04.md,Data Analysis,1.00,N/A,0.014,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/FULL_HOME_REVIEW_2026-02-04.md
+local_down.txt,General,0.00,N/A,8.211,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/local_down.txt
+consolidate_business_ecosystem.sh,Automation Scripts,1.00,N/A,0.013,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/consolidate_business_ecosystem.sh
+filesystem_master_index_20260205_182454.txt,AI/ML,1.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/filesystem_master_index_20260205_182454.txt
+gemini_context_audit.csv,AI/ML,0.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/gemini_context_audit.csv
+icloud_manifest.txt,General,0.00,N/A,0.208,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/icloud_manifest.txt
+master-xeo-seller.txt,AI/ML,2.00,N/A,0.08,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/master-xeo-seller.txt
+AVATARARTS_ACTIVATION_ROADMAP.md,Automation Scripts,2.00,N/A,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_ACTIVATION_ROADMAP.md
+dedupe_components.py,General,0.00,low,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/dedupe_components.py
+context_auditor.py,AI/ML,0.00,low,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/context_auditor.py
+create_marketplace_structures.sh,Automation Scripts,1.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/create_marketplace_structures.sh
+filesystem_master_index_20260208_064111.txt,AI/ML,1.00,N/A,0.021,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/filesystem_master_index_20260208_064111.txt
+gemini-conversation-1770192511962.json,AI/ML,1.00,N/A,0.699,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/gemini-conversation-1770192511962.json
+marketmaster_final_guide.sh,Automation Scripts,0.00,N/A,0.009,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/marketmaster_final_guide.sh
+consolidate_remaining_gumroad.sh,AI/ML,1.00,N/A,0.009,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/consolidate_remaining_gumroad.sh
+batch3_local_etsy_review.txt,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/batch3_local_etsy_review.txt
+notebooklm-complete-archive-20260121.tar.gz,General,0.00,N/A,23.349,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/notebooklm-complete-archive-20260121.tar.gz
+BATCH3_COMPLETE.txt,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/BATCH3_COMPLETE.txt
+qwen_conversations_export_advanced.html,Automation Scripts,2.00,N/A,0.3,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/qwen_conversations_export_advanced.html
+local_raw.txt,Data Analysis,0.00,N/A,0.347,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/local_raw.txt
+SESSION_CHECKPOINT_20260208.md,Web Development,0.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/SESSION_CHECKPOINT_20260208.md
+avatararts-packaging-script.sh,Automation Scripts,0.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/avatararts-packaging-script.sh
+GEMINIs.md,AI/ML,2.00,N/A,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GEMINIs.md
+finish_business_integration.sh,General,1.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/finish_business_integration.sh
+INVENTORY-AND-REVIEW.md,General,0.00,N/A,0.012,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/INVENTORY-AND-REVIEW.md
+error.pdf,Automation Scripts,0.00,N/A,0.444,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/error.pdf
+preview_intuitive_organization.sh,Automation Scripts,1.00,N/A,0.009,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/preview_intuitive_organization.sh
+find_functional_dupes.py,General,0.00,low,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/find_functional_dupes.py
+preview_comprehensive_inventory.sh,General,0.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/preview_comprehensive_inventory.sh
+gemini-lvl.txt,AI/ML,0.00,N/A,0.824,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/gemini-lvl.txt
+consolidation_log.json,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/consolidation_log.json
+MARKETPLACE_PLATFORM_QUICK_REFERENCE.md,Automation Scripts,2.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/MARKETPLACE_PLATFORM_QUICK_REFERENCE.md
+physical_map.txt,AI/ML,2.00,N/A,0.012,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/physical_map.txt
+avatararts_content_aware_consolidation_script.sh,Automation Scripts,2.00,N/A,0.015,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/avatararts_content_aware_consolidation_script.sh
+HOME_DIRS_FINDINGS.md,AI/ML,1.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/HOME_DIRS_FINDINGS.md
+GUMROAD_EMAIL_LIST_STRATEGY.md,AI/ML,2.00,N/A,0.014,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GUMROAD_EMAIL_LIST_STRATEGY.md
+UNIVERSAL_SETUP_GUIDE_v2.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/UNIVERSAL_SETUP_GUIDE_v2.md
+Untitled.txt,AI/ML,1.00,N/A,0.012,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/Untitled.txt
+CLAUDE_DATA_LOCATIONS.md,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/CLAUDE_DATA_LOCATIONS.md
+making-monies.md,AI/ML,1.00,N/A,0.043,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/making-monies.md
+generate_redundancy_map.py,Data Analysis,0.00,low,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/generate_redundancy_map.py
+ecosystem_consolidation_master_plan.md,AI/ML,1.00,N/A,0.017,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/ecosystem_consolidation_master_plan.md
+vault_comparison_batch1_final.txt,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/vault_comparison_batch1_final.txt
+COMPREHENSIVE_ECOSYSTEM_ANALYSIS.md,Data Analysis,0.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/COMPREHENSIVE_ECOSYSTEM_ANALYSIS.md
+deepdiver.txt,Automation Scripts,2.00,N/A,0.034,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/deepdiver.txt
+deep_content_compare.py,General,0.00,low,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/deep_content_compare.py
+AVATARARTS_ECOSYSTEM_ORGANIZATION_SUMMARY.md,Automation Scripts,1.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_ECOSYSTEM_ORGANIZATION_SUMMARY.md
+Marketplace_Platform_Comparison.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/Marketplace_Platform_Comparison.md
+conversation_history_cards.md,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/conversation_history_cards.md
+scan_and_structure.py,Web Development,1.00,low,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/scan_and_structure.py
+package-lock.json,Web Development,1.00,N/A,0.242,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/package-lock.json
+package.json,AI/ML,1.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/package.json
+error.jpg,Automation Scripts,0.00,N/A,0.443,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/error.jpg
+update-log-20260208-061352.log,General,0.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/update-log-20260208-061352.log
+quick_hidden_recent_scan.sh,General,0.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/quick_hidden_recent_scan.sh
+_DeepSeek_-_Into_the_Unknown.txt,General,0.00,N/A,9.823,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/_DeepSeek_-_Into_the_Unknown.txt
+HOME_DIRS_FINDINGS.csv,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/HOME_DIRS_FINDINGS.csv
+avatararta-23.txt,General,0.00,N/A,5.21,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/avatararta-23.txt
+PROMPTOCALYSE_PROFILE_DESIGN.md,AI/ML,1.00,N/A,0.014,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/PROMPTOCALYSE_PROFILE_DESIGN.md
+advanced_structure_analysis.json,Data Analysis,0.00,N/A,1.995,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/advanced_structure_analysis.json
+merge_recommendations.json,Automation Scripts,0.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/merge_recommendations.json
+targeted_deep_dive_analysis.csv,Data Analysis,0.00,N/A,102.769,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/targeted_deep_dive_analysis.csv
+AVATARARTS_CORRECTED_PLATFORM_SUMMARY.md,Automation Scripts,2.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_CORRECTED_PLATFORM_SUMMARY.md
+pythons_organization_analysis_20260205_083233.json,Data Analysis,0.00,N/A,0.014,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/pythons_organization_analysis_20260205_083233.json
+index_hidden_recent_files.sh,General,0.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/index_hidden_recent_files.sh
+compare_vault_full.py,General,0.00,low,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/compare_vault_full.py
+universal_router.py,Automation Scripts,1.00,low,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/universal_router.py
+demo_ecosystem_agent.db,General,0.00,N/A,10.301,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/demo_ecosystem_agent.db
+AVATARARTS_REVENUE_ASSET_IDENTIFICATION_COMPLETE_SUMMARY.md,Automation Scripts,2.00,N/A,0.009,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_REVENUE_ASSET_IDENTIFICATION_COMPLETE_SUMMARY.md
+remote_down.txt,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/remote_down.txt
+comprehensive_home_inventory.sh,Data Analysis,0.00,N/A,0.009,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/comprehensive_home_inventory.sh
+conversation_history_dashboard.html,Web Development,2.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/conversation_history_dashboard.html
+master_script_index.txt,AI/ML,0.00,N/A,0.528,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/master_script_index.txt
+AVATARARTS_CONSOLIDATION_CHANGELOG.md,Web Development,1.00,N/A,0.009,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_CONSOLIDATION_CHANGELOG.md
+compare_hashes_v3.py,General,0.00,low,0.001,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/compare_hashes_v3.py
+simple_masterxeo_consolidation.sh,General,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/simple_masterxeo_consolidation.sh
+notebooklm-mcpo.txt,AI/ML,0.00,N/A,0.366,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/notebooklm-mcpo.txt
+compare_home_backup.py,General,0.00,low,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/compare_home_backup.py
+update-log-20260207-215140.log,Automation Scripts,0.00,N/A,0.369,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/update-log-20260207-215140.log
+GEMINI.md,AI/ML,3.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GEMINI.md
+GUMROAD_PHASE_3_EXECUTION_CHECKLIST.md,Automation Scripts,1.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GUMROAD_PHASE_3_EXECUTION_CHECKLIST.md
+gemini_extensions_installation_summary.md,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/gemini_extensions_installation_summary.md
+results_more.csv,Data Analysis,0.00,N/A,8.372,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/results_more.csv
+compare_vault_2025.py,General,0.00,low,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/compare_vault_2025.py
+EXECUTABLE_SCRIPTS_RANKED.csv,Automation Scripts,1.00,N/A,0.329,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/EXECUTABLE_SCRIPTS_RANKED.csv
+CONTENT_REVIEW.md,Automation Scripts,1.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/CONTENT_REVIEW.md
+advanced_consolidation_strategy.json,Automation Scripts,0.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/advanced_consolidation_strategy.json
+gemini_context_audit_v2.csv,AI/ML,0.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/gemini_context_audit_v2.csv
+AGENTS_SKILLS_TOOLS_FINDINGS.md,AI/ML,1.00,N/A,0.015,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AGENTS_SKILLS_TOOLS_FINDINGS.md
+AGENTS_SKILLS_TOOLS_FINDINGS.csv,AI/ML,0.00,N/A,0.016,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AGENTS_SKILLS_TOOLS_FINDINGS.csv
+cleaned_python_inventory.csv,Data Analysis,0.00,N/A,3.94,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/cleaned_python_inventory.csv
+batch1_archive_comparison.txt,AI/ML,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/batch1_archive_comparison.txt
+extract_redundant_code.py,General,0.00,low,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/extract_redundant_code.py
+cursor.code-profile,AI/ML,1.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/cursor.code-profile
+zsh_usage.csv,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/zsh_usage.csv
+Conversation_with_Gemini.md,AI/ML,1.00,N/A,0.027,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/Conversation_with_Gemini.md
+scanned_tree_with_excludes.json,General,0.00,N/A,23.3,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/scanned_tree_with_excludes.json
+XEO-AI_v4.0_ecosystem.md,AI/ML,1.00,N/A,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/XEO-AI_v4.0_ecosystem.md
+PHASE_3_UPDATED_CODESTER_FIRST.md,AI/ML,2.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/PHASE_3_UPDATED_CODESTER_FIRST.md
+DISCOVERY_REVIEW_20260208.md,Data Analysis,0.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/DISCOVERY_REVIEW_20260208.md
+ACTIVATION_MASTER_PLAN.md,Automation Scripts,1.00,N/A,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/ACTIVATION_MASTER_PLAN.md
+analyze_masterxeo_consolidation.sh,Data Analysis,0.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/analyze_masterxeo_consolidation.sh
+consolidation_setup.sh,Automation Scripts,1.00,N/A,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/consolidation_setup.sh
+Default.json,General,0.00,N/A,0.017,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/Default.json
+complete_filesystem_review.md,Automation Scripts,2.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/complete_filesystem_review.md
+simple_consolidation.sh,Automation Scripts,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/simple_consolidation.sh
+COMPREHENSIVE_APPENDED_ANALYSIS.html,Web Development,1.00,N/A,0.178,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/COMPREHENSIVE_APPENDED_ANALYSIS.html
+update-log-20260207-092227.log,Automation Scripts,0.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/update-log-20260207-092227.log
+reorganization_preview_2026_MASTER.csv,Automation Scripts,0.00,N/A,0.074,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/reorganization_preview_2026_MASTER.csv
+verify_duplicates.py,Automation Scripts,0.00,low,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/verify_duplicates.py
+audio-all.m4a,AI/ML,1.00,N/A,0.181,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/audio-all.m4a
+grow.md,Web Development,2.00,N/A,0.04,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/grow.md
+AVATARARTS_STATUS_CORRECTION_GUIDE.md,Automation Scripts,2.00,N/A,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_STATUS_CORRECTION_GUIDE.md
+qwen_conversations_export_backup_20260116_155814.html,Web Development,0.00,N/A,3.147,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/qwen_conversations_export_backup_20260116_155814.html
+intuitive_organization_demo.sh,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/intuitive_organization_demo.sh
+TOP_20_MARKETPLACE_DESCRIPTIONS.txt,Automation Scripts,1.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/TOP_20_MARKETPLACE_DESCRIPTIONS.txt
+context_auditor_v2.py,AI/ML,0.00,low,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/context_auditor_v2.py
+results_copy.csv,Data Analysis,0.00,N/A,4.449,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/results_copy.csv
+extend.md,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/extend.md
+gemini-conversation-1769271506480.json,AI/ML,1.00,N/A,0.415,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/gemini-conversation-1769271506480.json
+results.csv,Data Analysis,0.00,N/A,15.072,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/results.csv
+scanner.txt,AI/ML,1.00,N/A,0.901,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/scanner.txt
+batch2_zip_analysis.txt,Data Analysis,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/batch2_zip_analysis.txt
+AVATARARTS_DEPLOYMENT_GUIDE.md,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_DEPLOYMENT_GUIDE.md
+IMPLEMENTATION_PLAN.md,Automation Scripts,2.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/IMPLEMENTATION_PLAN.md
+AI_Empire_Course__Content_Launch.txt,AI/ML,2.00,N/A,0.03,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AI_Empire_Course__Content_Launch.txt
+create_comprehensive_index.sh,General,0.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/create_comprehensive_index.sh
+summarize_scan.py,Automation Scripts,1.00,low,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/summarize_scan.py
+marketmaster_nav.sh,General,0.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/marketmaster_nav.sh
+AVATARARTS_ACTIVATION_PLAN.md,Automation Scripts,3.00,N/A,0.009,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_ACTIVATION_PLAN.md
+gumroad-codster-sell.txt,General,0.00,N/A,3.033,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/gumroad-codster-sell.txt
+qwen_final_space.html,Web Development,0.00,N/A,2.79,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/qwen_final_space.html
+AGENTS_SKILLS_TOOLS_PLUGINS_INVENTORY.md,AI/ML,0.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AGENTS_SKILLS_TOOLS_PLUGINS_INVENTORY.md
+comment_zshrc_sections.py,General,0.00,low,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/comment_zshrc_sections.py
+deep_logic_audit.py,General,0.00,low,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/deep_logic_audit.py
+local_manifest.txt,Data Analysis,1.00,N/A,0.076,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/local_manifest.txt
+directory_structure_mapping.csv,Automation Scripts,1.00,N/A,0.024,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/directory_structure_mapping.csv
+folder_by_folder_if_needed.txt,AI/ML,1.00,N/A,0.29,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/folder_by_folder_if_needed.txt
+NEXT_ORGANIZATION_IDEAS.md,AI/ML,1.00,N/A,0.015,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/NEXT_ORGANIZATION_IDEAS.md
+icloud_raw.txt,General,0.00,N/A,1.106,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/icloud_raw.txt
+AVATARARTS_QUICK_START_REFERENCE.md,Automation Scripts,2.00,N/A,0.007,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/AVATARARTS_QUICK_START_REFERENCE.md
+final_masterxeo_mapping.sh,AI/ML,2.00,N/A,0.013,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/final_masterxeo_mapping.sh
+gemini-fix.md,AI/ML,1.00,N/A,0.892,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/gemini-fix.md
+GUMROAD_BUNDLE_1_PRODUCT_PAGE.md,Automation Scripts,0.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/GUMROAD_BUNDLE_1_PRODUCT_PAGE.md
+2T-Xx_inventory_report.txt,Automation Scripts,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/2T-Xx_inventory_report.txt
+batch2_zip_comparison.txt,AI/ML,0.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/workspace-ecosystem-audit/targets_batch_20260208/batch2_zip_comparison.txt
+SKILL.md,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/sora/SKILL.md
+LICENSE.txt,General,0.00,N/A,0.01,/Users/steven/iterm2/Codex/skills/sora/LICENSE.txt
+cinematic-shots.md,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/sora/references/cinematic-shots.md
+sample-prompts.md,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/Codex/skills/sora/references/sample-prompts.md
+cli.md,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/sora/references/cli.md
+video-api.md,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/sora/references/video-api.md
+troubleshooting.md,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/sora/references/troubleshooting.md
+social-ads.md,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/sora/references/social-ads.md
+codex-network.md,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/sora/references/codex-network.md
+prompting.md,AI/ML,1.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/sora/references/prompting.md
+openai.yaml,AI/ML,1.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/sora/agents/openai.yaml
+sora.py,AI/ML,1.00,high,0.031,/Users/steven/iterm2/Codex/skills/sora/scripts/sora.py
+sora.png,AI/ML,1.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/sora/assets/sora.png
+sora-small.svg,General,0.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/sora/assets/sora-small.svg
+SKILL.md,AI/ML,1.00,N/A,0.018,/Users/steven/iterm2/Codex/skills/skill-creator/SKILL.md
+license.txt,General,0.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/skill-creator/license.txt
+openai_yaml.md,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/skill-creator/references/openai_yaml.md
+openai.yaml,AI/ML,1.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/skill-creator/agents/openai.yaml
+init_skill.py,Automation Scripts,1.00,low,0.014,/Users/steven/iterm2/Codex/skills/skill-creator/scripts/init_skill.py
+quick_validate.py,Automation Scripts,0.00,low,0.003,/Users/steven/iterm2/Codex/skills/skill-creator/scripts/quick_validate.py
+generate_openai_yaml.py,AI/ML,1.00,low,0.006,/Users/steven/iterm2/Codex/skills/skill-creator/scripts/generate_openai_yaml.py
+skill-creator-small.svg,General,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-creator/assets/skill-creator-small.svg
+skill-creator.png,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-creator/assets/skill-creator.png
+LICENSE,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-porter/LICENSE
+gemini-extension.json,AI/ML,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-porter/gemini-extension.json
+README.md,AI/ML,0.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/skill-porter/README.md
+package.json,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-porter/package.json
+CONTRIBUTING.md,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/skill-porter/CONTRIBUTING.md
+SKILL.md,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/skill-porter/SKILL.md
+TEST_RESULTS.md,AI/ML,0.00,N/A,0.006,/Users/steven/iterm2/Codex/skills/skill-porter/TEST_RESULTS.md
+GEMINI.md,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/skill-porter/GEMINI.md
+examples.md,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/skill-porter/shared/examples.md
+reference.md,Web Development,1.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/skill-porter/shared/reference.md
+README.md,AI/ML,1.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/skill-porter/examples/README.md
+gemini-extension.json,Web Development,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-porter/examples/before-after/api-connector-converted/gemini-extension.json
+SKILL.md,Web Development,0.00,N/A,0.002,/Users/steven/iterm2/Codex/skills/skill-porter/examples/before-after/api-connector-converted/SKILL.md
+GEMINI.md,Web Development,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-porter/examples/before-after/api-connector-converted/GEMINI.md
+examples.md,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/skill-porter/examples/before-after/api-connector-converted/shared/examples.md
+reference.md,Web Development,1.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/skill-porter/examples/before-after/api-connector-converted/shared/reference.md
+gemini-extension.json,Automation Scripts,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-porter/examples/before-after/code-formatter-converted/gemini-extension.json
+SKILL.md,Automation Scripts,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-porter/examples/before-after/code-formatter-converted/SKILL.md
+GEMINI.md,AI/ML,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-porter/examples/before-after/code-formatter-converted/GEMINI.md
+examples.md,General,0.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/skill-porter/examples/before-after/code-formatter-converted/shared/examples.md
+reference.md,Web Development,1.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/skill-porter/examples/before-after/code-formatter-converted/shared/reference.md
+gemini-extension.json,Web Development,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-porter/examples/api-connector-gemini/gemini-extension.json
+GEMINI.md,Web Development,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-porter/examples/api-connector-gemini/GEMINI.md
+SKILL.md,Automation Scripts,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-porter/examples/simple-claude-skill/SKILL.md
+GEMINI_ARCH_GUIDE.md,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/skill-porter/templates/GEMINI_ARCH_GUIDE.md
+index.js,AI/ML,1.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/skill-porter/src/index.js
+cli.js,AI/ML,1.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/skill-porter/src/cli.js
+detector.js,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/skill-porter/src/analyzers/detector.js
+validator.js,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/skill-porter/src/analyzers/validator.js
+claude-to-gemini.js,AI/ML,1.00,N/A,0.015,/Users/steven/iterm2/Codex/skills/skill-porter/src/converters/claude-to-gemini.js
+gemini-to-claude.js,AI/ML,1.00,N/A,0.013,/Users/steven/iterm2/Codex/skills/skill-porter/src/converters/gemini-to-claude.js
+fork-setup.js,AI/ML,0.00,N/A,0.005,/Users/steven/iterm2/Codex/skills/skill-porter/src/optional-features/fork-setup.js
+pr-generator.js,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/Codex/skills/skill-porter/src/optional-features/pr-generator.js
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/skills/skill-installer/SKILL.md
+LICENSE.txt,General,0.00,N/A,0.011,/Users/steven/iterm2/Codex/skills/skill-installer/LICENSE.txt
+openai.yaml,AI/ML,1.00,N/A,0.0,/Users/steven/iterm2/Codex/skills/skill-installer/agents/openai.yaml
+github_utils.py,Web Development,0.00,low,0.001,/Users/steven/iterm2/Codex/skills/skill-installer/scripts/github_utils.py
+list-skills.py,AI/ML,1.00,low,0.003,/Users/steven/iterm2/Codex/skills/skill-installer/scripts/list-skills.py
+install-skill-from-github.py,AI/ML,1.00,high,0.01,/Users/steven/iterm2/Codex/skills/skill-installer/scripts/install-skill-from-github.py
+skill-installer.png,General,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-installer/assets/skill-installer.png
+skill-installer-small.svg,General,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/skill-installer/assets/skill-installer-small.svg
+SKILL.md,Automation Scripts,0.00,N/A,0.001,/Users/steven/iterm2/Codex/skills/random-demo/SKILL.md
+applypatch,General,0.00,N/A,49.898,/Users/steven/iterm2/Codex/tmp/path/codex-arg0Eq1o14/applypatch
+apply_patch,General,0.00,N/A,49.898,/Users/steven/iterm2/Codex/tmp/path/codex-arg0Eq1o14/apply_patch
+applypatch,General,0.00,N/A,49.898,/Users/steven/iterm2/Codex/tmp/path/codex-arg0ENxtaX/applypatch
+apply_patch,General,0.00,N/A,49.898,/Users/steven/iterm2/Codex/tmp/path/codex-arg0ENxtaX/apply_patch
+applypatch,General,0.00,N/A,49.898,/Users/steven/iterm2/Codex/tmp/path/codex-arg0881pDV/applypatch
+apply_patch,General,0.00,N/A,49.898,/Users/steven/iterm2/Codex/tmp/path/codex-arg0881pDV/apply_patch
+applypatch,General,0.00,N/A,49.898,/Users/steven/iterm2/Codex/tmp/path/codex-arg07JsOn3/applypatch
+apply_patch,General,0.00,N/A,49.898,/Users/steven/iterm2/Codex/tmp/path/codex-arg07JsOn3/apply_patch
+applypatch,General,0.00,N/A,59.039,/Users/steven/iterm2/Codex/tmp/arg0/codex-arg0MXxAcb/applypatch
+apply_patch,General,0.00,N/A,59.039,/Users/steven/iterm2/Codex/tmp/arg0/codex-arg0MXxAcb/apply_patch
+SKILL.md,AI/ML,0.00,N/A,0.005,/Users/steven/iterm2/Codex/superpowers/skills/using-git-worktrees/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.009,/Users/steven/iterm2/Codex/superpowers/skills/test-driven-development/SKILL.md
+testing-anti-patterns.md,Automation Scripts,1.00,N/A,0.008,/Users/steven/iterm2/Codex/superpowers/skills/test-driven-development/testing-anti-patterns.md
+test-pressure-1.md,Web Development,2.00,N/A,0.002,/Users/steven/iterm2/Codex/superpowers/skills/systematic-debugging/test-pressure-1.md
+condition-based-waiting.md,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/superpowers/skills/systematic-debugging/condition-based-waiting.md
+test-pressure-2.md,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/superpowers/skills/systematic-debugging/test-pressure-2.md
+CREATION-LOG.md,AI/ML,0.00,N/A,0.004,/Users/steven/iterm2/Codex/superpowers/skills/systematic-debugging/CREATION-LOG.md
+test-academic.md,General,0.00,N/A,0.001,/Users/steven/iterm2/Codex/superpowers/skills/systematic-debugging/test-academic.md
+defense-in-depth.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/iterm2/Codex/superpowers/skills/systematic-debugging/defense-in-depth.md
+SKILL.md,AI/ML,1.00,N/A,0.009,/Users/steven/iterm2/Codex/superpowers/skills/systematic-debugging/SKILL.md
+test-pressure-3.md,General,0.00,N/A,0.003,/Users/steven/iterm2/Codex/superpowers/skills/systematic-debugging/test-pressure-3.md
+root-cause-tracing.md,AI/ML,1.00,N/A,0.005,/Users/steven/iterm2/Codex/superpowers/skills/systematic-debugging/root-cause-tracing.md
+condition-based-waiting-example.ts,AI/ML,1.00,N/A,0.005,/Users/steven/iterm2/Codex/superpowers/skills/systematic-debugging/condition-based-waiting-example.ts
+find-polluter.sh,Automation Scripts,0.00,N/A,0.001,/Users/steven/iterm2/Codex/superpowers/skills/systematic-debugging/find-polluter.sh
+SKILL.md,AI/ML,0.00,N/A,0.004,/Users/steven/iterm2/Codex/superpowers/skills/using-superpowers/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.006,/Users/steven/iterm2/Codex/superpowers/skills/dispatching-parallel-agents/SKILL.md
+SKILL.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/iterm2/Codex/superpowers/skills/executing-plans/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/Codex/superpowers/skills/finishing-a-development-branch/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/superpowers/skills/brainstorming/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/superpowers/skills/writing-plans/SKILL.md
+code-reviewer.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/iterm2/Codex/superpowers/skills/requesting-code-review/code-reviewer.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/Codex/superpowers/skills/requesting-code-review/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.006,/Users/steven/iterm2/Codex/superpowers/skills/receiving-code-review/SKILL.md
+testing-skills-with-subagents.md,AI/ML,1.00,N/A,0.012,/Users/steven/iterm2/Codex/superpowers/skills/writing-skills/testing-skills-with-subagents.md
+render-graphs.js,General,0.00,N/A,0.005,/Users/steven/iterm2/Codex/superpowers/skills/writing-skills/render-graphs.js
+anthropic-best-practices.md,AI/ML,0.00,N/A,0.044,/Users/steven/iterm2/Codex/superpowers/skills/writing-skills/anthropic-best-practices.md
+persuasion-principles.md,AI/ML,1.00,N/A,0.006,/Users/steven/iterm2/Codex/superpowers/skills/writing-skills/persuasion-principles.md
+SKILL.md,AI/ML,1.00,N/A,0.021,/Users/steven/iterm2/Codex/superpowers/skills/writing-skills/SKILL.md
+graphviz-conventions.dot,AI/ML,1.00,N/A,0.006,/Users/steven/iterm2/Codex/superpowers/skills/writing-skills/graphviz-conventions.dot
+CLAUDE_MD_TESTING.md,AI/ML,1.00,N/A,0.005,/Users/steven/iterm2/Codex/superpowers/skills/writing-skills/examples/CLAUDE_MD_TESTING.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/Codex/superpowers/skills/verification-before-completion/SKILL.md
+spec-reviewer-prompt.md,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/Codex/superpowers/skills/subagent-driven-development/spec-reviewer-prompt.md
+implementer-prompt.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/iterm2/Codex/superpowers/skills/subagent-driven-development/implementer-prompt.md
+SKILL.md,AI/ML,1.00,N/A,0.009,/Users/steven/iterm2/Codex/superpowers/skills/subagent-driven-development/SKILL.md
+code-quality-reviewer-prompt.md,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/Codex/superpowers/skills/subagent-driven-development/code-quality-reviewer-prompt.md
+ecosystem_inventory_2026-02-10_fulltree.json,General,0.00,N/A,28.096,/Users/steven/iterm2/docs/ecosystem_inventory_2026-02-10_fulltree.json
+notion_workbook_template.md,AI/ML,0.00,N/A,0.001,/Users/steven/iterm2/docs/notion_workbook_template.md
+discovery_2026-02-10.md,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/docs/discovery_2026-02-10.md
+ecosystem_inventory_2026-02-10.json,General,0.00,N/A,28.05,/Users/steven/iterm2/docs/ecosystem_inventory_2026-02-10.json
+upwork-xeo-income-codester-index.md,AI/ML,1.00,N/A,0.006,/Users/steven/iterm2/docs/upwork-xeo-income-codester-index.md
+duplicate_code_report_2026-02-10.json,General,0.00,N/A,24.876,/Users/steven/iterm2/docs/duplicate_code_report_2026-02-10.json
+exploration_superpowers_ecosystems_2026-02-10.md,AI/ML,1.00,N/A,0.014,/Users/steven/iterm2/docs/exploration_superpowers_ecosystems_2026-02-10.md
+manifest-referenced-paths_2026-02-10.md,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/docs/manifest-referenced-paths_2026-02-10.md
+comprehension-summary_2026-02-10.md,AI/ML,2.00,N/A,0.007,/Users/steven/iterm2/docs/comprehension-summary_2026-02-10.md
+git-worktrees-and-refs-2026-02-10.md,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/docs/git-worktrees-and-refs-2026-02-10.md
+resources-available-index.md,AI/ML,1.00,N/A,0.008,/Users/steven/iterm2/docs/resources-available-index.md
+git-ai-overview-and-uses.md,AI/ML,1.00,N/A,0.004,/Users/steven/iterm2/docs/git-ai-overview-and-uses.md
+steven_largest_dirs.txt,Web Development,1.00,N/A,0.008,/Users/steven/iterm2/docs/agent_ops/steven_largest_dirs.txt
+steven_largest_files.txt,Web Development,1.00,N/A,0.017,/Users/steven/iterm2/docs/agent_ops/steven_largest_files.txt
+steven_top_level.txt,AI/ML,1.00,N/A,0.04,/Users/steven/iterm2/docs/agent_ops/steven_top_level.txt
+steven_deep_inventory.sh,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/docs/agent_ops/steven_deep_inventory.sh
+steven_recent_files_7d.txt,AI/ML,1.00,N/A,0.162,/Users/steven/iterm2/docs/agent_ops/steven_recent_files_7d.txt
+README.md,Automation Scripts,0.00,N/A,0.001,/Users/steven/iterm2/docs/agent_ops/README.md
+steven_inventory.txt,AI/ML,1.00,N/A,0.041,/Users/steven/iterm2/docs/agent_ops/steven_inventory.txt
+2026-02-10-content-awareness-implementation.md,Automation Scripts,0.00,N/A,0.006,/Users/steven/iterm2/docs/plans/2026-02-10-content-awareness-implementation.md
+2026-02-10-content-awareness.md,AI/ML,1.00,N/A,0.007,/Users/steven/iterm2/docs/plans/2026-02-10-content-awareness.md
+2026-02-10-duplicate-detection-system-design.md,AI/ML,1.00,N/A,0.005,/Users/steven/iterm2/docs/plans/2026-02-10-duplicate-detection-system-design.md
+2026-02-10-prompt-engineering-exploration.md,AI/ML,1.00,N/A,0.005,/Users/steven/iterm2/docs/plans/2026-02-10-prompt-engineering-exploration.md
+2026-02-10-content-awareness-design.md,Automation Scripts,0.00,N/A,0.008,/Users/steven/iterm2/docs/plans/2026-02-10-content-awareness-design.md
+2026-02-10-git-ai-brainstorm-design.md,AI/ML,1.00,N/A,0.003,/Users/steven/iterm2/docs/plans/2026-02-10-git-ai-brainstorm-design.md
+2026-02-10-prompt-engineering.md,Automation Scripts,1.00,N/A,0.007,/Users/steven/iterm2/docs/plans/2026-02-10-prompt-engineering.md
+2026-02-10-changelog.md,Automation Scripts,0.00,N/A,0.004,/Users/steven/iterm2/docs/changelogs/2026-02-10-changelog.md
+2026-02-10-narrative.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/iterm2/docs/changelogs/2026-02-10-narrative.md
+2026-02-10-notion-workbook.md,General,0.00,N/A,0.0,/Users/steven/iterm2/docs/chat_points/2026-02-10-notion-workbook.md
+iterative_refinement_loop.md,AI/ML,0.00,N/A,0.004,/Users/steven/iterm2/docs/prompt_engineering/iterative_refinement_loop.md
+prompt_structure_optimization.md,AI/ML,1.00,N/A,0.005,/Users/steven/iterm2/docs/prompt_engineering/prompt_structure_optimization.md
+performance_benchmarking.md,AI/ML,1.00,N/A,0.006,/Users/steven/iterm2/docs/prompt_engineering/performance_benchmarking.md
+variable_injection_strategy.md,AI/ML,1.00,N/A,0.005,/Users/steven/iterm2/docs/prompt_engineering/variable_injection_strategy.md
+output_formatting_control.md,AI/ML,0.00,N/A,0.006,/Users/steven/iterm2/docs/prompt_engineering/output_formatting_control.md
+AVATARARTS_FINAL_REVIEW.md,AI/ML,1.00,N/A,0.017,/Users/steven/iterm2/cursor-ecosystem/AVATARARTS_FINAL_REVIEW.md
+move-to-dotcursor.sh,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/cursor-ecosystem/move-to-dotcursor.sh
+PHASE_2_EXECUTION_REPORT.md,Automation Scripts,0.00,N/A,0.005,/Users/steven/iterm2/cursor-ecosystem/PHASE_2_EXECUTION_REPORT.md
+cli-config.json,Data Analysis,1.00,N/A,0.196,/Users/steven/iterm2/cursor-ecosystem/cli-config.json
+check-before-symlink.sh,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/cursor-ecosystem/check-before-symlink.sh
+book-mark.txt,AI/ML,1.00,N/A,0.012,/Users/steven/iterm2/cursor-ecosystem/book-mark.txt
+README.md,Automation Scripts,0.00,N/A,0.001,/Users/steven/iterm2/cursor-ecosystem/README.md
+update.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/iterm2/cursor-ecosystem/update.sh
+REORGANIZATION_SAFETY_BLUEPRINT.md,Automation Scripts,1.00,N/A,0.006,/Users/steven/iterm2/cursor-ecosystem/REORGANIZATION_SAFETY_BLUEPRINT.md
+hooks.json,AI/ML,1.00,N/A,0.0,/Users/steven/iterm2/cursor-ecosystem/hooks.json
+argv.json,General,0.00,N/A,0.001,/Users/steven/iterm2/cursor-ecosystem/argv.json
+CHAT_MEMORY.md,AI/ML,1.00,N/A,0.002,/Users/steven/iterm2/cursor-ecosystem/CHAT_MEMORY.md
+prompt_history.json,AI/ML,1.00,N/A,0.195,/Users/steven/iterm2/cursor-ecosystem/prompt_history.json
+ide_state.json,Web Development,0.00,N/A,0.001,/Users/steven/iterm2/cursor-ecosystem/ide_state.json
+agent-cli-state.json,General,0.00,N/A,0.0,/Users/steven/iterm2/cursor-ecosystem/agent-cli-state.json
+mcp.json,General,0.00,N/A,0.0,/Users/steven/iterm2/cursor-ecosystem/mcp.json
+MYSTERY_DIRECTORIES_ANALYSIS.md,Automation Scripts,0.00,N/A,0.006,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/MYSTERY_DIRECTORIES_ANALYSIS.md
+SCRIPT_INVENTORY.tsv,AI/ML,0.00,N/A,0.495,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/SCRIPT_INVENTORY.tsv
+OTHER_SCRIPTS_BREAKDOWN.txt,AI/ML,0.00,N/A,0.0,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/OTHER_SCRIPTS_BREAKDOWN.txt
+CLEANUP_EXECUTION_REPORT.md,Automation Scripts,0.00,N/A,0.005,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/CLEANUP_EXECUTION_REPORT.md
+CRITICAL_SCRIPTS.txt,Automation Scripts,0.00,N/A,0.0,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/CRITICAL_SCRIPTS.txt
+FINAL_CONSOLIDATION_SUMMARY.md,Automation Scripts,1.00,N/A,0.006,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/FINAL_CONSOLIDATION_SUMMARY.md
+EXTENDED_CONSOLIDATION_REPORT.md,Automation Scripts,0.00,N/A,0.004,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/EXTENDED_CONSOLIDATION_REPORT.md
+DOMAIN_DISTRIBUTION.txt,AI/ML,1.00,N/A,0.0,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/DOMAIN_DISTRIBUTION.txt
+OTHER_BY_TOPDIR.txt,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/OTHER_BY_TOPDIR.txt
+DOMAIN_ANALYSIS.txt,Automation Scripts,1.00,N/A,0.0,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/DOMAIN_ANALYSIS.txt
+SAMPLE_OTHER_SCRIPTS.txt,AI/ML,0.00,N/A,0.006,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/SAMPLE_OTHER_SCRIPTS.txt
+DEPENDENCY_RAW.tsv,AI/ML,0.00,N/A,0.336,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/DEPENDENCY_RAW.tsv
+COMPREHENSIVE_INTELLIGENCE_REPORT.md,Automation Scripts,1.00,N/A,0.005,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/COMPREHENSIVE_INTELLIGENCE_REPORT.md
+USER_SCRIPT_CATEGORIES.txt,Automation Scripts,0.00,N/A,0.0,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/USER_SCRIPT_CATEGORIES.txt
+ARCHITECTURE_RATIONALE.md,Automation Scripts,0.00,N/A,0.006,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/ARCHITECTURE_RATIONALE.md
+CONSOLIDATION_SUMMARY.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/iterm2/cursor-ecosystem/PHASE_3_ANALYSIS/CONSOLIDATION_SUMMARY.md
+agent_ops_handoff.py,AI/ML,1.00,low,0.001,/Users/steven/iterm2/scripts/agent_ops_handoff.py
+README.md,General,0.00,N/A,0.001,/Users/steven/iterm2/superpowers-codex-product/README.md
+superpowers-codex,Automation Scripts,0.00,N/A,0.007,/Users/steven/iterm2/superpowers-codex-product/bin/superpowers-codex
+superpowers-bootstrap.md,General,0.00,N/A,0.001,/Users/steven/iterm2/superpowers-codex-product/docs/superpowers-bootstrap.md
+INSTALL.md,AI/ML,1.00,N/A,0.001,/Users/steven/iterm2/superpowers-codex-product/docs/INSTALL.md
+skills-core.js,Automation Scripts,0.00,N/A,0.002,/Users/steven/iterm2/superpowers-codex-product/lib/skills-core.js
+AGENTS.md,General,0.00,N/A,0.0,/Users/steven/iterm2/superpowers-codex-product/templates/AGENTS.md

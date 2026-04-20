@@ -1,0 +1,2 @@
+name,path,size_mb,created,modified,primary_type,description,intelligent_category,confidence_score,predicted_business_value,integration_potential_has_potential
+test_tool1,/Users/steven/pythons/test_tool1,0.0,2026-01-16T20:13:07.133732,2026-01-16T20:13:07.133732,documentation,"This Python script automates content generation using AI models. It can create blog posts, social media content, and marketing materials with minimal human intervention.",Content Creation,0.4,1.6,False

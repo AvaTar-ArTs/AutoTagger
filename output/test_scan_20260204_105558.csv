@@ -1,0 +1,18 @@
+name,category,value,complexity,size_mb,path
+sortD.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/clean/sortD.sh
+index2.html,Web Development,2.00,N/A,0.095,/Users/steven/clean/index2.html
+config.py,Automation Scripts,0.00,low,0.0,/Users/steven/clean/config.py
+requirements.txt,AI/ML,1.00,N/A,0.0,/Users/steven/clean/requirements.txt
+batch-info.py,Web Development,0.00,low,0.008,/Users/steven/clean/batch-info.py
+docs.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs.py
+other.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other.py
+all.py,Web Development,0.00,high,0.016,/Users/steven/clean/all.py
+img.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img.py
+run.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/clean/run.sh
+script_output.csv,Automation Scripts,0.00,N/A,0.0,/Users/steven/clean/script_output.csv
+vids.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids.py
+audio.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio.py
+vids.txt,General,0.00,N/A,0.0,/Users/steven/clean/vids.txt
+audio_output.csv,Data Analysis,0.00,N/A,0.0,/Users/steven/clean/audio_output.csv
+back-clean.sh,General,0.00,N/A,0.001,/Users/steven/clean/back-clean.sh
+all.cpython-312.pyc,General,0.00,N/A,0.011,/Users/steven/clean/__pycache__/all.cpython-312.pyc

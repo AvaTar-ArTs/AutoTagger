@@ -1,0 +1,15 @@
+# .cursorignore - List files/directories for Cursor to ignore during indexing.
+# 
+# Syntax:
+#   - Use glob patterns (e.g. *.log, build/)
+#   - Comments start with '#'
+#   - Blank lines are ignored
+#
+# Example patterns:
+# node_modules/
+# *.log
+# .env
+# build/
+# dist/
+# *.csv
+# .DS_Store

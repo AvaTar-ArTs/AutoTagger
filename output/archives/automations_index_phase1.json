@@ -1,0 +1,2180 @@
+{
+  "scan_start_time": "2026-01-16T20:20:43.203425",
+  "base_path": "/Users/steven/AVATARARTS/Automations",
+  "total_directories": 2239,
+  "total_files": 15328,
+  "automation_tools": [
+    {
+      "name": "Automations",
+      "path": "/Users/steven/AVATARARTS/Automations",
+      "files": [
+        "cursor_automation_directory_contents.md",
+        "AUTOMATION_RESOURCES_REVIEW.md",
+        "automations-FOLDER-Complete-Content.md",
+        "START_POD_EMPIRE.sh",
+        ".DS_Store",
+        "extract_all.sh",
+        "COMPLETE_INTEGRATION_GUIDE.md",
+        "QUICK_START_GUIDE.md",
+        "START_HERE.md",
+        "PROJECT_INDEX.md",
+        "README.md",
+        "MASTER_INDEX_2026-01-14.md"
+      ],
+      "size_mb": 0.82,
+      "created": "2026-01-14T22:35:59.465029",
+      "modified": "2026-01-14T09:57:39.958682",
+      "primary_type": "documentation",
+      "description": "A comprehensive suite of AI-powered automation tools for content creation, research, and workflow optimization."
+    },
+    {
+      "name": "notebooklm-categorizer-main",
+      "path": "/Users/steven/AVATARARTS/Automations/notebooklm-categorizer-main",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        "README.md",
+        "script.js",
+        ".gitignore"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-15T18:12:49.829646",
+      "modified": "2026-01-15T18:12:49.829646",
+      "primary_type": "documentation",
+      "description": "**NotebookLM Categorizer** is a browser extension that adds smart **category filter buttons** to the [NotebookLM](https://notebooklm.google.com/) list. It detects titles and automatically groups them "
+    },
+    {
+      "name": "tiny-openai-whisper-api-main",
+      "path": "/Users/steven/AVATARARTS/Automations/tiny-openai-whisper-api-main",
+      "files": [
+        "LICENSE",
+        "requirements.txt",
+        "Dockerfile",
+        "README.md",
+        ".gitignore",
+        "docker-compose.yml",
+        "main.py"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.465461",
+      "modified": "2024-12-21T05:19:45",
+      "primary_type": "documentation",
+      "description": "Based on https://github.com/morioka/tiny-openai-whisper-api, using `whisper-mlx` instead of `openai-whisper`"
+    },
+    {
+      "name": "Personal",
+      "path": "/Users/steven/AVATARARTS/Automations/Personal",
+      "files": [
+        ".DS_Store",
+        "README.md",
+        ".gitattributes"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-15T18:12:49.853786",
+      "modified": "2026-01-15T18:12:49.853786",
+      "primary_type": "documentation",
+      "description": ""
+    },
+    {
+      "name": "ComicBook-AI-main",
+      "path": "/Users/steven/AVATARARTS/Automations/ComicBook-AI-main",
+      "files": [
+        "firestore.rules",
+        "index.html",
+        ".DS_Store",
+        "LICENSE",
+        ".firebaserc",
+        "cypress.config.js",
+        ".eslintrc.cjs",
+        "vite.config.js",
+        "README.md",
+        ".prettierrc.json",
+        ".gitignore",
+        "package-lock.json",
+        "package.json",
+        "Design Document - ComicAI.pdf",
+        "firebase.json",
+        ".eslintrc.json",
+        "firestore.indexes.json"
+      ],
+      "size_mb": 0.77,
+      "created": "2026-01-14T22:35:59.470040",
+      "modified": "2025-10-14T13:54:21",
+      "primary_type": "documentation",
+      "description": "This app uses React-Vite along with Firestore and Firebase Hosting. The main idea of this app is to generate custom images based on user-prompts to craft unique comic book strips, this is achieved usi"
+    },
+    {
+      "name": "KnowNote-main",
+      "path": "/Users/steven/AVATARARTS/Automations/KnowNote-main",
+      "files": [
+        "electron.vite.config.ts",
+        "pnpm-lock.yaml",
+        "tsconfig.node.json",
+        ".DS_Store",
+        "LICENSE",
+        ".npmrc",
+        ".prettierignore",
+        ".editorconfig",
+        "README.md",
+        "README_CN.md",
+        "tsconfig.web.json",
+        ".gitignore",
+        "package.json",
+        "electron-builder.yml",
+        ".gitattributes",
+        "dev-app-update.yml",
+        ".prettierrc.yaml",
+        "components.json",
+        "tsconfig.json",
+        "drizzle.config.ts",
+        "eslint.config.mjs"
+      ],
+      "size_mb": 0.42,
+      "created": "2026-01-14T22:35:59.477157",
+      "modified": "2025-12-29T09:54:38",
+      "primary_type": "documentation",
+      "description": "> A local-first, open-source alternative to Google NotebookLM"
+    },
+    {
+      "name": "lyra-exporter-main",
+      "path": "/Users/steven/AVATARARTS/Automations/lyra-exporter-main",
+      "files": [
+        "tailwind.config.js",
+        ".DS_Store",
+        "LICENSE",
+        "README.md",
+        ".gitignore",
+        "package-lock.json",
+        "package.json",
+        "README_zh.md",
+        ".gitattributes",
+        "postcss.config.js"
+      ],
+      "size_mb": 0.51,
+      "created": "2026-01-14T22:35:59.490767",
+      "modified": "2025-12-25T03:03:36",
+      "primary_type": "documentation",
+      "description": "[**阅读中文文档**](https://github.com/Yalums/lyra-exporter/blob/main/README_zh.md)"
+    },
+    {
+      "name": "fonts",
+      "path": "/Users/steven/AVATARARTS/Automations/lyra-exporter-main/public/fonts",
+      "files": [
+        "ARUDJingxihei-Light.ttf",
+        "README.md",
+        "ARUDJingxihei-Bold.ttf",
+        "ARUDJingxihei-Regular.ttf"
+      ],
+      "size_mb": 27.91,
+      "created": "2026-01-14T22:35:59.491335",
+      "modified": "2025-12-25T03:03:36",
+      "primary_type": "documentation",
+      "description": "PDF导出功能需要以下 **ARUDJingxihei (阿如汉字黑体)** 字体文件："
+    },
+    {
+      "name": "src",
+      "path": "/Users/steven/AVATARARTS/Automations/lyra-exporter-main/src",
+      "files": [
+        ".DS_Store",
+        "index.js",
+        "index.css",
+        "App.js"
+      ],
+      "size_mb": 0.07,
+      "created": "2026-01-15T18:08:17.385854",
+      "modified": "2026-01-15T18:08:17.385854",
+      "primary_type": "javascript_app",
+      "description": ""
+    },
+    {
+      "name": "fileParser",
+      "path": "/Users/steven/AVATARARTS/Automations/lyra-exporter-main/src/utils/fileParser",
+      "files": [
+        "grokParser.js",
+        "index.js",
+        "chatgptParser.js",
+        "helpers.js",
+        "otherParsers.js",
+        "claudeParser.js"
+      ],
+      "size_mb": 0.09,
+      "created": "2026-01-14T22:35:59.493859",
+      "modified": "2025-12-25T03:03:36",
+      "primary_type": "javascript_app",
+      "description": ""
+    },
+    {
+      "name": "data",
+      "path": "/Users/steven/AVATARARTS/Automations/lyra-exporter-main/src/utils/data",
+      "files": [
+        "sortManager.js",
+        "index.js",
+        "statsCalculator.js",
+        "dataProcessor.js",
+        "markManager.js",
+        "starManager.js",
+        "uuidManager.js",
+        "postMessageHandler.js"
+      ],
+      "size_mb": 0.03,
+      "created": "2026-01-14T22:35:59.494660",
+      "modified": "2025-12-25T03:03:36",
+      "primary_type": "javascript_app",
+      "description": ""
+    },
+    {
+      "name": "self-hosted-ai-starter-kit-main",
+      "path": "/Users/steven/AVATARARTS/Automations/self-hosted-ai-starter-kit-main",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        "README.md",
+        ".gitignore",
+        "CONTRIBUTING.md",
+        "docker-compose.yml",
+        ".env.example"
+      ],
+      "size_mb": 0.03,
+      "created": "2026-01-15T18:08:06.833565",
+      "modified": "2026-01-15T18:08:06.833565",
+      "primary_type": "documentation",
+      "description": "**Self-hosted AI Starter Kit** is an open-source Docker Compose template designed to swiftly initialize a comprehensive local AI and low-code development environment."
+    },
+    {
+      "name": "notebooklm-mcp-secure-main",
+      "path": "/Users/steven/AVATARARTS/Automations/notebooklm-mcp-secure-main",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        "CHANGELOG.md",
+        "Dockerfile",
+        "README.md",
+        "smithery.yaml",
+        ".gitignore",
+        "package-lock.json",
+        "package.json",
+        ".medusa.yml",
+        "tsconfig.json",
+        "FEATURES.md",
+        "SECURITY.md"
+      ],
+      "size_mb": 0.18,
+      "created": "2026-01-15T18:12:49.856612",
+      "modified": "2026-01-15T18:12:49.856612",
+      "primary_type": "documentation",
+      "description": "**Zero-hallucination answers • Gemini Deep Research • 14 Security Layers • Enterprise Compliance**"
+    },
+    {
+      "name": "cobber-ml-synthesizer-main",
+      "path": "/Users/steven/AVATARARTS/Automations/cobber-ml-synthesizer-main",
+      "files": [
+        ".DS_Store",
+        "README.md",
+        "CobberMLysn.py",
+        "CreateNewKernels.ipynb"
+      ],
+      "size_mb": 0.03,
+      "created": "2026-01-15T18:12:49.849982",
+      "modified": "2026-01-15T18:12:49.849982",
+      "primary_type": "documentation",
+      "description": "In an alternate universe called **Cobberland**, all matter is composed of substances known as **kernels**. Each kernel is characterized by three properties:"
+    },
+    {
+      "name": "cobber-ml-synthesizer",
+      "path": "/Users/steven/AVATARARTS/Automations/cobber-ml-synthesizer-main/cobber-ml-synthesizer",
+      "files": [
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.510726",
+      "modified": "2025-03-11T11:53:57",
+      "primary_type": "documentation",
+      "description": ""
+    },
+    {
+      "name": "Comicfy.ai-main",
+      "path": "/Users/steven/AVATARARTS/Automations/Comicfy.ai-main",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        "README.md"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-15T18:12:49.842822",
+      "modified": "2026-01-15T18:12:49.842822",
+      "primary_type": "documentation",
+      "description": "Bring your stories to life using Comicfy.ai!"
+    },
+    {
+      "name": "server",
+      "path": "/Users/steven/AVATARARTS/Automations/Comicfy.ai-main/server",
+      "files": [
+        "image_generation.py",
+        "image.html",
+        "img_gen_boosted.py",
+        "requirements.txt",
+        "sentiment.py",
+        ".gitignore",
+        "image.css",
+        "main.py",
+        "image.jpg"
+      ],
+      "size_mb": 0.13,
+      "created": "2026-01-14T22:35:59.511649",
+      "modified": "2025-10-14T13:54:21",
+      "primary_type": "python_script",
+      "description": ""
+    },
+    {
+      "name": "client",
+      "path": "/Users/steven/AVATARARTS/Automations/Comicfy.ai-main/client",
+      "files": [
+        ".DS_Store",
+        "README.md",
+        ".gitignore",
+        "package-lock.json",
+        "package.json"
+      ],
+      "size_mb": 0.53,
+      "created": "2026-01-15T18:08:17.353977",
+      "modified": "2026-01-15T18:08:17.353977",
+      "primary_type": "documentation",
+      "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)."
+    },
+    {
+      "name": "src",
+      "path": "/Users/steven/AVATARARTS/Automations/Comicfy.ai-main/client/src",
+      "files": [
+        "reportWebVitals.js",
+        "index.js",
+        "index.css",
+        "App.test.js",
+        "setupTests.js",
+        "logo.svg",
+        "App.js"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.513853",
+      "modified": "2025-10-14T13:54:21",
+      "primary_type": "javascript_app",
+      "description": ""
+    },
+    {
+      "name": "notebooklm-anki-extension-main",
+      "path": "/Users/steven/AVATARARTS/Automations/notebooklm-anki-extension-main",
+      "files": [
+        "popup.js",
+        ".DS_Store",
+        "background.js",
+        "copy_code.ps1",
+        "popup.html",
+        "README.md",
+        ".gitattributes",
+        "manifest.json",
+        "content.js"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-14T22:35:59.515729",
+      "modified": "2025-12-09T13:50:26",
+      "primary_type": "documentation",
+      "description": "This Chrome extension bridges the gap between Google NotebookLM and Anki. It automatically extracts multiple-choice quizzes generated by NotebookLM and exports them directly into Anki decks with a sin"
+    },
+    {
+      "name": "NotebookLM-Examples-main",
+      "path": "/Users/steven/AVATARARTS/Automations/NotebookLM-Examples-main",
+      "files": [
+        "link_to_contextualized_Note_Taking11.png",
+        "link_to_upload.png",
+        "link_to_your_screenshot_1.png",
+        "content_summarization.md",
+        "link_to_workspace.png",
+        "README.md",
+        "question_answering.md",
+        "link_to_summarization.png",
+        "collaboration_tools.md",
+        "contextual_note_taking.md",
+        "learning_path_recommendations.md",
+        "link_to_contextualized_Note_Taking.png",
+        "link_to_Note_Taking.png",
+        "link_to_Final.png",
+        "link_to_Question_Answering1.png",
+        "link_to_Question_Answering3.png",
+        "link_to_Question_Answering2.png"
+      ],
+      "size_mb": 4.5,
+      "created": "2026-01-14T22:35:59.517370",
+      "modified": "2024-11-05T21:29:09",
+      "primary_type": "documentation",
+      "description": "This repository contains examples and documentation demonstrating the potential use of Google’s NotebookLM for enhancing educational experiences at a university level. As part of a consulting evaluati"
+    },
+    {
+      "name": "notebookLM-citation-main",
+      "path": "/Users/steven/AVATARARTS/Automations/notebookLM-citation-main",
+      "files": [
+        "PRIVACY_POLICY.md",
+        ".DS_Store",
+        "README.md",
+        ".gitignore",
+        "STORE_LISTING.md"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-14T22:35:59.518441",
+      "modified": "2025-10-31T08:12:36",
+      "primary_type": "documentation",
+      "description": "A Chrome extension that automatically maps citation numbers to source filenames in Google NotebookLM and allows you to copy chat text with preserved citations."
+    },
+    {
+      "name": "extension",
+      "path": "/Users/steven/AVATARARTS/Automations/notebookLM-citation-main/extension",
+      "files": [
+        "icon-16.png",
+        "popup.js",
+        ".DS_Store",
+        "background.js",
+        "popup.html",
+        "icon-48.png",
+        "README.md",
+        "settings-icon-24.png",
+        "manifest.json",
+        "settings-icon-32.png",
+        "content.js",
+        "settings.html",
+        "icon-128.png",
+        "settings.js"
+      ],
+      "size_mb": 0.08,
+      "created": "2026-01-14T22:35:59.518634",
+      "modified": "2025-10-31T08:12:36",
+      "primary_type": "documentation",
+      "description": "A Chrome extension that preserves citation references when copying chat text from Google NotebookLM."
+    },
+    {
+      "name": "notebooklm_exporter-main",
+      "path": "/Users/steven/AVATARARTS/Automations/notebooklm_exporter-main",
+      "files": [
+        "PRIVACY_POLICY.md",
+        ".DS_Store",
+        "SCREENSHOT_GUIDE.md",
+        "LICENSE",
+        "IMPLEMENTATION_SUMMARY.md",
+        "CHROME_WEB_STORE_GUIDE.md",
+        "INSTALL.md",
+        "README.md",
+        ".gitignore",
+        "manifest.json"
+      ],
+      "size_mb": 0.05,
+      "created": "2026-01-14T22:35:59.520350",
+      "modified": "2025-11-30T21:05:52",
+      "primary_type": "documentation",
+      "description": "A Chrome extension that exports NotebookLM chat conversations to Markdown format."
+    },
+    {
+      "name": "versatile_bot_project-main",
+      "path": "/Users/steven/AVATARARTS/Automations/versatile_bot_project-main",
+      "files": [
+        "conversational_bot.md",
+        "README.md",
+        "chat_episode.md",
+        "custom_bot.md"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-14T22:35:59.521370",
+      "modified": "2025-10-16T07:17:25",
+      "primary_type": "documentation",
+      "description": "Shun Tsukamoto"
+    },
+    {
+      "name": "Awesome-LLM-main",
+      "path": "/Users/steven/AVATARARTS/Automations/Awesome-LLM-main",
+      "files": [
+        "LICENSE.md",
+        ".DS_Store",
+        "README.md",
+        ".gitignore",
+        "contributing.md"
+      ],
+      "size_mb": 0.07,
+      "created": "2026-01-14T22:35:59.522110",
+      "modified": "2025-07-30T22:38:24",
+      "primary_type": "documentation",
+      "description": "![](resources/image8.gif)"
+    },
+    {
+      "name": "youtube-enhancer_merged_deduped",
+      "path": "/Users/steven/AVATARARTS/Automations/youtube-enhancer_merged_deduped",
+      "files": [
+        "duplicates_report.csv",
+        ".DS_Store",
+        "README.md",
+        "manifest.json"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.523802",
+      "modified": "2025-12-25T05:09:56",
+      "primary_type": "documentation",
+      "description": "This folder is a clean merge of 8 uploaded ZIPs (`youtube-enhancer(1..8).zip`) with duplicates removed."
+    },
+    {
+      "name": "open-video-overview-main",
+      "path": "/Users/steven/AVATARARTS/Automations/open-video-overview-main",
+      "files": [
+        "pnpm-lock.yaml",
+        ".DS_Store",
+        "LICENSE",
+        "README.md",
+        ".gitignore",
+        "package.json",
+        ".prettierrc",
+        "tsconfig.json",
+        "eslint.config.js",
+        ".env.example"
+      ],
+      "size_mb": 0.23,
+      "created": "2026-01-14T22:35:59.525165",
+      "modified": "2025-11-29T09:21:47",
+      "primary_type": "documentation",
+      "description": "An open-source alternative to [NotebookLM's Video Overview](https://notebooklm.google.com). Built with [Mastra](https://mastra.ai) to create narrated videos from text using AI-generated images (Gemini"
+    },
+    {
+      "name": "axolotl-main",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main",
+      "files": [
+        "_quarto.yml",
+        "docker-compose.yaml",
+        "codecov.yml",
+        ".mypy.ini",
+        ".DS_Store",
+        "requirements.txt",
+        "styles.css",
+        "FAQS.md",
+        "CNAME",
+        ".pre-commit-config.yaml",
+        "CITATION.cff",
+        ".bandit",
+        "pyproject.toml",
+        "MANIFEST.in",
+        ".coveragerc",
+        ".axolotl-complete.bash",
+        "index.qmd",
+        ".editorconfig",
+        "README.md",
+        "favicon.jpg",
+        "setup.py",
+        "requirements-dev.txt",
+        ".gitignore",
+        ".gitattributes",
+        "requirements-tests.txt",
+        ".coderabbit.yaml"
+      ],
+      "size_mb": 0.06,
+      "created": "2026-01-14T22:35:59.529407",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "<picture>"
+    },
+    {
+      "name": "devtools",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/devtools",
+      "files": [
+        "dev_chat_template.yml",
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.548147",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": ""
+    },
+    {
+      "name": "smolvlm2",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/smolvlm2",
+      "files": [
+        "README.md",
+        "smolvlm2-2B-lora.yaml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.550340",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "[SmolVLM2](https://huggingface.co/collections/HuggingFaceTB/smolvlm2-smallest-video-lm-ever-67ab6b5e84bf8aaa60cb17c7) are a family of lightweight, open-source multimodal models from HuggingFace design"
+    },
+    {
+      "name": "gpt-oss",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/gpt-oss",
+      "files": [
+        "gpt-oss-120b-fft-fsdp2-offload.yaml",
+        "gpt-oss-safeguard-20b-sft-lora-singlegpu.yaml",
+        "gpt-oss-20b-fft-fsdp2.yaml",
+        "README.md",
+        "gpt-oss-20b-fft-fsdp2-offload.yaml",
+        "gpt-oss-20b-fft-deepspeed-zero3.yaml",
+        "gpt-oss-20b-sft-lora-singlegpu.yaml"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-14T22:35:59.550532",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "[GPT-OSS](https://huggingface.co/collections/openai/gpt-oss-68911959590a1634ba11c7a4) are a family of open-weight MoE models trained by OpenAI, released in August 2025. There are two variants: 20B and"
+    },
+    {
+      "name": "olmo3",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/olmo3",
+      "files": [
+        "olmo3-7b-qlora.yaml",
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.550970",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "[Olmo 3](https://huggingface.co/collections/allenai/olmo-3) are a family of 7B and 32B models open source models trained by The Allen Institute for Artificial Intelligence."
+    },
+    {
+      "name": "LiquidAI",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/LiquidAI",
+      "files": [
+        "lfm2-8b-a1b-lora.yaml",
+        "README.md",
+        "lfm2-350m-fft.yaml",
+        "lfm2-vl-lora.yaml"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.551259",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "[Liquid Foundation Models 2 (LFM2)](https://huggingface.co/collections/LiquidAI/lfm2-686d721927015b2ad73eaa38) are a family of small, open-weight models from [Liquid AI](https://www.liquid.ai/) focuse"
+    },
+    {
+      "name": "arcee",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/arcee",
+      "files": [
+        "README.md",
+        "afm-4.5b-qlora.yaml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.551936",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "[Arcee Foundation Models (AFM)](https://huggingface.co/collections/arcee-ai/afm-45b-68823397c351603014963473) are a family of 4.5B parameter open weight models trained by Arcee.ai."
+    },
+    {
+      "name": "devstral",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/devstral",
+      "files": [
+        "README.md",
+        "devstral-small-qlora.yml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.553868",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Devstral Small is a 24B parameter opensource model from MistralAI found on HuggingFace [Devstral-Small-2505](https://huggingface.co/mistralai/Devstral-Small-2505) and [Devstral-Small-2507](https://hug"
+    },
+    {
+      "name": "qwen3-next",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/qwen3-next",
+      "files": [
+        "README.md",
+        "qwen3-next-80b-a3b-qlora.yaml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.554018",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "[Qwen3-Next](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d) represents the next-generation foundation models optimized for extreme context length and large-scale paramete"
+    },
+    {
+      "name": "slurm",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/slurm",
+      "files": [
+        "axolotl.slurm",
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.554282",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This directory contains an example SLURM script for running Axolotl training jobs across multiple nodes in a SLURM cluster."
+    },
+    {
+      "name": "apertus",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/apertus",
+      "files": [
+        "apertus-8b-qlora.yaml",
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.555145",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "[Apertus](https://huggingface.co/collections/swiss-ai/apertus-llm-68b699e65415c231ace3b059) is a family of opensource models trained by Swiss-ai."
+    },
+    {
+      "name": "llama-4",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/llama-4",
+      "files": [
+        "scout-qlora-flexattn-fsdp2.yaml",
+        "scout-vision-qlora-fsdp2-flex.yaml",
+        "README.md",
+        "scout-qlora-single-h100-flex.yaml"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.555327",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "While Flash Attention to support is \"enabled\" for Llama-4, the upstream implementation is not correct and usage of Flex Attention is recommended."
+    },
+    {
+      "name": "llama-3",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/llama-3",
+      "files": [
+        "3b-qat-fsdp2.yaml",
+        "qlora-1b.yml",
+        "qlora-fsdp-70b.yaml",
+        "fft-8b.yaml",
+        "lora-1b-sample-packing-sequentially.yml",
+        "lora-1b-ray.yml",
+        "lora-1b-deduplicate-dpo.yml",
+        "lora-8b.yml",
+        "3b-qat-nvfp4.yaml",
+        "README.md",
+        "lora-1b-deduplicate-sft.yml",
+        "3b-fp8-fsdp2.yaml",
+        "qlora-1b-kto.yaml",
+        "qlora.yml",
+        "fft-8b-liger-fsdp.yaml",
+        "lora-1b-kernels.yml",
+        "opentelemetry-qlora.yml",
+        "instruct-lora-8b.yml",
+        "instruct-dpo-lora-8b.yml",
+        "qlora-fsdp-405b.yaml",
+        "lora-1b.yml",
+        "sparse-finetuning.yaml"
+      ],
+      "size_mb": 0.03,
+      "created": "2026-01-14T22:35:59.556321",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "https://llama.meta.com/llama3/"
+    },
+    {
+      "name": "llama-2",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/llama-2",
+      "files": [
+        "fft_optimized.yml",
+        "relora.yml",
+        "README.md",
+        "qlora.yml",
+        "lisa.yml",
+        "lora.yml",
+        "loftq.yml",
+        "qlora-fsdp.yml",
+        "gptq-lora.yml"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.557389",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This is an example of a llama-2 configuration for 7b and 13b. The yaml file contains configuration for the 7b variant, but you can just aswell use the same settings for 13b."
+    },
+    {
+      "name": "jamba",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/jamba",
+      "files": [
+        "qlora_deepspeed.yaml",
+        "README.md",
+        "qlora_fsdp_large.yaml",
+        "qlora.yaml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.557826",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "- ✅ qlora w/ deepspeed Zero-2 needs at least 2x GPUs and"
+    },
+    {
+      "name": "voxtral",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/voxtral",
+      "files": [
+        "voxtral-mini-audio-qlora.yml",
+        "README.md",
+        "voxtral-mini-qlora.yml"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.558382",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Voxtral is a [3B](https://huggingface.co/mistralai/Voxtral-Mini-3B-2507)/[24B](https://huggingface.co/mistralai/Voxtral-Small-24B-2507) parameter opensource model from MistralAI found on HuggingFace. "
+    },
+    {
+      "name": "streaming",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/streaming",
+      "files": [
+        "pretrain.yaml",
+        "sft.yaml",
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.558571",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This directory contains example configurations for using Axolotl's streaming dataset"
+    },
+    {
+      "name": "hunyuan",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/hunyuan",
+      "files": [
+        "hunyuan-v1-dense-qlora.yaml",
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.558758",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Tencent released a family of opensource models called HunYuan with varying parameter scales of 0.5B, 1.8B, 4B, and 7B scale for both Pre-trained and Instruct variants. The models can be found at [Hugg"
+    },
+    {
+      "name": "gemma3n",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/gemma3n",
+      "files": [
+        "gemma-3n-e2b-vision-audio-qlora.yml",
+        "gemma-3n-e2b-qlora.yml",
+        "README.md",
+        "gemma-3n-e2b-vision-qlora.yml"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.558917",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Gemma-3n is a family of multimodal models from Google found on [HuggingFace](https://huggingface.co/collections/google/gemma-3n-685065323f5984ef315c93f4). This guide shows how to fine-tune it with Axo"
+    },
+    {
+      "name": "seed-oss",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/seed-oss",
+      "files": [
+        "seed-oss-36b-qlora.yaml",
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.559134",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "[Seed-OSS](https://huggingface.co/collections/ByteDance-Seed/seed-oss-68a609f4201e788db05b5dcd) are a series of 36B parameter open source models trained by ByteDance's Seed Team."
+    },
+    {
+      "name": "distributed-parallel",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/distributed-parallel",
+      "files": [
+        "qwen3-8b-fsdp-tp-cp.yaml",
+        "README.md",
+        "llama-3_1-8b-hsdp-tp.yaml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.559439",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This directory contains example configurations for training models using ND Parallelism in Axolotl. These examples demonstrate how to compose different parallelism strategies (FSDP, TP, CP, HSDP) for "
+    },
+    {
+      "name": "alst",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/alst",
+      "files": [
+        "llama3-8b-fsdp2-alst.yaml",
+        "README.md",
+        "llama3-8b-deepspeed-alst.yaml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.559676",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Artic Long Sequence Training (ALST) is a technique for training long context models using a variety of optimization"
+    },
+    {
+      "name": "granite4",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/granite4",
+      "files": [
+        "README.md",
+        "granite-4.0-tiny-fft.yaml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.559878",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "[Granite 4.0](https://huggingface.co/collections/ibm-granite/granite-40-language-models) are a family of open source models trained by IBM Research."
+    },
+    {
+      "name": "archived",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/archived",
+      "files": [
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.562408",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This directory contains examples that are no longer maintained and may no longer be functional."
+    },
+    {
+      "name": "openllama-3b",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/archived/openllama-3b",
+      "files": [
+        "README.md",
+        "qlora.yml",
+        "lora.yml",
+        "config.yml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.560686",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Basic full tune"
+    },
+    {
+      "name": "code-llama",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/archived/code-llama",
+      "files": [
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.561409",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This is an example of CodeLLaMA configuration for 7b, 13b and 34b."
+    },
+    {
+      "name": "tiny-llama",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/archived/tiny-llama",
+      "files": [
+        "pretrain.yml",
+        "README.md",
+        "qlora.yml",
+        "lora.yml",
+        "lora-mps.yml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.561680",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This is a simple example of how to finetune TinyLlama1.1B using either lora or qlora:"
+    },
+    {
+      "name": "qwen",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/archived/qwen",
+      "files": [
+        "qwen2-moe-qlora.yaml",
+        "README.md",
+        "qlora.yml",
+        "lora.yml",
+        "qwen2-moe-lora.yaml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.562050",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "TODO"
+    },
+    {
+      "name": "mpt-7b",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/archived/mpt-7b",
+      "files": [
+        "README.md",
+        "config.yml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.562502",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "```shell"
+    },
+    {
+      "name": "dbrx",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/archived/dbrx",
+      "files": [
+        "fft-ds-zero3.yaml",
+        "README.md",
+        "16bit-lora.yaml",
+        "8bit-lora.yaml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.562666",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Currently, for LoRA, only the `q_proj`, `k_proj`, `v_proj` `out_proj` and `layer` Linear layers are trainable."
+    },
+    {
+      "name": "redpajama",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/archived/redpajama",
+      "files": [
+        "README.md",
+        "config-3b.yml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.562884",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "```shell"
+    },
+    {
+      "name": "yi-34B-chat",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/archived/yi-34B-chat",
+      "files": [
+        "README.md",
+        "qlora.yml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.563480",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This is an example of a Yi-34B-Chat configuration. It demonstrates that it is possible to finetune a 34B model on a GPU with 24GB of VRAM."
+    },
+    {
+      "name": "stablelm-2",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/archived/stablelm-2",
+      "files": [
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.563919",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This repository contains examples for training and processing using StableLM-2. It also includes a section to help you estimate the GPU requirements for your specific use case."
+    },
+    {
+      "name": "pythia-12b",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/archived/pythia-12b",
+      "files": [
+        "README.md",
+        "config.yml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.564212",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "- Single-GPU A100 only (?)"
+    },
+    {
+      "name": "phi",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/phi",
+      "files": [
+        "phi2-ft.yml",
+        "phi-qlora.yml",
+        "README.md",
+        "phi3-ft.yml",
+        "lora-3.5.yaml",
+        "phi-ft.yml",
+        "phi3-ft-fsdp.yml"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.564419",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Due to some nuances with the phi code, please use deepspeed when training phi for full finetune."
+    },
+    {
+      "name": "orpheus",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/orpheus",
+      "files": [
+        "finetune.yml",
+        "README.md"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.564742",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "In this example, we finetune Orpcanopylabs/orpheus-tts-0.1-pretrained (a LLaMA 3.2 3b model) to output audio."
+    },
+    {
+      "name": "magistral",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/magistral",
+      "files": [
+        "magistral-small-fsdp-qlora.yaml",
+        "README.md",
+        "magistral-small-qlora.yaml"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.565077",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Magistral Small is a 24B parameter opensource model from MistralAI found on HuggingFace at [2506](https://huggingface.co/mistralai/Magistral-Small-2506), [2507](https://huggingface.co/mistralai/Magist"
+    },
+    {
+      "name": "think",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/magistral/think",
+      "files": [
+        "magistral-small-think-qlora.yaml",
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.564980",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This guide covers fine-tuning [Magistral Small 2507](https://huggingface.co/mistralai/Magistral-Small-2507) with thinking capabilities using Axolotl. The thinking model enables explicit Chain-of-Thoug"
+    },
+    {
+      "name": "vision",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/magistral/vision",
+      "files": [
+        "README.md",
+        "magistral-small-vision-24B-qlora.yml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.565165",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This guide covers fine-tuning [Magistral Small 2509](https://huggingface.co/mistralai/Magistral-Small-2509) with vision capabilities using Axolotl."
+    },
+    {
+      "name": "mistral",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/mistral",
+      "files": [
+        "mistral-qlora-fsdp.yml",
+        "README.md",
+        "qlora.yml",
+        "lora.yml",
+        "config.yml"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.566233",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Fine Tune:"
+    },
+    {
+      "name": "mistral-small",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/examples/mistral/mistral-small",
+      "files": [
+        "README.md",
+        "mistral-small-3.1-24B-lora.yml"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.568152",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This guide covers fine-tuning [Mistral Small 3.1](mistralai/Mistral-Small-3.1-24B-Instruct-2503) and [Mistral Small 3.2](mistralai/Mistral-Small-3.2-24B-Instruct-2506) with vision capabilities using A"
+    },
+    {
+      "name": "cli",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/src/axolotl/cli",
+      "files": [
+        "config.py",
+        "preprocess.py",
+        "quantize.py",
+        "checks.py",
+        "__init__.py",
+        "merge_sharded_fsdp_weights.py",
+        "vllm_serve.py",
+        "delinearize_llama4.py",
+        "merge_lora.py",
+        "train.py",
+        "args.py",
+        "art.py",
+        "inference.py",
+        "evaluate.py",
+        "main.py"
+      ],
+      "size_mb": 0.07,
+      "created": "2026-01-14T22:35:59.587101",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "python_script",
+      "description": ""
+    },
+    {
+      "name": "lm_eval",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/src/axolotl/integrations/lm_eval",
+      "files": [
+        "__init__.py",
+        "README.md",
+        "cli.py",
+        "args.py"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.589818",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Run evaluation on model using the popular lm-evaluation-harness library."
+    },
+    {
+      "name": "kd",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/src/axolotl/integrations/kd",
+      "files": [
+        "collator_online_teacher.py",
+        "collator.py",
+        "__init__.py",
+        "chat_template.py",
+        "README.md",
+        "utils.py",
+        "callbacks.py",
+        "args.py",
+        "trainer.py"
+      ],
+      "size_mb": 0.06,
+      "created": "2026-01-14T22:35:59.590646",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "```yaml"
+    },
+    {
+      "name": "diffusion",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/src/axolotl/integrations/diffusion",
+      "files": [
+        "generation.py",
+        "__init__.py",
+        "README.md",
+        "utils.py",
+        "callbacks.py",
+        "plugin.py",
+        "args.py",
+        "trainer.py"
+      ],
+      "size_mb": 0.05,
+      "created": "2026-01-14T22:35:59.591120",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "This plugin enables diffusion language model training using an approach inspired by"
+    },
+    {
+      "name": "densemixer",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/src/axolotl/integrations/densemixer",
+      "files": [
+        "__init__.py",
+        "README.md",
+        "plugin.py",
+        "args.py"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.591477",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "See [DenseMixer](https://github.com/yaof20/DenseMixer/)"
+    },
+    {
+      "name": "cut_cross_entropy",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/src/axolotl/integrations/cut_cross_entropy",
+      "files": [
+        "LICENSE",
+        "__init__.py",
+        "README.md",
+        "ACKNOWLEDGEMENTS.md",
+        "args.py"
+      ],
+      "size_mb": 0.03,
+      "created": "2026-01-14T22:35:59.591692",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Cut Cross Entropy (CCE) reduces VRAM usage through optimization on the cross-entropy operation during loss calculation."
+    },
+    {
+      "name": "liger",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/src/axolotl/integrations/liger",
+      "files": [
+        "__init__.py",
+        "README.md",
+        "utils.py",
+        "plugin.py",
+        "args.py"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-14T22:35:59.591948",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Liger Kernel provides efficient Triton kernels for LLM training, offering:"
+    },
+    {
+      "name": "spectrum",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/src/axolotl/integrations/spectrum",
+      "files": [
+        "LICENSE",
+        "__init__.py",
+        "README.md",
+        "args.py"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-14T22:35:59.592532",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "by Eric Hartford, Lucas Atkins, Fernando Fernandes, David Golchinfar"
+    },
+    {
+      "name": "llm_compressor",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/src/axolotl/integrations/llm_compressor",
+      "files": [
+        "__init__.py",
+        "README.md",
+        "utils.py",
+        "plugin.py",
+        "args.py"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.593267",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "Fine-tune sparsified models in Axolotl using Neural Magic's [LLMCompressor](https://github.com/vllm-project/llm-compressor)."
+    },
+    {
+      "name": "grokfast",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/src/axolotl/integrations/grokfast",
+      "files": [
+        "LICENSE",
+        "__init__.py",
+        "README.md",
+        "args.py",
+        "optimizer.py"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.593541",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "See https://github.com/ironjr/grokfast"
+    },
+    {
+      "name": "bradley_terry",
+      "path": "/Users/steven/AVATARARTS/Automations/axolotl-main/src/axolotl/prompt_strategies/bradley_terry",
+      "files": [
+        "__init__.py",
+        "chat_template.py",
+        "README.md",
+        "llama3.py"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.601343",
+      "modified": "2025-11-24T01:48:53",
+      "primary_type": "documentation",
+      "description": "```yaml"
+    },
+    {
+      "name": "notebooklm-mcp-main",
+      "path": "/Users/steven/AVATARARTS/Automations/notebooklm-mcp-main",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        "CHANGELOG.md",
+        "README.md",
+        ".gitignore",
+        "package-lock.json",
+        "package.json",
+        "tsconfig.json"
+      ],
+      "size_mb": 0.1,
+      "created": "2026-01-15T18:12:49.828308",
+      "modified": "2026-01-15T18:12:49.828308",
+      "primary_type": "documentation",
+      "description": "**Let your CLI agents (Claude, Cursor, Codex...) chat directly with NotebookLM for zero-hallucination answers based on your own notebooks**"
+    },
+    {
+      "name": "ainews-source-extractor-master",
+      "path": "/Users/steven/AVATARARTS/Automations/ainews-source-extractor-master",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        "requirements.txt",
+        "README.md",
+        "scrape_newsletter.py",
+        ".gitignore",
+        "tweet_scraper.py",
+        "build_issue.py"
+      ],
+      "size_mb": 0.03,
+      "created": "2026-01-15T20:20:46.976568",
+      "modified": "2026-01-15T20:20:46.976568",
+      "primary_type": "documentation",
+      "description": "AI News Link Scraper extracts all URLs from the most recent AI News issue (from news.smol.ai) and prepares them for seamless import into Google's NotebookLM. It organizes sources into a dedicated fold"
+    },
+    {
+      "name": "ainews-source-extractor",
+      "path": "/Users/steven/AVATARARTS/Automations/ainews-source-extractor-master/ainews-source-extractor",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        "requirements.txt",
+        "README.md",
+        "scrape_newsletter.py",
+        ".gitignore",
+        "tweet_scraper.py",
+        "build_issue.py"
+      ],
+      "size_mb": 0.03,
+      "created": "2026-01-15T20:20:46.983658",
+      "modified": "2026-01-15T20:20:46.983658",
+      "primary_type": "documentation",
+      "description": "AI News Link Scraper extracts all URLs from the most recent AI News issue (from news.smol.ai) and prepares them for seamless import into Google's NotebookLM. It organizes sources into a dedicated fold"
+    },
+    {
+      "name": "dotenv",
+      "path": "/Users/steven/AVATARARTS/Automations/ainews-source-extractor-master/ainews-source-extractor/venv/lib/python3.12/site-packages/dotenv",
+      "files": [
+        "version.py",
+        "variables.py",
+        "__init__.py",
+        "parser.py",
+        "cli.py",
+        "ipython.py",
+        "py.typed",
+        "main.py",
+        "__main__.py"
+      ],
+      "size_mb": 0.03,
+      "created": "2026-01-15T20:20:12.879670",
+      "modified": "2026-01-15T20:20:12.879670",
+      "primary_type": "python_script",
+      "description": ""
+    },
+    {
+      "name": "_internal",
+      "path": "/Users/steven/AVATARARTS/Automations/ainews-source-extractor-master/ainews-source-extractor/venv/lib/python3.12/site-packages/pip/_internal",
+      "files": [
+        "configuration.py",
+        "pyproject.py",
+        "cache.py",
+        "__init__.py",
+        "exceptions.py",
+        "main.py",
+        "wheel_builder.py",
+        "self_outdated_check.py",
+        "build_env.py"
+      ],
+      "size_mb": 0.09,
+      "created": "2026-01-15T20:19:32.703451",
+      "modified": "2026-01-15T20:19:32.703451",
+      "primary_type": "python_script",
+      "description": ""
+    },
+    {
+      "name": "cli",
+      "path": "/Users/steven/AVATARARTS/Automations/ainews-source-extractor-master/ainews-source-extractor/venv/lib/python3.12/site-packages/pip/_internal/cli",
+      "files": [
+        "cmdoptions.py",
+        "__init__.py",
+        "index_command.py",
+        "status_codes.py",
+        "parser.py",
+        "command_context.py",
+        "spinners.py",
+        "autocompletion.py",
+        "base_command.py",
+        "main_parser.py",
+        "progress_bars.py",
+        "main.py",
+        "req_command.py"
+      ],
+      "size_mb": 0.09,
+      "created": "2026-01-15T20:19:32.708245",
+      "modified": "2026-01-15T20:19:32.708245",
+      "primary_type": "python_script",
+      "description": ""
+    },
+    {
+      "name": "PageLM-main",
+      "path": "/Users/steven/AVATARARTS/Automations/PageLM-main",
+      "files": [
+        "setup.sh",
+        "CODE_OF_CONDUCT.md",
+        "LICENSE.md",
+        "setup.ps1",
+        "nodemon.json",
+        ".DS_Store",
+        "GOVERNANCE.md",
+        "README.md",
+        ".dockerignore",
+        ".gitignore",
+        "package-lock.json",
+        "package.json",
+        "Why.md",
+        "CONTRIBUTING.md",
+        ".nvmrc",
+        ".gitattributes",
+        "docker-compose.yml",
+        ".env.example"
+      ],
+      "size_mb": 0.24,
+      "created": "2026-01-14T22:35:59.608267",
+      "modified": "2025-12-01T10:31:18",
+      "primary_type": "documentation",
+      "description": "<img width=\"full\" height=\"auto\" alt=\"pagelm\" src=\"https://github.com/user-attachments/assets/d3133be1-1931-4132-9301-3596ebb21122\" />"
+    },
+    {
+      "name": "NotebookLM_Youtube_Automator-main",
+      "path": "/Users/steven/AVATARARTS/Automations/NotebookLM_Youtube_Automator-main",
+      "files": [
+        ".DS_Store",
+        "README.md"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-15T18:12:49.827926",
+      "modified": "2026-01-15T18:12:49.827926",
+      "primary_type": "documentation",
+      "description": "Extracts YouTube video lists/links and automates adding them to NotebookLM."
+    },
+    {
+      "name": "auto-paper-digest-main",
+      "path": "/Users/steven/AVATARARTS/Automations/auto-paper-digest-main",
+      "files": [
+        ".DS_Store",
+        "douyin.jpg",
+        "pyproject.toml",
+        "README.md",
+        ".gitignore",
+        ".env.example"
+      ],
+      "size_mb": 0.14,
+      "created": "2026-01-15T18:12:49.853377",
+      "modified": "2026-01-15T18:12:49.853377",
+      "primary_type": "documentation",
+      "description": "<p align=\"center\">"
+    },
+    {
+      "name": "portal",
+      "path": "/Users/steven/AVATARARTS/Automations/auto-paper-digest-main/portal",
+      "files": [
+        "requirements.txt",
+        "README.md",
+        "app.py"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-14T22:35:59.626901",
+      "modified": "2026-01-14T04:24:36",
+      "primary_type": "documentation",
+      "description": "title: Paper Digest Portal"
+    },
+    {
+      "name": "notebooklm-kit-main",
+      "path": "/Users/steven/AVATARARTS/Automations/notebooklm-kit-main",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        "README.md",
+        ".gitignore",
+        "package-lock.json",
+        "package.json",
+        "tsconfig.json",
+        ".env.example"
+      ],
+      "size_mb": 0.32,
+      "created": "2026-01-15T18:12:49.827548",
+      "modified": "2026-01-15T18:12:49.827548",
+      "primary_type": "documentation",
+      "description": "![Banner](./.github/asset/banner.png)"
+    },
+    {
+      "name": "comics_generator-master",
+      "path": "/Users/steven/AVATARARTS/Automations/comics_generator-master",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        ".pre-commit-config.yaml",
+        "kartoon.py",
+        "script.md",
+        "README.md",
+        "manga-temple.ttf",
+        "generate_panels.py",
+        ".gitignore",
+        "create_strip.py",
+        "manga-temple.regular.ttf:Zone.Identifier",
+        "stability_ai.py",
+        "add_text.py"
+      ],
+      "size_mb": 0.05,
+      "created": "2026-01-15T18:12:49.855196",
+      "modified": "2026-01-15T18:12:49.855196",
+      "primary_type": "documentation",
+      "description": "This program use Generative AI to create an entire comic strip from a short scenario."
+    },
+    {
+      "name": "insights-lm-public-main",
+      "path": "/Users/steven/AVATARARTS/Automations/insights-lm-public-main",
+      "files": [
+        "tsconfig.node.json",
+        "index.html",
+        ".DS_Store",
+        "LICENSE",
+        "tsconfig.app.json",
+        "bun.lockb",
+        "patch-supabase.js",
+        "README.md",
+        "tailwind.config.ts",
+        ".gitignore",
+        "package-lock.json",
+        "package.json",
+        "components.json",
+        "tsconfig.json",
+        "eslint.config.js",
+        ".env.example",
+        "vite.config.ts",
+        "postcss.config.js"
+      ],
+      "size_mb": 0.46,
+      "created": "2026-01-14T22:35:59.636154",
+      "modified": "2025-09-02T09:10:46",
+      "primary_type": "documentation",
+      "description": "<img src=\"https://www.theaiautomators.com/wp-content/uploads/2025/07/Group-2651.svg\" alt=\"InsightsLM Logo\" width=\"600\"/>"
+    },
+    {
+      "name": "SurfSense-main",
+      "path": "/Users/steven/AVATARARTS/Automations/SurfSense-main",
+      "files": [
+        ".recurseml.yaml",
+        "CODE_OF_CONDUCT.md",
+        ".DS_Store",
+        ".pre-commit-config.yaml",
+        "Dockerfile.allinone",
+        "README.md",
+        ".secrets.baseline",
+        "docker-compose.quickstart.yml",
+        ".dockerignore",
+        ".gitignore",
+        "CONTRIBUTING.md",
+        ".gitattributes",
+        "README.zh-CN.md",
+        "docker-compose.yml",
+        ".env.example",
+        "biome.json"
+      ],
+      "size_mb": 0.07,
+      "created": "2026-01-14T22:35:59.647286",
+      "modified": "2026-01-13T23:50:15",
+      "primary_type": "documentation",
+      "description": "![new_header](https://github.com/user-attachments/assets/e236b764-0ddc-42ff-a1f1-8fbb3d2e0e65)"
+    },
+    {
+      "name": "surfsense_browser_extension",
+      "path": "/Users/steven/AVATARARTS/Automations/SurfSense-main/surfsense_browser_extension",
+      "files": [
+        "pnpm-lock.yaml",
+        "tailwind.config.js",
+        "content.ts",
+        "tailwind.css",
+        "README.md",
+        ".gitignore",
+        "package.json",
+        "popup.tsx",
+        "tsconfig.json",
+        "font.css",
+        ".env.example",
+        "biome.json",
+        "postcss.config.js"
+      ],
+      "size_mb": 0.33,
+      "created": "2026-01-14T22:35:59.647884",
+      "modified": "2026-01-13T23:50:15",
+      "primary_type": "documentation",
+      "description": "Use this guide to build for your browser https://docs.plasmo.com/framework/workflows/build"
+    },
+    {
+      "name": "surfsense_backend",
+      "path": "/Users/steven/AVATARARTS/Automations/SurfSense-main/surfsense_backend",
+      "files": [
+        "uv.lock",
+        "alembic.ini",
+        "Dockerfile",
+        "celery_worker.py",
+        "pyproject.toml",
+        ".dockerignore",
+        ".gitignore",
+        ".python-version",
+        ".env.example",
+        "main.py"
+      ],
+      "size_mb": 0.9,
+      "created": "2026-01-14T22:35:59.693849",
+      "modified": "2026-01-13T23:50:15",
+      "primary_type": "python_script",
+      "description": ""
+    },
+    {
+      "name": "Local-NotebookLM-main",
+      "path": "/Users/steven/AVATARARTS/Automations/Local-NotebookLM-main",
+      "files": [
+        "CODE_OF_CONDUCT.md",
+        ".DS_Store",
+        "requirements.txt",
+        ".pre-commit-config.yaml",
+        "pyproject.toml",
+        "MANIFEST.in",
+        "test.py",
+        "README.md",
+        "setup.py",
+        ".gitignore",
+        "CONTRIBUTING.md",
+        "example_config.json",
+        "logo.jpeg"
+      ],
+      "size_mb": 0.12,
+      "created": "2026-01-14T22:35:59.698949",
+      "modified": "2025-12-10T16:57:07",
+      "primary_type": "documentation",
+      "description": "![logo](logo.jpeg)"
+    },
+    {
+      "name": "automated-notebooklm-main",
+      "path": "/Users/steven/AVATARARTS/Automations/automated-notebooklm-main",
+      "files": [
+        "cspell.json",
+        ".DS_Store",
+        "README.md",
+        "yarn.lock",
+        ".gitignore",
+        "package.json",
+        ".nvmrc",
+        ".prettierrc",
+        "tsconfig.json",
+        ".env.example",
+        "vitest.config.ts",
+        "CLAUDE.md"
+      ],
+      "size_mb": 0.09,
+      "created": "2026-01-14T22:35:59.702141",
+      "modified": "2025-12-22T09:57:30",
+      "primary_type": "documentation",
+      "description": "This repository demonstrates an experimental pipeline that automates Google NotebookLM to generate podcast audio from URLs, converts the audio to MP3, and optionally uploads an episode to RedCircle. I"
+    },
+    {
+      "name": "notebooklm-skill-master",
+      "path": "/Users/steven/AVATARARTS/Automations/notebooklm-skill-master",
+      "files": [
+        "AUTHENTICATION.md",
+        ".DS_Store",
+        "LICENSE",
+        "requirements.txt",
+        "README.md",
+        ".gitignore",
+        "SKILL.md"
+      ],
+      "size_mb": 0.03,
+      "created": "2026-01-14T22:35:59.710099",
+      "modified": "2026-01-14T05:58:09",
+      "primary_type": "documentation",
+      "description": "Welcome to notebooklm-skill! This tool allows Claude Code to communicate directly with your Google NotebookLM notebooks. You can query your uploaded documents and receive accurate, citation-backed ans"
+    },
+    {
+      "name": "how-to-data-science-main",
+      "path": "/Users/steven/AVATARARTS/Automations/how-to-data-science-main",
+      "files": [
+        ".DS_Store",
+        "Create_a_Bot_to_Find_Diamonds_in_Minecraft.ipynb",
+        "What_is_a_Tensor_in_Deep_Learning.ipynb",
+        "Improve_ChatGPT_with_Knowledge_Graphs.ipynb",
+        "Efficiently_iterating_over_rows_in_a_Pandas_DataFrame.ipynb",
+        "README.md"
+      ],
+      "size_mb": 2.1,
+      "created": "2026-01-15T18:12:49.826221",
+      "modified": "2026-01-15T18:12:49.826221",
+      "primary_type": "documentation",
+      "description": "Scripts, notebooks, and articles about data science in general."
+    },
+    {
+      "name": "Programming_Books-main",
+      "path": "/Users/steven/AVATARARTS/Automations/Programming_Books-main",
+      "files": [
+        ".DS_Store",
+        "README.md"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-15T18:12:49.852107",
+      "modified": "2026-01-15T18:12:49.852107",
+      "primary_type": "documentation",
+      "description": "Just a selection of programming books to help users learn."
+    },
+    {
+      "name": "notebookllama-main",
+      "path": "/Users/steven/AVATARARTS/Automations/notebookllama-main",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        "uv.lock",
+        ".pre-commit-config.yaml",
+        "pyproject.toml",
+        "README.md",
+        ".gitignore",
+        "CONTRIBUTING.md",
+        ".python-version",
+        "compose.yaml",
+        ".env.example"
+      ],
+      "size_mb": 0.35,
+      "created": "2026-01-15T18:12:49.866641",
+      "modified": "2026-01-15T18:12:49.866641",
+      "primary_type": "documentation",
+      "description": "https://github.com/user-attachments/assets/7e9cca45-8a4c-4dfa-98d2-2cef147422f2"
+    },
+    {
+      "name": "skill-main",
+      "path": "/Users/steven/AVATARARTS/Automations/skill-main",
+      "files": [
+        "CODE_OF_CONDUCT.md",
+        ".DS_Store",
+        "README.md"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.742169",
+      "modified": "2025-11-27T02:04:42",
+      "primary_type": "documentation",
+      "description": "This repository contains a curated collection of skills for AI agents. While originally developed for Claude Code, these skills work with various AI agents to help them handle tasks more effectively."
+    },
+    {
+      "name": "knowledge-generator-main",
+      "path": "/Users/steven/AVATARARTS/Automations/knowledge-generator-main",
+      "files": [
+        "index.html",
+        "LICENSE",
+        "requirements.txt",
+        "prompts.py",
+        "README.md",
+        ".env.template",
+        ".gitignore",
+        ".prettierrc",
+        "main.py",
+        "ratelimiter.py"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-14T22:35:59.823304",
+      "modified": "2024-10-11T02:08:12",
+      "primary_type": "documentation",
+      "description": "A simple tool for generating information about a topic to be fed into [NotebookLM](https://notebooklm.google.com/)."
+    },
+    {
+      "name": "youtube-bot-main",
+      "path": "/Users/steven/AVATARARTS/Automations/youtube-bot-main",
+      "files": [
+        ".DS_Store",
+        "README.md"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-15T18:08:06.895798",
+      "modified": "2026-01-15T18:08:06.895798",
+      "primary_type": "documentation",
+      "description": "*Industry-leading audience development solution for content creators*"
+    },
+    {
+      "name": "podcastfy-main",
+      "path": "/Users/steven/AVATARARTS/Automations/podcastfy-main",
+      "files": [
+        "CODE_OF_CONDUCT.md",
+        "PRIVACY_POLICY.md",
+        ".DS_Store",
+        "make.sh",
+        "requirements.txt",
+        "CHANGELOG.md",
+        "dev-requirements.txt",
+        "Dockerfile",
+        "Makefile",
+        "GUIDELINES.md",
+        "pyproject.toml",
+        "build_docs.py",
+        "Dockerfile_api",
+        "NOTICE",
+        "README.md",
+        "Dockerfile.dev",
+        "TESTIMONIALS.md",
+        ".dockerignore",
+        ".gitignore",
+        ".gitattributes",
+        "docker-compose.yml",
+        "procfile",
+        "podcastfy.ipynb",
+        ".readthedocs.yaml"
+      ],
+      "size_mb": 13.39,
+      "created": "2026-01-14T22:35:59.830413",
+      "modified": "2025-12-08T21:29:32",
+      "primary_type": "documentation",
+      "description": "<a name=\"readme-top\"></a>"
+    },
+    {
+      "name": "source",
+      "path": "/Users/steven/AVATARARTS/Automations/podcastfy-main/docs/source",
+      "files": [
+        "podcastfy.content_parser.rst",
+        "index.rst",
+        "conf.py",
+        "README.md",
+        "modules.rst",
+        "podcastfy.rst"
+      ],
+      "size_mb": 0.01,
+      "created": "2026-01-14T22:35:59.835344",
+      "modified": "2025-12-08T21:29:32",
+      "primary_type": "documentation",
+      "description": "[![PyPi Status](https://img.shields.io/pypi/v/podcastfy)](https://pypi.org/project/podcastfy/)"
+    },
+    {
+      "name": "whisperX-main",
+      "path": "/Users/steven/AVATARARTS/Automations/whisperX-main",
+      "files": [
+        "EXAMPLES.md",
+        ".DS_Store",
+        "LICENSE",
+        "requirements.txt",
+        "MANIFEST.in",
+        "README.md",
+        "setup.py",
+        ".gitignore"
+      ],
+      "size_mb": 0.03,
+      "created": "2026-01-14T22:35:59.842550",
+      "modified": "2025-01-10T00:44:21",
+      "primary_type": "documentation",
+      "description": "<p align=\"center\">"
+    },
+    {
+      "name": "OhOnePro-main",
+      "path": "/Users/steven/AVATARARTS/Automations/OhOnePro-main",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        "NOTICE",
+        "README.md",
+        ".gitignore"
+      ],
+      "size_mb": 0.05,
+      "created": "2026-01-15T18:12:54.876537",
+      "modified": "2026-01-15T18:12:54.876537",
+      "primary_type": "documentation",
+      "description": "<img src=\"https://ohonepro.com/images/app-icon.png\" alt=\"Oh One Pro\" width=\"100\" />"
+    },
+    {
+      "name": "notebooklm-py-main",
+      "path": "/Users/steven/AVATARARTS/Automations/notebooklm-py-main",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        "uv.lock",
+        "CHANGELOG.md",
+        ".pre-commit-config.yaml",
+        "pyproject.toml",
+        "README.md",
+        ".gitignore",
+        "CONTRIBUTING.md",
+        ".env.example",
+        "notebooklm-py.png",
+        "CLAUDE.md",
+        "SECURITY.md"
+      ],
+      "size_mb": 0.83,
+      "created": "2026-01-15T18:12:54.874158",
+      "modified": "2026-01-15T18:12:54.874158",
+      "primary_type": "documentation",
+      "description": "<p align=\"left\">"
+    },
+    {
+      "name": "sunova-visualize",
+      "path": "/Users/steven/AVATARARTS/Automations/sunova-mcp-main/sunova-visualize",
+      "files": [
+        "tsconfig.node.json",
+        "index.html",
+        "vercel.json",
+        "tsconfig.app.json",
+        "bun.lockb",
+        "app-info.md",
+        "README.md",
+        "tailwind.config.ts",
+        "QA_CHECKLIST.md",
+        ".gitignore",
+        "package-lock.json",
+        "package.json",
+        "components.json",
+        "tsconfig.json",
+        "End-to-End Flow Chart.mmd",
+        "eslint.config.js",
+        "AGENTS.md",
+        "vite.config.ts",
+        "postcss.config.js",
+        "vitest.setup.ts"
+      ],
+      "size_mb": 0.66,
+      "created": "2026-01-14T22:35:59.863651",
+      "modified": "2025-10-12T06:36:01",
+      "primary_type": "documentation",
+      "description": "- **Purpose**: Sunova Visualize turns an artist’s audio into a production-ready music video plan. The React SPA handles onboarding, project management, and editor tooling, while Supabase Edge Function"
+    },
+    {
+      "name": "music-mcp",
+      "path": "/Users/steven/AVATARARTS/Automations/sunova-mcp-main/sunova-visualize/apps/music-mcp",
+      "files": [
+        ".npmrc",
+        "ANALYSIS.md",
+        "README.md",
+        "package.json",
+        "tsconfig.json",
+        ".env.example"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-14T22:35:59.872176",
+      "modified": "2025-10-12T06:36:01",
+      "primary_type": "documentation",
+      "description": "Overview"
+    },
+    {
+      "name": "notebooklm-latex-renderer-main",
+      "path": "/Users/steven/AVATARARTS/Automations/notebooklm-latex-renderer-main",
+      "files": [
+        ".DS_Store",
+        "README.md",
+        "content_script.js",
+        "manifest.json",
+        "custom_styles.css"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-15T18:12:54.875830",
+      "modified": "2026-01-15T18:12:54.875830",
+      "primary_type": "documentation",
+      "description": "This Chrome extension automatically finds and renders LaTeX mathematical formulas embedded within Google's NotebookLM service (`notebooklm.google.com`). It uses the KaTeX library to display both inlin"
+    },
+    {
+      "name": "Ethical_Hacking_Video_Course-main",
+      "path": "/Users/steven/AVATARARTS/Automations/Ethical_Hacking_Video_Course-main",
+      "files": [
+        ".DS_Store",
+        "README.md"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-15T18:08:06.846795",
+      "modified": "2026-01-15T18:08:06.846795",
+      "primary_type": "documentation",
+      "description": "This is a selection of ethical hacking courses on video"
+    },
+    {
+      "name": "AI-podcast-generator-main",
+      "path": "/Users/steven/AVATARARTS/Automations/AI-podcast-generator-main",
+      "files": [
+        "podcast_script.py",
+        "content.txt",
+        "requirements.txt",
+        "SSML.txt",
+        "README.md",
+        "final_output.mp3"
+      ],
+      "size_mb": 0.53,
+      "created": "2026-01-14T22:35:59.891466",
+      "modified": "2024-10-02T08:21:11",
+      "primary_type": "documentation",
+      "description": "This script generates an AI-powered podcast based on a given text."
+    },
+    {
+      "name": "notebook-cat-main",
+      "path": "/Users/steven/AVATARARTS/Automations/notebook-cat-main",
+      "files": [
+        "test_zip_creation.py",
+        ".DS_Store",
+        "config.py",
+        "pytest.ini",
+        "LICENSE",
+        "requirements.txt",
+        "CHANGELOG.md",
+        "README.md",
+        "CHANGELOG_SUMMARY.md",
+        "setup.py",
+        "calculate_coverage.py",
+        ".gitignore",
+        "test_webui_core.py",
+        "test_config.py",
+        "RELEASE_NOTES.md",
+        "simple_test.py"
+      ],
+      "size_mb": 0.04,
+      "created": "2026-01-14T22:35:59.891878",
+      "modified": "2025-05-10T19:09:49",
+      "primary_type": "documentation",
+      "description": "A tool to optimally concatenate text, markdown, and JSON files into larger source files (\"sources\") for Google NotebookLM, maximizing source count and word limits. Features both a command-line interfa"
+    },
+    {
+      "name": "notebook_cat",
+      "path": "/Users/steven/AVATARARTS/Automations/notebook-cat-main/src/notebook_cat",
+      "files": [
+        "webui.py",
+        "__init__.py",
+        "core.py",
+        "utils.py",
+        "main.py",
+        "validation.py"
+      ],
+      "size_mb": 0.05,
+      "created": "2026-01-14T22:35:59.893854",
+      "modified": "2025-05-10T19:09:49",
+      "primary_type": "python_script",
+      "description": ""
+    },
+    {
+      "name": "vidgen-main",
+      "path": "/Users/steven/AVATARARTS/Automations/vidgen-main",
+      "files": [
+        ".DS_Store",
+        "LICENSE",
+        "predict.py",
+        "README.md",
+        "Deforum_Stable_Diffusion.py",
+        "install_requirements.py",
+        ".gitignore",
+        "Deforum_Stable_Diffusion.ipynb",
+        "cog.yaml"
+      ],
+      "size_mb": 0.19,
+      "created": "2026-01-15T18:08:06.867404",
+      "modified": "2026-01-15T18:08:06.867404",
+      "primary_type": "documentation",
+      "description": "⚠️ **NOTICE: This project is no longer maintained.** ⚠️"
+    },
+    {
+      "name": "DIY-Podcast-Generator-main",
+      "path": "/Users/steven/AVATARARTS/Automations/DIY-Podcast-Generator-main",
+      "files": [
+        "gen_audio.py",
+        ".DS_Store",
+        "gen_video.py",
+        "requirements.txt",
+        "README.md",
+        ".gitignore",
+        "app.py",
+        "prompt.py",
+        "gen_conversation.py"
+      ],
+      "size_mb": 0.02,
+      "created": "2026-01-14T22:35:59.903987",
+      "modified": "2024-10-22T15:56:53",
+      "primary_type": "documentation",
+      "description": "![License](https://img.shields.io/badge/license-Apache2.0-blue)"
+    },
+    {
+      "name": "Simli_NotebookLM-main",
+      "path": "/Users/steven/AVATARARTS/Automations/Simli_NotebookLM-main",
+      "files": [
+        "client.js",
+        "latest_audio.wav",
+        "server.py",
+        "index.html",
+        "requirements.txt",
+        "python",
+        "diarization_results.txt",
+        "README.md",
+        "package-lock.json",
+        "package.json",
+        ".env",
+        "diarization.py",
+        "style.css"
+      ],
+      "size_mb": 4.65,
+      "created": "2026-01-14T22:35:59.904650",
+      "modified": "2024-11-06T12:21:58",
+      "primary_type": "documentation",
+      "description": "![image](https://github.com/user-attachments/assets/3112a14e-d95e-4c83-8786-9d52cce2c087)"
+    },
+    {
+      "name": "open-notebookllm-master",
+      "path": "/Users/steven/AVATARARTS/Automations/open-notebookllm-master",
+      "files": [
+        ".DS_Store",
+        "啟動指南.md",
+        "README.md",
+        ".gitignore",
+        ".env.example"
+      ],
+      "size_mb": 0.04,
+      "created": "2026-01-15T22:32:48.056767",
+      "modified": "2026-01-15T22:32:48.056767",
+      "primary_type": "documentation",
+      "description": "Open source implementation of NotebookLM. Supports multiple AI providers, RAG-based retrieval, podcast generation, speech-to-text, and more."
+    }
+  ],
+  "scan_end_time": "2026-01-16T20:20:43.342046",
+  "total_tools_found": 121
+}

@@ -1,0 +1,26 @@
+name,category,value,complexity,size_mb,path
+sortD.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/clean/sortD.sh
+docs-02-04-11:02.csv,Data Analysis,0.00,N/A,0.001,/Users/steven/clean/docs-02-04-11:02.csv
+index2.html,Web Development,2.00,N/A,0.095,/Users/steven/clean/index2.html
+config.py,Automation Scripts,0.00,low,0.0,/Users/steven/clean/config.py
+image_data-02-04-11-02.csv,Data Analysis,0.00,N/A,0.0,/Users/steven/clean/image_data-02-04-11-02.csv
+requirements.txt,AI/ML,1.00,N/A,0.0,/Users/steven/clean/requirements.txt
+audio-02-04-11:02.csv,Data Analysis,0.00,N/A,0.0,/Users/steven/clean/audio-02-04-11:02.csv
+docs-02-04-11:10.csv,Data Analysis,0.00,N/A,0.001,/Users/steven/clean/docs-02-04-11:10.csv
+batch-info.py,Web Development,0.00,low,0.008,/Users/steven/clean/batch-info.py
+docs.py,Data Analysis,0.00,low,0.008,/Users/steven/clean/docs.py
+other.py,Data Analysis,0.00,low,0.008,/Users/steven/clean/other.py
+all.py,Web Development,0.00,high,0.016,/Users/steven/clean/all.py
+img.py,Data Analysis,1.00,low,0.008,/Users/steven/clean/img.py
+run.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/clean/run.sh
+script_output.csv,Automation Scripts,0.00,N/A,0.0,/Users/steven/clean/script_output.csv
+vids.py,Data Analysis,0.00,low,0.008,/Users/steven/clean/vids.py
+docs-02-08-19:40.csv,Data Analysis,0.00,N/A,10.05,/Users/steven/clean/docs-02-08-19:40.csv
+audio.py,Data Analysis,0.00,low,0.009,/Users/steven/clean/audio.py
+docs-02-04-11:09.csv,Data Analysis,0.00,N/A,0.0,/Users/steven/clean/docs-02-04-11:09.csv
+vids.txt,General,0.00,N/A,0.0,/Users/steven/clean/vids.txt
+audio_output.csv,Data Analysis,0.00,N/A,0.0,/Users/steven/clean/audio_output.csv
+back-clean.sh,General,0.00,N/A,0.001,/Users/steven/clean/back-clean.sh
+docs.txt,General,0.00,N/A,0.0,/Users/steven/clean/docs.txt
+docs-02-04-11:24.csv,Data Analysis,0.00,N/A,0.0,/Users/steven/clean/docs-02-04-11:24.csv
+all.cpython-312.pyc,General,0.00,N/A,0.011,/Users/steven/clean/__pycache__/all.cpython-312.pyc

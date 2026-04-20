@@ -1,0 +1,25 @@
+{
+  "scan_time": "2026-01-17T15:05:30.704651",
+  "target": "/Users/steven/AutoTagger/current",
+  "stats": {
+    "dirs": 0,
+    "files": 3
+  },
+  "items": [
+    {
+      "name": "current",
+      "path": "/Users/steven/AutoTagger/current",
+      "size_mb": 0.01,
+      "primary_type": "python_script",
+      "description": "",
+      "intelligent_category": "General",
+      "confidence": 0.0,
+      "tags": [],
+      "business_value": 0.0,
+      "entities": {
+        "platforms": [],
+        "tech": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1023 @@
+name,category,value,complexity,size_mb,path
+PROJECT_SUMMARY.md,Automation Scripts,3.00,N/A,0.006,/Users/steven/.qwen/PROJECT_SUMMARY.md
+IMPORT_MANIFEST.md,AI/ML,1.00,N/A,0.008,/Users/steven/.qwen/IMPORT_MANIFEST.md
+QWEN.md.backup,Automation Scripts,2.00,N/A,0.003,/Users/steven/.qwen/QWEN.md.backup
+FUNDING.yml,General,0.00,N/A,0.0,/Users/steven/.qwen/FUNDING.yml
+QWEN.md,Automation Scripts,2.00,N/A,0.006,/Users/steven/.qwen/QWEN.md
+superpowers-bootstrap.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers-bootstrap.md
+code-reviewer.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/code-reviewer.md
+google_accounts.json,General,0.00,N/A,0.0,/Users/steven/.qwen/google_accounts.json
+installation_id,General,0.00,N/A,0.0,/Users/steven/.qwen/installation_id
+oauth_creds.json,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/oauth_creds.json
+settings.json,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/settings.json
+output-language.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/output-language.md
+execute-plan.md,Automation Scripts,0.00,N/A,0.0,/Users/steven/.qwen/execute-plan.md
+README.codex.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/README.codex.md
+settings.json.backup,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/settings.json.backup
+QWEN_SYSTEM_DEFINITION.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/QWEN_SYSTEM_DEFINITION.md
+INSTALL.md,General,0.00,N/A,0.001,/Users/steven/.qwen/INSTALL.md
+testing.md,AI/ML,0.00,N/A,0.009,/Users/steven/.qwen/testing.md
+INSTALL 2.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/INSTALL 2.md
+README.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/README.md
+Untitled.txt,General,0.00,N/A,0.542,/Users/steven/.qwen/Untitled.txt
+update.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/update.sh
+write-plan.md,Automation Scripts,1.00,N/A,0.0,/Users/steven/.qwen/write-plan.md
+superpowers.zip,General,0.00,N/A,0.781,/Users/steven/.qwen/superpowers.zip
+settings.json.orig,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/settings.json.orig
+README.opencode.md,AI/ML,1.00,N/A,0.01,/Users/steven/.qwen/README.opencode.md
+Master_Recall_Index.md,Automation Scripts,0.00,N/A,0.015,/Users/steven/.qwen/Master_Recall_Index.md
+Working_Principles.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/Working_Principles.md
+ECOSYSTEM_ANALYSIS.md,Data Analysis,0.00,N/A,0.005,/Users/steven/.qwen/ECOSYSTEM_ANALYSIS.md
+QWEN.mdnecho,General,0.00,N/A,0.0,/Users/steven/.qwen/QWEN.mdnecho
+Logic_Flows.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/Logic_Flows.md
+INTEGRATION_SUMMARY.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/INTEGRATION_SUMMARY.md
+superpowers-codex.txt,General,0.00,N/A,0.009,/Users/steven/.qwen/superpowers-codex.txt
+superpowers.js,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers.js
+superpowers-codex,General,0.00,N/A,0.009,/Users/steven/.qwen/superpowers-codex
+Use_Cases_And_Triggers.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/Use_Cases_And_Triggers.md
+brainstorm.md,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/brainstorm.md
+ecosystem_analysis_20260214_003933.json,Data Analysis,0.00,N/A,0.037,/Users/steven/.qwen/ecosystem_analysis_20260214_003933.json
+51750.lock,General,0.00,N/A,0.0,/Users/steven/.qwen/ide/51750.lock
+insight.html,Web Development,1.00,N/A,0.048,/Users/steven/.qwen/insights/insight.html
+insight-2026-04-11.html,Web Development,1.00,N/A,0.048,/Users/steven/.qwen/insights/insight-2026-04-11.html
+3ca5c8f9-328d-4a36-814e-a1929ae4df48.toml,Automation Scripts,1.00,N/A,0.01,/Users/steven/.qwen/qodo-workflows/3ca5c8f9-328d-4a36-814e-a1929ae4df48.toml
+177ab79e-ab46-4397-be87-4c424fba4bd5.toml,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/qodo-workflows/177ab79e-ab46-4397-be87-4c424fba4bd5.toml
+98ad257c-2430-4c84-b8a6-2872939f016f.toml,Automation Scripts,1.00,N/A,0.007,/Users/steven/.qwen/qodo-workflows/98ad257c-2430-4c84-b8a6-2872939f016f.toml
+607dc641-156c-4255-b461-c2385b4ab902.toml,Automation Scripts,1.00,N/A,0.008,/Users/steven/.qwen/qodo-workflows/607dc641-156c-4255-b461-c2385b4ab902.toml
+c9a982d6-44c8-44b4-b57f-931d25fd0e63.toml,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/qodo-workflows/c9a982d6-44c8-44b4-b57f-931d25fd0e63.toml
+5cda4918-cdc4-4a5b-a703-0d3f736e27b5.toml,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/qodo-workflows/5cda4918-cdc4-4a5b-a703-0d3f736e27b5.toml
+9616d950-19dd-4f05-9350-3ca9fb537a2c.toml,Automation Scripts,1.00,N/A,0.004,/Users/steven/.qwen/qodo-workflows/9616d950-19dd-4f05-9350-3ca9fb537a2c.toml
+cc4bbbf6-c232-4d47-a59c-b9b738db1352.toml,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/qodo-workflows/cc4bbbf6-c232-4d47-a59c-b9b738db1352.toml
+848b2851-3cc5-4972-bd15-09ae3a198859.toml,Automation Scripts,1.00,N/A,0.007,/Users/steven/.qwen/qodo-workflows/848b2851-3cc5-4972-bd15-09ae3a198859.toml
+task-management.md,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/agents-from-cursor/task-management.md
+code-reviewer.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/agents-from-cursor/code-reviewer.md
+tree-explorer.md,Automation Scripts,0.00,N/A,0.003,/Users/steven/.qwen/agents-from-cursor/tree-explorer.md
+filesystem-inventory.md,Data Analysis,0.00,N/A,0.003,/Users/steven/.qwen/agents-from-cursor/filesystem-inventory.md
+path-list-analyzer.md,Automation Scripts,0.00,N/A,0.003,/Users/steven/.qwen/agents-from-cursor/path-list-analyzer.md
+notebooklm-enhancement-advisor.md,Automation Scripts,1.00,N/A,0.006,/Users/steven/.qwen/agents-from-cursor/notebooklm-enhancement-advisor.md
+documentation-manager.md,AI/ML,1.00,N/A,0.01,/Users/steven/.qwen/agents-from-cursor/documentation-manager.md
+ecosystem-analyzer.md,Automation Scripts,0.00,N/A,0.005,/Users/steven/.qwen/agents-from-cursor/ecosystem-analyzer.md
+avatararts-organizer.md,AI/ML,2.00,N/A,0.005,/Users/steven/.qwen/agents-from-cursor/avatararts-organizer.md
+context-management.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/agents-from-cursor/context-management.md
+ecosystem-synergy.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/agents-from-cursor/ecosystem-synergy.md
+content-consolidator.md,AI/ML,1.00,N/A,0.011,/Users/steven/.qwen/agents-from-cursor/content-consolidator.md
+SUBAGENT_QUICK_REFERENCE.md,AI/ML,2.00,N/A,0.007,/Users/steven/.qwen/agents-from-cursor/SUBAGENT_QUICK_REFERENCE.md
+integrated-evolution.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/agents-from-cursor/integrated-evolution.md
+context-handoff-compiler.md,Automation Scripts,0.00,N/A,0.006,/Users/steven/.qwen/agents-from-cursor/context-handoff-compiler.md
+revenue-optimizer.md,Automation Scripts,2.00,N/A,0.01,/Users/steven/.qwen/agents-from-cursor/revenue-optimizer.md
+xeo-strategist.md,Automation Scripts,2.00,N/A,0.008,/Users/steven/.qwen/agents-from-cursor/xeo-strategist.md
+documentation.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/agents-from-cursor/documentation.md
+self-evolution.md,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/agents-from-cursor/self-evolution.md
+ai-workflow-manager.md,AI/ML,1.00,N/A,0.008,/Users/steven/.qwen/agents-from-cursor/ai-workflow-manager.md
+ecosystem-learning.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/agents-from-cursor/ecosystem-learning.md
+ai-xeo.md,AI/ML,2.00,N/A,0.001,/Users/steven/.qwen/agents-from-cursor/ai-xeo.md
+bots.md,Automation Scripts,2.00,N/A,0.007,/Users/steven/.qwen/agents-from-cursor/bots.md
+self-evolution-plan.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/agents-from-cursor/self-evolution-plan.md
+SUBAGENTS_GUIDE.md,AI/ML,1.00,N/A,0.013,/Users/steven/.qwen/agents-from-cursor/SUBAGENTS_GUIDE.md
+LICENSE,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/coderabbit/1.0.0/LICENSE
+README.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/coderabbit/1.0.0/README.md
+code-reviewer.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/coderabbit/1.0.0/agents/code-reviewer.md
+review.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/coderabbit/1.0.0/commands/review.md
+SKILL.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/coderabbit/1.0.0/skills/code-review/SKILL.md
+self-evolution-plan.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/plans/self-evolution-plan.md
+qwen-self-management.plugin,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/plugins/marketplaces/qwen-plugins-official/qwen-self-management.plugin
+README.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/learning-output-style/2cd88e7947b7/README.md
+session-start.sh,General,0.00,N/A,0.003,/Users/steven/.qwen/learning-output-style/2cd88e7947b7/hooks-handlers/session-start.sh
+hooks.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/learning-output-style/2cd88e7947b7/hooks/hooks.json
+README.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/learning-output-style/latest/README.md
+session-start.sh,General,0.00,N/A,0.003,/Users/steven/.qwen/learning-output-style/latest/hooks-handlers/session-start.sh
+hooks.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/learning-output-style/latest/hooks/hooks.json
+README.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/learning-output-style/27d2b86d72da/README.md
+session-start.sh,General,0.00,N/A,0.003,/Users/steven/.qwen/learning-output-style/27d2b86d72da/hooks-handlers/session-start.sh
+hooks.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/learning-output-style/27d2b86d72da/hooks/hooks.json
+README.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/learning-output-style/236752ad9ab3/README.md
+session-start.sh,General,0.00,N/A,0.003,/Users/steven/.qwen/learning-output-style/236752ad9ab3/hooks-handlers/session-start.sh
+hooks.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/learning-output-style/236752ad9ab3/hooks/hooks.json
+f36e2a9b-cdfe-4002-b9a1-58972be3587c.jsonl,General,0.00,N/A,0.584,/Users/steven/.qwen/projects/-Users-steven--cursor/chats/f36e2a9b-cdfe-4002-b9a1-58972be3587c.jsonl
+e6668ed9-8484-4b63-979b-36c93a59b799.jsonl,General,0.00,N/A,2.624,/Users/steven/.qwen/projects/-Users-steven--cursor/chats/e6668ed9-8484-4b63-979b-36c93a59b799.jsonl
+84e3523c-f978-4ed8-a921-548f2f8cf504.jsonl,General,0.00,N/A,6.021,/Users/steven/.qwen/projects/-Users-steven--cursor/chats/84e3523c-f978-4ed8-a921-548f2f8cf504.jsonl
+c35952af-198f-470e-a1f7-327126562cd4.jsonl,General,0.00,N/A,8.403,/Users/steven/.qwen/projects/-Users-steven-iterm2/chats/c35952af-198f-470e-a1f7-327126562cd4.jsonl
+9a3af499-7ba2-4937-8909-a63b1383b4b1.jsonl,Web Development,0.00,N/A,0.515,/Users/steven/.qwen/projects/-Users-steven-iterm2/chats/9a3af499-7ba2-4937-8909-a63b1383b4b1.jsonl
+6231d116-4821-459d-9ec8-41902d2c16d5.jsonl,General,0.00,N/A,0.877,/Users/steven/.qwen/projects/-Users-steven-iterm2/chats/6231d116-4821-459d-9ec8-41902d2c16d5.jsonl
+55987f2e-52fe-409a-9551-a94d3abe0236.jsonl,General,0.00,N/A,32.43,/Users/steven/.qwen/projects/-Users-steven-iterm2/chats/55987f2e-52fe-409a-9551-a94d3abe0236.jsonl
+34c919d4-1d49-4c0e-ac6a-d884d70dd3ed.jsonl,AI/ML,0.00,N/A,0.199,/Users/steven/.qwen/projects/-Users-steven-iterm2/chats/34c919d4-1d49-4c0e-ac6a-d884d70dd3ed.jsonl
+dbaab5bc-351a-463b-b059-c0d9490d3d27.jsonl,General,0.00,N/A,3.374,/Users/steven/.qwen/projects/-Users-steven-p-market/chats/dbaab5bc-351a-463b-b059-c0d9490d3d27.jsonl
+0cc53f4c-6a45-45e3-9506-db6e6540142c.jsonl,General,0.00,N/A,1.247,/Users/steven/.qwen/projects/-Users-steven-iterm2--qwen-superpowers/chats/0cc53f4c-6a45-45e3-9506-db6e6540142c.jsonl
+676453a9-75f4-4a1a-bcd8-5ed8f0f46762.jsonl,General,0.00,N/A,7.262,/Users/steven/.qwen/projects/-Users-steven-workspace/chats/676453a9-75f4-4a1a-bcd8-5ed8f0f46762.jsonl
+1d24fa28-72e2-473d-b5e2-9c2040b111dd.jsonl,General,0.00,N/A,4.331,/Users/steven/.qwen/projects/-Users-steven-PYTHON-MARKETPLACE-MASTER/chats/1d24fa28-72e2-473d-b5e2-9c2040b111dd.jsonl
+ea0bca9b-5124-4e8b-9907-4cf6021c0f12.jsonl,Web Development,0.00,N/A,0.842,/Users/steven/.qwen/projects/-Users-steven-PYTHON-MARKETPLACE-MASTER-notion-test-worker/chats/ea0bca9b-5124-4e8b-9907-4cf6021c0f12.jsonl
+c903eab7-c7dc-42ff-aea5-d92f7ac6f0c5.jsonl,AI/ML,1.00,N/A,0.258,/Users/steven/.qwen/projects/-Users-steven-claudemarketplaces-com/chats/c903eab7-c7dc-42ff-aea5-d92f7ac6f0c5.jsonl
+94fb72b5-3466-4776-a42a-8d648c469609.jsonl,General,0.00,N/A,2.329,/Users/steven/.qwen/projects/-Volumes-Bin/chats/94fb72b5-3466-4776-a42a-8d648c469609.jsonl
+be3b3807-5d94-45a2-b56d-dca699aa1f11.jsonl,General,0.00,N/A,6.503,/Users/steven/.qwen/projects/-Users-steven-ice-tracker/chats/be3b3807-5d94-45a2-b56d-dca699aa1f11.jsonl
+35740c9e-4256-492b-b05c-4749c6e3bb5b.jsonl,General,0.00,N/A,5.683,/Users/steven/.qwen/projects/-Users-steven-ice-tracker-v7/chats/35740c9e-4256-492b-b05c-4749c6e3bb5b.jsonl
+569e8672-3cf3-4437-ad5c-64c8a71eb90f.jsonl,General,0.00,N/A,4.747,/Users/steven/.qwen/projects/-Users-steven-ice-tracker-v7-backend-src-modules-data-ingestion/chats/569e8672-3cf3-4437-ad5c-64c8a71eb90f.jsonl
+6fefc58f-fd48-46fd-aea3-ba81ae499e3c.jsonl,Automation Scripts,0.00,N/A,0.262,/Users/steven/.qwen/projects/-Volumes-SiTed/chats/6fefc58f-fd48-46fd-aea3-ba81ae499e3c.jsonl
+2f2e1ead-3ab9-44d1-828d-657c25dc3fe8.jsonl,General,0.00,N/A,0.676,/Users/steven/.qwen/projects/-Volumes-SiTed/chats/2f2e1ead-3ab9-44d1-828d-657c25dc3fe8.jsonl
+bbec2d60-b5ef-48f0-8d97-2ef509cec053.jsonl,General,0.00,N/A,3.671,/Users/steven/.qwen/projects/-Users-steven-iterm2-claude-ecosystem--claude-projects/chats/bbec2d60-b5ef-48f0-8d97-2ef509cec053.jsonl
+064daf40-3195-426d-9c88-e7c16aa5c546.jsonl,General,0.00,N/A,8.198,/Users/steven/.qwen/projects/-Users-steven-Downloads/chats/064daf40-3195-426d-9c88-e7c16aa5c546.jsonl
+0e92b1f0-c421-456c-a6a7-f7ef112b1216.jsonl,General,0.00,N/A,0.641,/Users/steven/.qwen/projects/-Users-steven/chats/0e92b1f0-c421-456c-a6a7-f7ef112b1216.jsonl
+81bca729-146b-4f17-8db5-3833225c7ea4.jsonl,General,0.00,N/A,4.565,/Users/steven/.qwen/projects/-Users-steven/chats/81bca729-146b-4f17-8db5-3833225c7ea4.jsonl
+84adc61b-11c6-4107-8e36-0002116cb567.jsonl,General,0.00,N/A,1.12,/Users/steven/.qwen/projects/-Users-steven/chats/84adc61b-11c6-4107-8e36-0002116cb567.jsonl
+698551cc-f521-4f0f-a658-7ed93e3b73ed.jsonl,General,0.00,N/A,3.875,/Users/steven/.qwen/projects/-Users-steven/chats/698551cc-f521-4f0f-a658-7ed93e3b73ed.jsonl
+d5b51a8d-50fb-48f0-adf7-5acd8c1c6890.jsonl,General,0.00,N/A,0.109,/Users/steven/.qwen/projects/-Users-steven/chats/d5b51a8d-50fb-48f0-adf7-5acd8c1c6890.jsonl
+4186c334-5f53-47c5-9eca-c6521536561b.jsonl,General,0.00,N/A,2.517,/Users/steven/.qwen/projects/-Users-steven/chats/4186c334-5f53-47c5-9eca-c6521536561b.jsonl
+a77a2bc9-9c8b-4417-a422-fd300c5cee2e.jsonl,General,0.00,N/A,4.939,/Users/steven/.qwen/projects/-Users-steven/chats/a77a2bc9-9c8b-4417-a422-fd300c5cee2e.jsonl
+ff458e17-0e04-433e-b5ee-12cc4ffb3e46.jsonl,General,0.00,N/A,12.873,/Users/steven/.qwen/projects/-Users-steven/chats/ff458e17-0e04-433e-b5ee-12cc4ffb3e46.jsonl
+3482d6fd-6b2f-4801-92f3-2a51e1d5b01c.jsonl,General,1.00,N/A,0.037,/Users/steven/.qwen/projects/-Users-steven/chats/3482d6fd-6b2f-4801-92f3-2a51e1d5b01c.jsonl
+05551882-ac4c-4531-861c-8783549e54b4.jsonl,General,0.00,N/A,2.507,/Users/steven/.qwen/projects/-Users-steven/chats/05551882-ac4c-4531-861c-8783549e54b4.jsonl
+896fcea1-6016-4911-8ba2-d6bc7c6d6b60.jsonl,General,0.00,N/A,42.691,/Users/steven/.qwen/projects/-Users-steven/chats/896fcea1-6016-4911-8ba2-d6bc7c6d6b60.jsonl
+63f465c8-81bf-40c6-81d6-ef3faf7784b1.jsonl,Web Development,0.00,N/A,0.261,/Users/steven/.qwen/projects/-Users-steven/chats/63f465c8-81bf-40c6-81d6-ef3faf7784b1.jsonl
+72ab755f-059e-485d-9d54-1c8be8517603.jsonl,Web Development,0.00,N/A,0.855,/Users/steven/.qwen/projects/-Users-steven/chats/72ab755f-059e-485d-9d54-1c8be8517603.jsonl
+fabc23fb-1783-4fc0-8b35-d4fc8c7ddb22.jsonl,General,1.00,N/A,0.024,/Users/steven/.qwen/projects/-Users-steven/chats/fabc23fb-1783-4fc0-8b35-d4fc8c7ddb22.jsonl
+10575fbc-24c5-45ea-9177-084da66b7374.jsonl,General,0.00,N/A,0.008,/Users/steven/.qwen/projects/-Users-steven/chats/10575fbc-24c5-45ea-9177-084da66b7374.jsonl
+d7f4b8b5-5703-4a77-a20e-a2aecc46397a.jsonl,General,0.00,N/A,5.966,/Users/steven/.qwen/projects/-Users-steven/chats/d7f4b8b5-5703-4a77-a20e-a2aecc46397a.jsonl
+f42e37fc-a027-40c7-9ccf-3fd41631d9d1.jsonl,General,0.00,N/A,1.543,/Users/steven/.qwen/projects/-Users-steven/chats/f42e37fc-a027-40c7-9ccf-3fd41631d9d1.jsonl
+5d075f84-12be-4eaa-a0be-3afed4e569ef.jsonl,General,0.00,N/A,1.634,/Users/steven/.qwen/projects/-Users-steven/chats/5d075f84-12be-4eaa-a0be-3afed4e569ef.jsonl
+f5928a10-3887-4a71-bfb1-0448700a3384.jsonl,General,0.00,N/A,1.704,/Users/steven/.qwen/projects/-Users-steven/chats/f5928a10-3887-4a71-bfb1-0448700a3384.jsonl
+e48fc72d-2004-4121-8533-29ee1a391da5.jsonl,General,1.00,N/A,0.032,/Users/steven/.qwen/projects/-Users-steven/chats/e48fc72d-2004-4121-8533-29ee1a391da5.jsonl
+d45c078f-2886-4b0f-a6ee-031fcd4929da.jsonl,General,0.00,N/A,1.709,/Users/steven/.qwen/projects/-Users-steven-MasterxEo/chats/d45c078f-2886-4b0f-a6ee-031fcd4929da.jsonl
+5cf7182a-ffd2-4abf-a6ed-e0ebeb3ffa2c.jsonl,General,0.00,N/A,7.031,/Users/steven/.qwen/projects/-Users-steven-MasterxEo/chats/5cf7182a-ffd2-4abf-a6ed-e0ebeb3ffa2c.jsonl
+7cf4cb0e-477e-45ec-bdfe-75c85f17c0b3.jsonl,AI/ML,1.00,N/A,0.449,/Users/steven/.qwen/projects/-Users-steven-pythons/chats/7cf4cb0e-477e-45ec-bdfe-75c85f17c0b3.jsonl
+d93998f9-2a65-4d55-a59f-2aa2a5e83de8.jsonl,General,0.00,N/A,3.909,/Users/steven/.qwen/projects/-Users-steven-pythons/chats/d93998f9-2a65-4d55-a59f-2aa2a5e83de8.jsonl
+a1fa4aba-5ab5-491e-a51a-3c6a682dcd13.jsonl,General,0.00,N/A,4.88,/Users/steven/.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/a1fa4aba-5ab5-491e-a51a-3c6a682dcd13.jsonl
+5a93174f-891e-4531-9b1c-7d1339baecb8.jsonl,General,0.00,N/A,1.448,/Users/steven/.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/5a93174f-891e-4531-9b1c-7d1339baecb8.jsonl
+6bad3c53-457b-43ca-9d66-b7d461c43936.jsonl,AI/ML,1.00,N/A,0.446,/Users/steven/.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/6bad3c53-457b-43ca-9d66-b7d461c43936.jsonl
+af4d43d8-7c53-4530-8dba-cc5620e0c9b6.jsonl,General,0.00,N/A,18.392,/Users/steven/.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/af4d43d8-7c53-4530-8dba-cc5620e0c9b6.jsonl
+b9cdcf7c-0725-4988-aed2-6f23726be5df.jsonl,General,0.00,N/A,3.907,/Users/steven/.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/b9cdcf7c-0725-4988-aed2-6f23726be5df.jsonl
+68c96cb5-6fc5-4fb9-980e-52f66ec8a631.jsonl,Web Development,1.00,N/A,0.281,/Users/steven/.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/68c96cb5-6fc5-4fb9-980e-52f66ec8a631.jsonl
+aea3a160-441f-49da-b18c-914326bd7af3.jsonl,AI/ML,1.00,N/A,0.269,/Users/steven/.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/aea3a160-441f-49da-b18c-914326bd7af3.jsonl
+35fab8f7-e4bb-4322-8319-92c3ab7619d2.jsonl,General,0.00,N/A,1.901,/Users/steven/.qwen/projects/-Users-steven-Music-nocTurneMeLoDieS/chats/35fab8f7-e4bb-4322-8319-92c3ab7619d2.jsonl
+0ac5a356-c400-402a-a9d9-1f9f91c4be66.jsonl,General,0.00,N/A,6.343,/Users/steven/.qwen/projects/-Users-steven-scripts/chats/0ac5a356-c400-402a-a9d9-1f9f91c4be66.jsonl
+e4b56d59-9b38-4927-ae68-83f4c1a1f8de.jsonl,Automation Scripts,0.00,N/A,0.197,/Users/steven/.qwen/projects/-Users-steven-scripts/chats/e4b56d59-9b38-4927-ae68-83f4c1a1f8de.jsonl
+README.md,Automation Scripts,0.00,N/A,0.007,/Users/steven/.qwen/code-review/2cd88e7947b7/README.md
+code-review.md,AI/ML,1.00,N/A,0.007,/Users/steven/.qwen/code-review/2cd88e7947b7/commands/code-review.md
+README.md,Automation Scripts,0.00,N/A,0.007,/Users/steven/.qwen/code-review/latest/README.md
+code-review.md,AI/ML,1.00,N/A,0.007,/Users/steven/.qwen/code-review/latest/commands/code-review.md
+README.md,Automation Scripts,0.00,N/A,0.007,/Users/steven/.qwen/code-review/27d2b86d72da/README.md
+code-review.md,AI/ML,1.00,N/A,0.007,/Users/steven/.qwen/code-review/27d2b86d72da/commands/code-review.md
+README.md,Automation Scripts,0.00,N/A,0.007,/Users/steven/.qwen/code-review/236752ad9ab3/README.md
+code-review.md,AI/ML,1.00,N/A,0.007,/Users/steven/.qwen/code-review/236752ad9ab3/commands/code-review.md
+git-ai-agent.sh,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/agents/git-ai-agent.sh
+project-launch-manager.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/agents/project-launch-manager.md
+system-analyzer.md,Automation Scripts,0.00,N/A,0.002,/Users/steven/.qwen/agents/system-analyzer.md
+seo-keyword-analyst.md,AI/ML,2.00,N/A,0.003,/Users/steven/.qwen/agents/seo-keyword-analyst.md
+ai-music-video-creator.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/agents/ai-music-video-creator.md
+knowledge-automation-strategist.md,Automation Scripts,1.00,N/A,0.006,/Users/steven/.qwen/agents/knowledge-automation-strategist.md
+content-organizer.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/agents/content-organizer.md
+agent.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/agents/documentation/agent.md
+agent.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/agents/task-management/agent.md
+agent.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/agents/ice-tracker-assistant/agent.md
+agent.md,AI/ML,0.00,N/A,0.003,/Users/steven/.qwen/agents/integrated-evolution/agent.md
+agent.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/agents/ecosystem-synergy/agent.md
+agent.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/agents/context-management/agent.md
+agent.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/agents/self-evolution/agent.md
+agent.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/agents/ecosystem-learning/agent.md
+FINAL_SYSTEM_SUMMARY.md,AI/ML,2.00,N/A,0.007,/Users/steven/.qwen/docs/evolution-changelogs/FINAL_SYSTEM_SUMMARY.md
+TECHNICAL_SPECIFICATIONS.md,AI/ML,1.00,N/A,0.009,/Users/steven/.qwen/docs/evolution-changelogs/TECHNICAL_SPECIFICATIONS.md
+COMPREHENSIVE_CHANGELOG.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/docs/evolution-changelogs/COMPREHENSIVE_CHANGELOG.md
+README.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/docs/evolution-changelogs/README.md
+COMPREHENSIVE_OVERVIEW.md,AI/ML,1.00,N/A,0.009,/Users/steven/.qwen/docs/evolution-changelogs/COMPREHENSIVE_OVERVIEW.md
+SYSTEM_SUMMARY.html,Automation Scripts,2.00,N/A,0.012,/Users/steven/.qwen/docs/evolution-changelogs/SYSTEM_SUMMARY.html
+ARCHITECTURE_COMPARISON.md,Automation Scripts,0.00,N/A,0.003,/Users/steven/.qwen/docs/evolution-changelogs/ARCHITECTURE_COMPARISON.md
+enhanced_init.sh,Automation Scripts,0.00,N/A,0.003,/Users/steven/.qwen/scripts/enhanced_init.sh
+update.sh,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/scripts/update.sh
+45f7d208-6854-4817-a8a3-3c658ece7bae.toml,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/qodo-agents/45f7d208-6854-4817-a8a3-3c658ece7bae.toml
+b0417ecd-674d-4b85-9a50-f91f22b142fc.toml,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/qodo-agents/b0417ecd-674d-4b85-9a50-f91f22b142fc.toml
+b2703e21-a285-4537-82fa-2190f83188da.toml,Automation Scripts,1.00,N/A,0.032,/Users/steven/.qwen/qodo-agents/b2703e21-a285-4537-82fa-2190f83188da.toml
+3a238fe7-50d5-4b65-9b9e-95b1f6a2c9c8.toml,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/qodo-agents/3a238fe7-50d5-4b65-9b9e-95b1f6a2c9c8.toml
+security_reminder_hook.py,AI/ML,0.00,low,0.01,/Users/steven/.qwen/security-guidance/1.0.0/hooks/security_reminder_hook.py
+hooks.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/security-guidance/1.0.0/hooks/hooks.json
+cross-agent-integration.mdc,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/rules/cross-agent-integration.mdc
+exceptional-output-system.mdc,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/rules/exceptional-output-system.mdc
+superpowers.mdc,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/rules/superpowers.mdc
+learned-context.mdc,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/rules/learned-context.mdc
+README.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/templates/README.md
+template.md,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/templates/git-ai-agents/template.md
+template.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/templates/git-ai-agent-system/template.md
+template.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/templates/git-ai-skills/template.md
+execute-plan.md,Automation Scripts,0.00,N/A,0.0,/Users/steven/.qwen/commands/execute-plan.md
+write-plan.md,Automation Scripts,1.00,N/A,0.0,/Users/steven/.qwen/commands/write-plan.md
+brainstorm.md,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/commands/brainstorm.md
+SKILL.md,AI/ML,0.00,N/A,0.018,/Users/steven/.qwen/skills/command-development/SKILL.md
+SKILL.md,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/skills/narrative-blueprints/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/skills/telegram-access/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.01,/Users/steven/.qwen/skills/build-mcp-server/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.022,/Users/steven/.qwen/skills/skill-development/SKILL.md
+SKILL.md,Automation Scripts,0.00,N/A,0.022,/Users/steven/.qwen/skills/tooluniverse/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/skills/discord-access/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/skills/systematic-debugging/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/skills/workspace-ecosystem-audit/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/skills/cursor-integration/SKILL.md
+SKILL.md,AI/ML,0.00,N/A,0.008,/Users/steven/.qwen/skills/writing-rules/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/skills/playground/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/skills/git-ai-assistant/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.008,/Users/steven/.qwen/skills/sora/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.01,/Users/steven/.qwen/skills/automation-recommender/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/skills/claude-md-improver/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.021,/Users/steven/.qwen/skills/setup-tooluniverse/SKILL.md
+SKILL.md,Automation Scripts,0.00,N/A,0.01,/Users/steven/.qwen/skills/devtu-optimize-descriptions/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.019,/Users/steven/.qwen/skills/devtu-optimize-skills/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.016,/Users/steven/.qwen/skills/build-mcp-app/SKILL.md
+SKILL.md,AI/ML,0.00,N/A,0.012,/Users/steven/.qwen/skills/plugin-settings/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/skills/imessage-configure/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.013,/Users/steven/.qwen/skills/plugin-structure/SKILL.md
+SKILL.md,Web Development,1.00,N/A,0.007,/Users/steven/.qwen/skills/build-mcpb/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.019,/Users/steven/.qwen/skills/math-olympiad/SKILL.md
+SKILL.md,Automation Scripts,1.00,N/A,0.004,/Users/steven/.qwen/skills/telegram-configure/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/skills/self-improvement/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.009,/Users/steven/.qwen/skills/devtu-fix-tool/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/skills/session-report/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/skills/git-ai-cursor-integration/SKILL.md
+SKILL.md,Automation Scripts,1.00,N/A,0.031,/Users/steven/.qwen/skills/skill-creator/SKILL.md
+SKILL.md,AI/ML,0.00,N/A,0.041,/Users/steven/.qwen/skills/tooluniverse-clinical-trial-design/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/skills/self-assistance/SKILL.md
+SKILL.md,AI/ML,0.00,N/A,0.015,/Users/steven/.qwen/skills/hook-development/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/skills/imessage-access/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.007,/Users/steven/.qwen/skills/managing-ecosystem-cleanup/SKILL.md
+README.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/skills/ice-tracker-integration/README.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/skills/ice-tracker-integration/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/skills/frontend-design/SKILL.md
+SKILL.md,Automation Scripts,1.00,N/A,0.011,/Users/steven/.qwen/skills/tooluniverse-sequence-retrieval/SKILL.md
+SKILL.md,AI/ML,0.00,N/A,0.012,/Users/steven/.qwen/skills/mcp-integration/SKILL.md
+SKILL.md,Automation Scripts,1.00,N/A,0.004,/Users/steven/.qwen/skills/discord-configure/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/skills/ecosystem-navigation/SKILL.md
+SKILL.md,Automation Scripts,0.00,N/A,0.01,/Users/steven/.qwen/skills/agent-development/SKILL.md
+5d075f84-12be-4eaa-a0be-3afed4e569ef.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/5d075f84-12be-4eaa-a0be-3afed4e569ef.json
+edb931e7-4657-4e54-8582-8f2e25fb0924.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/edb931e7-4657-4e54-8582-8f2e25fb0924.json
+30e8e56f-96ff-43c2-a33e-612a0e0ba85f.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/30e8e56f-96ff-43c2-a33e-612a0e0ba85f.json
+0ac5a356-c400-402a-a9d9-1f9f91c4be66.json,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/todos/0ac5a356-c400-402a-a9d9-1f9f91c4be66.json
+7c5cd1b1-8453-4d18-a401-0d941cfe44b8.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/todos/7c5cd1b1-8453-4d18-a401-0d941cfe44b8.json
+0c33aea4-7bee-45ed-bada-725c0e4ddeec.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/0c33aea4-7bee-45ed-bada-725c0e4ddeec.json
+f36e2a9b-cdfe-4002-b9a1-58972be3587c.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/f36e2a9b-cdfe-4002-b9a1-58972be3587c.json
+a77a2bc9-9c8b-4417-a422-fd300c5cee2e.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/a77a2bc9-9c8b-4417-a422-fd300c5cee2e.json
+765e92ab-7781-49cf-b9fd-9a61c82ae4ed.json,Web Development,1.00,N/A,0.0,/Users/steven/.qwen/todos/765e92ab-7781-49cf-b9fd-9a61c82ae4ed.json
+b705325b-d112-44a9-bfd3-0bd1cd9d8a9a.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/b705325b-d112-44a9-bfd3-0bd1cd9d8a9a.json
+acf83beb-953f-4424-b266-c4992b263f2f.json,Web Development,1.00,N/A,0.001,/Users/steven/.qwen/todos/acf83beb-953f-4424-b266-c4992b263f2f.json
+e08f3425-77e2-4a91-b124-51dcf79547ba.json,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/todos/e08f3425-77e2-4a91-b124-51dcf79547ba.json
+ca72e32c-e41b-4893-bb36-658c3ba4aad7.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/ca72e32c-e41b-4893-bb36-658c3ba4aad7.json
+ae1bced4-c07e-43e0-8655-579082616b1f.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/todos/ae1bced4-c07e-43e0-8655-579082616b1f.json
+896fcea1-6016-4911-8ba2-d6bc7c6d6b60.json,Data Analysis,0.00,N/A,0.002,/Users/steven/.qwen/todos/896fcea1-6016-4911-8ba2-d6bc7c6d6b60.json
+c4c6a857-95ae-4d30-9526-d3884413d235.json,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/todos/c4c6a857-95ae-4d30-9526-d3884413d235.json
+ee17a8c3-76fb-47df-9e76-c36bd3ae1eec.json,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/todos/ee17a8c3-76fb-47df-9e76-c36bd3ae1eec.json
+cd51239a-12bd-443b-9237-ad53850bf560.json,General,1.00,N/A,0.001,/Users/steven/.qwen/todos/cd51239a-12bd-443b-9237-ad53850bf560.json
+55987f2e-52fe-409a-9551-a94d3abe0236.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/55987f2e-52fe-409a-9551-a94d3abe0236.json
+a27e88b8-ed86-4b0b-91f2-61ac79c7cb6a.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/a27e88b8-ed86-4b0b-91f2-61ac79c7cb6a.json
+f42e37fc-a027-40c7-9ccf-3fd41631d9d1.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/f42e37fc-a027-40c7-9ccf-3fd41631d9d1.json
+324ab3a2-4a96-47c2-a2f6-b26a703ba735.json,General,0.00,N/A,0.002,/Users/steven/.qwen/todos/324ab3a2-4a96-47c2-a2f6-b26a703ba735.json
+b3740047-a12c-46e8-8f9a-94735547aa50.json,Data Analysis,0.00,N/A,0.001,/Users/steven/.qwen/todos/b3740047-a12c-46e8-8f9a-94735547aa50.json
+6bad3c53-457b-43ca-9d66-b7d461c43936.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/6bad3c53-457b-43ca-9d66-b7d461c43936.json
+9187e782-3981-4883-90b5-586a2d6d7d93.json,General,0.00,N/A,0.0,/Users/steven/.qwen/todos/9187e782-3981-4883-90b5-586a2d6d7d93.json
+362891f7-8350-484e-aa88-45ee696ca70d.json,General,1.00,N/A,0.001,/Users/steven/.qwen/todos/362891f7-8350-484e-aa88-45ee696ca70d.json
+a1fa4aba-5ab5-491e-a51a-3c6a682dcd13.json,Web Development,0.00,N/A,0.001,/Users/steven/.qwen/todos/a1fa4aba-5ab5-491e-a51a-3c6a682dcd13.json
+965825fd-9922-4482-bb81-9c51058af73b.json,Automation Scripts,2.00,N/A,0.001,/Users/steven/.qwen/todos/965825fd-9922-4482-bb81-9c51058af73b.json
+955964e9-95a4-40ce-a435-be46fa377c5e.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/955964e9-95a4-40ce-a435-be46fa377c5e.json
+4607515d-95d4-4cf3-a3b3-4410f03c35f1.json,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/todos/4607515d-95d4-4cf3-a3b3-4410f03c35f1.json
+e4e1c52e-5bfd-42ef-958f-1a140ae04501.json,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/todos/e4e1c52e-5bfd-42ef-958f-1a140ae04501.json
+c1b0c559-c077-4696-858b-0fd488349313.json,Data Analysis,0.00,N/A,0.001,/Users/steven/.qwen/todos/c1b0c559-c077-4696-858b-0fd488349313.json
+5a93174f-891e-4531-9b1c-7d1339baecb8.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/5a93174f-891e-4531-9b1c-7d1339baecb8.json
+2f2e1ead-3ab9-44d1-828d-657c25dc3fe8.json,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/todos/2f2e1ead-3ab9-44d1-828d-657c25dc3fe8.json
+9fde6fc3-f1de-4f39-aab1-5cf65ca5cb8c.json,Web Development,0.00,N/A,0.001,/Users/steven/.qwen/todos/9fde6fc3-f1de-4f39-aab1-5cf65ca5cb8c.json
+0dd9905d-c08b-4784-acdb-8f2fa0365309.json,Web Development,0.00,N/A,0.001,/Users/steven/.qwen/todos/0dd9905d-c08b-4784-acdb-8f2fa0365309.json
+4186c334-5f53-47c5-9eca-c6521536561b.json,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/todos/4186c334-5f53-47c5-9eca-c6521536561b.json
+2ff33e24-db3b-49df-a20d-c734df333174.json,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/todos/2ff33e24-db3b-49df-a20d-c734df333174.json
+aea3a160-441f-49da-b18c-914326bd7af3.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/aea3a160-441f-49da-b18c-914326bd7af3.json
+fc762c0c-1053-4ccc-b2d0-057f163ae3fa.json,Data Analysis,0.00,N/A,0.001,/Users/steven/.qwen/todos/fc762c0c-1053-4ccc-b2d0-057f163ae3fa.json
+fb5e5aac-9921-45a2-b148-f1307da96a04.json,Automation Scripts,2.00,N/A,0.001,/Users/steven/.qwen/todos/fb5e5aac-9921-45a2-b148-f1307da96a04.json
+05551882-ac4c-4531-861c-8783549e54b4.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/05551882-ac4c-4531-861c-8783549e54b4.json
+63f465c8-81bf-40c6-81d6-ef3faf7784b1.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/63f465c8-81bf-40c6-81d6-ef3faf7784b1.json
+ce22cfd0-2a61-449f-a6d5-f2551a57cb6d.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/ce22cfd0-2a61-449f-a6d5-f2551a57cb6d.json
+d45c078f-2886-4b0f-a6ee-031fcd4929da.json,Automation Scripts,1.00,N/A,0.0,/Users/steven/.qwen/todos/d45c078f-2886-4b0f-a6ee-031fcd4929da.json
+af4d43d8-7c53-4530-8dba-cc5620e0c9b6.json,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/todos/af4d43d8-7c53-4530-8dba-cc5620e0c9b6.json
+be3b3807-5d94-45a2-b56d-dca699aa1f11.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/be3b3807-5d94-45a2-b56d-dca699aa1f11.json
+b6ee8808-f1fc-46d9-b9a5-cbccb476ec73.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/b6ee8808-f1fc-46d9-b9a5-cbccb476ec73.json
+e327a947-e23f-4fcb-96aa-1899f7390845.json,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/todos/e327a947-e23f-4fcb-96aa-1899f7390845.json
+84e3523c-f978-4ed8-a921-548f2f8cf504.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/84e3523c-f978-4ed8-a921-548f2f8cf504.json
+7dd0d838-cee4-4b66-8699-571271c0b66f.json,Data Analysis,0.00,N/A,0.001,/Users/steven/.qwen/todos/7dd0d838-cee4-4b66-8699-571271c0b66f.json
+d8a7fffd-8788-4a54-bb53-0dcfc44b44d2.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/d8a7fffd-8788-4a54-bb53-0dcfc44b44d2.json
+f5928a10-3887-4a71-bfb1-0448700a3384.json,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/todos/f5928a10-3887-4a71-bfb1-0448700a3384.json
+0cc53f4c-6a45-45e3-9506-db6e6540142c.json,General,0.00,N/A,0.002,/Users/steven/.qwen/todos/0cc53f4c-6a45-45e3-9506-db6e6540142c.json
+dbb2f4ae-9d44-4fe2-9dec-29444343bc41.json,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/todos/dbb2f4ae-9d44-4fe2-9dec-29444343bc41.json
+3880223c-3646-4231-99f9-9e60ae3bb53b.json,AI/ML,2.00,N/A,0.001,/Users/steven/.qwen/todos/3880223c-3646-4231-99f9-9e60ae3bb53b.json
+1d24fa28-72e2-473d-b5e2-9c2040b111dd.json,Web Development,1.00,N/A,0.001,/Users/steven/.qwen/todos/1d24fa28-72e2-473d-b5e2-9c2040b111dd.json
+97b2b0a1-5817-4c6c-a7f1-1cefdb1bc39c.json,Automation Scripts,1.00,N/A,0.0,/Users/steven/.qwen/todos/97b2b0a1-5817-4c6c-a7f1-1cefdb1bc39c.json
+84adc61b-11c6-4107-8e36-0002116cb567.json,AI/ML,0.00,N/A,0.002,/Users/steven/.qwen/todos/84adc61b-11c6-4107-8e36-0002116cb567.json
+bdb35c94-243e-49be-ac66-90c7ed5e2e5b.json,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/todos/bdb35c94-243e-49be-ac66-90c7ed5e2e5b.json
+6231d116-4821-459d-9ec8-41902d2c16d5.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/6231d116-4821-459d-9ec8-41902d2c16d5.json
+d29eee56-99a2-4b5a-bdd8-54f3b0ea27a0.json,General,0.00,N/A,0.0,/Users/steven/.qwen/todos/d29eee56-99a2-4b5a-bdd8-54f3b0ea27a0.json
+020cf543-1f84-4942-aaa5-669737097b9b.json,Automation Scripts,1.00,N/A,0.0,/Users/steven/.qwen/todos/020cf543-1f84-4942-aaa5-669737097b9b.json
+698551cc-f521-4f0f-a658-7ed93e3b73ed.json,Web Development,1.00,N/A,0.001,/Users/steven/.qwen/todos/698551cc-f521-4f0f-a658-7ed93e3b73ed.json
+b0ab902a-231e-4bd6-97d9-91c39a7a5bf1.json,Data Analysis,0.00,N/A,0.001,/Users/steven/.qwen/todos/b0ab902a-231e-4bd6-97d9-91c39a7a5bf1.json
+a42e1f7c-2933-40a1-b68e-867887b626fe.json,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/todos/a42e1f7c-2933-40a1-b68e-867887b626fe.json
+5cf7182a-ffd2-4abf-a6ed-e0ebeb3ffa2c.json,Automation Scripts,2.00,N/A,0.001,/Users/steven/.qwen/todos/5cf7182a-ffd2-4abf-a6ed-e0ebeb3ffa2c.json
+81bca729-146b-4f17-8db5-3833225c7ea4.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/81bca729-146b-4f17-8db5-3833225c7ea4.json
+da6fa24a-f08b-40fd-9f29-c597e777a5eb.json,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/todos/da6fa24a-f08b-40fd-9f29-c597e777a5eb.json
+eddcd320-b198-4f3b-9106-9e6bb41d2dee.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/todos/eddcd320-b198-4f3b-9106-9e6bb41d2dee.json
+0e92b1f0-c421-456c-a6a7-f7ef112b1216.json,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/todos/0e92b1f0-c421-456c-a6a7-f7ef112b1216.json
+98bc8ec5-ab4a-484d-b3be-4be67cf0c68f.json,Web Development,1.00,N/A,0.001,/Users/steven/.qwen/todos/98bc8ec5-ab4a-484d-b3be-4be67cf0c68f.json
+0f9fa663-477d-4bb6-a1d9-3b80e0dda2b9.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/0f9fa663-477d-4bb6-a1d9-3b80e0dda2b9.json
+35740c9e-4256-492b-b05c-4749c6e3bb5b.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/35740c9e-4256-492b-b05c-4749c6e3bb5b.json
+72ab755f-059e-485d-9d54-1c8be8517603.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/72ab755f-059e-485d-9d54-1c8be8517603.json
+40bad0a7-71fe-441a-a8cd-4bfd99c5ae81.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/40bad0a7-71fe-441a-a8cd-4bfd99c5ae81.json
+e4b56d59-9b38-4927-ae68-83f4c1a1f8de.json,Automation Scripts,0.00,N/A,0.0,/Users/steven/.qwen/todos/e4b56d59-9b38-4927-ae68-83f4c1a1f8de.json
+5f46bb76-4c5b-4625-8c04-f09bcc860909.json,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/todos/5f46bb76-4c5b-4625-8c04-f09bcc860909.json
+676453a9-75f4-4a1a-bcd8-5ed8f0f46762.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/676453a9-75f4-4a1a-bcd8-5ed8f0f46762.json
+81f3fed9-d89b-4630-88fc-91a7ed15458c.json,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/todos/81f3fed9-d89b-4630-88fc-91a7ed15458c.json
+9a3af499-7ba2-4937-8909-a63b1383b4b1.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/9a3af499-7ba2-4937-8909-a63b1383b4b1.json
+a11abca6-d14f-4b32-bcfc-0bc939422044.json,General,1.00,N/A,0.002,/Users/steven/.qwen/todos/a11abca6-d14f-4b32-bcfc-0bc939422044.json
+132b1437-dc9b-47a8-aa80-78c30d3c5691.json,Data Analysis,0.00,N/A,0.001,/Users/steven/.qwen/todos/132b1437-dc9b-47a8-aa80-78c30d3c5691.json
+09206e4f-48fe-40ee-ad5f-2e3bb2f34181.json,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/todos/09206e4f-48fe-40ee-ad5f-2e3bb2f34181.json
+2ee254bc-ae4c-43f6-94c9-a5497c7d1d47.json,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/todos/2ee254bc-ae4c-43f6-94c9-a5497c7d1d47.json
+8976f870-39db-41bd-811b-b09cf21f3fdb.json,Data Analysis,1.00,N/A,0.002,/Users/steven/.qwen/todos/8976f870-39db-41bd-811b-b09cf21f3fdb.json
+dbaab5bc-351a-463b-b059-c0d9490d3d27.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/dbaab5bc-351a-463b-b059-c0d9490d3d27.json
+c9cc7e8b-0f66-49dd-a65e-d74e78e36a53.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/c9cc7e8b-0f66-49dd-a65e-d74e78e36a53.json
+b432e090-9c1a-4ae8-8cff-38a8c9635158.json,Automation Scripts,0.00,N/A,0.0,/Users/steven/.qwen/todos/b432e090-9c1a-4ae8-8cff-38a8c9635158.json
+ff458e17-0e04-433e-b5ee-12cc4ffb3e46.json,General,0.00,N/A,0.001,/Users/steven/.qwen/todos/ff458e17-0e04-433e-b5ee-12cc4ffb3e46.json
+c35952af-198f-470e-a1f7-327126562cd4.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/todos/c35952af-198f-470e-a1f7-327126562cd4.json
+README.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/explanatory-output-style/2cd88e7947b7/README.md
+session-start.sh,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/explanatory-output-style/2cd88e7947b7/hooks-handlers/session-start.sh
+hooks.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/explanatory-output-style/2cd88e7947b7/hooks/hooks.json
+README.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/explanatory-output-style/latest/README.md
+session-start.sh,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/explanatory-output-style/latest/hooks-handlers/session-start.sh
+hooks.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/explanatory-output-style/latest/hooks/hooks.json
+README.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/explanatory-output-style/27d2b86d72da/README.md
+session-start.sh,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/explanatory-output-style/27d2b86d72da/hooks-handlers/session-start.sh
+hooks.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/explanatory-output-style/27d2b86d72da/hooks/hooks.json
+README.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/explanatory-output-style/236752ad9ab3/README.md
+session-start.sh,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/explanatory-output-style/236752ad9ab3/hooks-handlers/session-start.sh
+hooks.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/explanatory-output-style/236752ad9ab3/hooks/hooks.json
+README.md,Automation Scripts,0.00,N/A,0.006,/Users/steven/.qwen/commit-commands/2cd88e7947b7/README.md
+commit-push-pr.md,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/commit-commands/2cd88e7947b7/commands/commit-push-pr.md
+clean_gone.md,Automation Scripts,0.00,N/A,0.002,/Users/steven/.qwen/commit-commands/2cd88e7947b7/commands/clean_gone.md
+commit.md,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/commit-commands/2cd88e7947b7/commands/commit.md
+README.md,Automation Scripts,0.00,N/A,0.006,/Users/steven/.qwen/commit-commands/27d2b86d72da/README.md
+commit-push-pr.md,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/commit-commands/27d2b86d72da/commands/commit-push-pr.md
+clean_gone.md,Automation Scripts,0.00,N/A,0.002,/Users/steven/.qwen/commit-commands/27d2b86d72da/commands/clean_gone.md
+commit.md,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/commit-commands/27d2b86d72da/commands/commit.md
+README.md,Automation Scripts,0.00,N/A,0.006,/Users/steven/.qwen/commit-commands/236752ad9ab3/README.md
+commit-push-pr.md,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/commit-commands/236752ad9ab3/commands/commit-push-pr.md
+clean_gone.md,Automation Scripts,0.00,N/A,0.002,/Users/steven/.qwen/commit-commands/236752ad9ab3/commands/clean_gone.md
+commit.md,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/commit-commands/236752ad9ab3/commands/commit.md
+logs.json,AI/ML,1.00,N/A,0.015,/Users/steven/.qwen/tmp/ce34f776b3fd5f5c0f7c97cc48030afddbff226cbde0a7d4e4c26a138dacce97/logs.json
+call_b519f8ea665b4f4483c3531f.output,General,0.00,N/A,0.027,/Users/steven/.qwen/tmp/ce34f776b3fd5f5c0f7c97cc48030afddbff226cbde0a7d4e4c26a138dacce97/call_b519f8ea665b4f4483c3531f.output
+logs.json,AI/ML,1.00,N/A,0.037,/Users/steven/.qwen/tmp/3938e0b35481cfc3ef889bc10a4b215df821b404990beeff3d3610686ee98719/logs.json
+call_f55880e275d74a61b67bf73f.output,Data Analysis,2.00,N/A,0.026,/Users/steven/.qwen/tmp/3938e0b35481cfc3ef889bc10a4b215df821b404990beeff3d3610686ee98719/call_f55880e275d74a61b67bf73f.output
+call_342842e70cdd495c93437cdc.output,AI/ML,1.00,N/A,0.033,/Users/steven/.qwen/tmp/3938e0b35481cfc3ef889bc10a4b215df821b404990beeff3d3610686ee98719/call_342842e70cdd495c93437cdc.output
+call_a24fbfd2ec664a88be4e2cb7.output,Automation Scripts,0.00,N/A,0.037,/Users/steven/.qwen/tmp/3938e0b35481cfc3ef889bc10a4b215df821b404990beeff3d3610686ee98719/call_a24fbfd2ec664a88be4e2cb7.output
+logs.json,Web Development,0.00,N/A,0.01,/Users/steven/.qwen/tmp/e0a0938f874f88e47dc4c9361d356a1fca0a1ecf1e2d396bb21e33584bcecdf9/logs.json
+logs.json,General,0.00,N/A,0.001,/Users/steven/.qwen/tmp/772b8b374c34d2f73fad376dff0b2fb7581667f7059515812368e1fb4d6c29f8/logs.json
+logs.json,AI/ML,1.00,N/A,0.05,/Users/steven/.qwen/tmp/ec25193d859a7648c4134fd7d1a6c1a2bc9b4c6adbcad6b1f420f9062abfae46/logs.json
+run_shell_command_f3d9826720d6.output,Automation Scripts,2.00,N/A,0.055,/Users/steven/.qwen/tmp/ec25193d859a7648c4134fd7d1a6c1a2bc9b4c6adbcad6b1f420f9062abfae46/run_shell_command_f3d9826720d6.output
+run_shell_command_e646c6c2a794.output,Data Analysis,1.00,N/A,0.045,/Users/steven/.qwen/tmp/ec25193d859a7648c4134fd7d1a6c1a2bc9b4c6adbcad6b1f420f9062abfae46/run_shell_command_e646c6c2a794.output
+logs.json,AI/ML,0.00,N/A,0.003,/Users/steven/.qwen/tmp/dc9051b3381ffe18ef28fbf29635410f3a880b615e78f6e2c37f882556e9149b/logs.json
+logs.json,AI/ML,0.00,N/A,0.009,/Users/steven/.qwen/tmp/a30cc3b98cc24392fa7fcd65d3f32c1f78c5a623c990097cb1cdedacc6cb3120/logs.json
+call_259b35528ac24b90bd3c100c.output,AI/ML,0.00,N/A,0.025,/Users/steven/.qwen/tmp/a30cc3b98cc24392fa7fcd65d3f32c1f78c5a623c990097cb1cdedacc6cb3120/call_259b35528ac24b90bd3c100c.output
+logs.json,General,0.00,N/A,0.024,/Users/steven/.qwen/tmp/d73b7ca535dd86b5d438258a9a1f4ba6d3f40b3645aaf29e52d5b45de8e78344/logs.json
+call_4fdb8e9fef024863aa45d45b.output,Automation Scripts,1.00,N/A,0.23,/Users/steven/.qwen/tmp/d73b7ca535dd86b5d438258a9a1f4ba6d3f40b3645aaf29e52d5b45de8e78344/call_4fdb8e9fef024863aa45d45b.output
+call_f205481f495c44c88053b995.output,Automation Scripts,0.00,N/A,0.03,/Users/steven/.qwen/tmp/d73b7ca535dd86b5d438258a9a1f4ba6d3f40b3645aaf29e52d5b45de8e78344/call_f205481f495c44c88053b995.output
+run_shell_command_16dcdc8a886b.output,AI/ML,0.00,N/A,0.043,/Users/steven/.qwen/tmp/5952e503d6fb762177c8ebc8bcd9a845c1051a549462084562e51e44e092f540/run_shell_command_16dcdc8a886b.output
+run_shell_command_a2e3d8324ca9.output,AI/ML,1.00,N/A,0.037,/Users/steven/.qwen/tmp/5952e503d6fb762177c8ebc8bcd9a845c1051a549462084562e51e44e092f540/run_shell_command_a2e3d8324ca9.output
+logs.json,General,0.00,N/A,0.014,/Users/steven/.qwen/tmp/5952e503d6fb762177c8ebc8bcd9a845c1051a549462084562e51e44e092f540/logs.json
+run_shell_command_8f1cdab0f7ad.output,General,0.00,N/A,0.032,/Users/steven/.qwen/tmp/5952e503d6fb762177c8ebc8bcd9a845c1051a549462084562e51e44e092f540/run_shell_command_8f1cdab0f7ad.output
+run_shell_command_126dd7841b63.output,General,0.00,N/A,0.031,/Users/steven/.qwen/tmp/5952e503d6fb762177c8ebc8bcd9a845c1051a549462084562e51e44e092f540/run_shell_command_126dd7841b63.output
+run_shell_command_702efa63acd5.output,AI/ML,0.00,N/A,0.111,/Users/steven/.qwen/tmp/5952e503d6fb762177c8ebc8bcd9a845c1051a549462084562e51e44e092f540/run_shell_command_702efa63acd5.output
+run_shell_command_f065b7736529.output,General,0.00,N/A,0.032,/Users/steven/.qwen/tmp/5952e503d6fb762177c8ebc8bcd9a845c1051a549462084562e51e44e092f540/run_shell_command_f065b7736529.output
+run_shell_command_79163688a430.output,General,0.00,N/A,0.032,/Users/steven/.qwen/tmp/5952e503d6fb762177c8ebc8bcd9a845c1051a549462084562e51e44e092f540/run_shell_command_79163688a430.output
+run_shell_command_5906ca399d76.output,Web Development,1.00,N/A,0.067,/Users/steven/.qwen/tmp/5952e503d6fb762177c8ebc8bcd9a845c1051a549462084562e51e44e092f540/run_shell_command_5906ca399d76.output
+run_shell_command_ddba10b90f03.output,AI/ML,0.00,N/A,0.026,/Users/steven/.qwen/tmp/5952e503d6fb762177c8ebc8bcd9a845c1051a549462084562e51e44e092f540/run_shell_command_ddba10b90f03.output
+logs.json,General,0.00,N/A,0.023,/Users/steven/.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7/logs.json
+call_9e961493ca244b7e81f34b56.output,AI/ML,0.00,N/A,0.029,/Users/steven/.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7/call_9e961493ca244b7e81f34b56.output
+call_d4d37a2066c34a549b6a22f1.output,General,0.00,N/A,1.499,/Users/steven/.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7/call_d4d37a2066c34a549b6a22f1.output
+call_761dd397de2e458c9af12614.output,General,0.00,N/A,141.096,/Users/steven/.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7/call_761dd397de2e458c9af12614.output
+call_bc4c215af0444c25abe2c8c6.output,AI/ML,1.00,N/A,0.029,/Users/steven/.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7/call_bc4c215af0444c25abe2c8c6.output
+call_7ca594f959ec435e89d887f2.output,Web Development,1.00,N/A,0.027,/Users/steven/.qwen/tmp/251c9b1dab748a3ac2590d692c4863259b661786ff31068b98288bcd174558a7/call_7ca594f959ec435e89d887f2.output
+call_7ae06603da1d459bbb5b0f91.output,AI/ML,1.00,N/A,0.067,/Users/steven/.qwen/tmp/7204b2879949ae5d452f0e8eb686cdfa9590349c2840d33dab86ba5fbecd8eb0/call_7ae06603da1d459bbb5b0f91.output
+call_0792a4e1a1194318a175e147.output,AI/ML,1.00,N/A,0.053,/Users/steven/.qwen/tmp/7204b2879949ae5d452f0e8eb686cdfa9590349c2840d33dab86ba5fbecd8eb0/call_0792a4e1a1194318a175e147.output
+logs.json,AI/ML,1.00,N/A,0.028,/Users/steven/.qwen/tmp/7204b2879949ae5d452f0e8eb686cdfa9590349c2840d33dab86ba5fbecd8eb0/logs.json
+call_2f878c2aca1a4ecc864a06e7.output,General,0.00,N/A,0.067,/Users/steven/.qwen/tmp/7204b2879949ae5d452f0e8eb686cdfa9590349c2840d33dab86ba5fbecd8eb0/call_2f878c2aca1a4ecc864a06e7.output
+call_c7367f81a65f43ceb0874be5.output,Automation Scripts,1.00,N/A,0.029,/Users/steven/.qwen/tmp/7204b2879949ae5d452f0e8eb686cdfa9590349c2840d33dab86ba5fbecd8eb0/call_c7367f81a65f43ceb0874be5.output
+call_367ec14fe25a4d0cbe08e4ea.output,AI/ML,1.00,N/A,0.089,/Users/steven/.qwen/tmp/7204b2879949ae5d452f0e8eb686cdfa9590349c2840d33dab86ba5fbecd8eb0/call_367ec14fe25a4d0cbe08e4ea.output
+call_53b82c0192944f63b9be4731.output,AI/ML,1.00,N/A,0.027,/Users/steven/.qwen/tmp/7204b2879949ae5d452f0e8eb686cdfa9590349c2840d33dab86ba5fbecd8eb0/call_53b82c0192944f63b9be4731.output
+call_2c9f6701c3bf46cb97dd825d.output,General,0.00,N/A,0.067,/Users/steven/.qwen/tmp/7204b2879949ae5d452f0e8eb686cdfa9590349c2840d33dab86ba5fbecd8eb0/call_2c9f6701c3bf46cb97dd825d.output
+call_8e48129bcfbe4940b9378fd0.output,AI/ML,1.00,N/A,0.025,/Users/steven/.qwen/tmp/7204b2879949ae5d452f0e8eb686cdfa9590349c2840d33dab86ba5fbecd8eb0/call_8e48129bcfbe4940b9378fd0.output
+call_a5f158e209494ffcbc4d727d.output,Data Analysis,0.00,N/A,0.025,/Users/steven/.qwen/tmp/7204b2879949ae5d452f0e8eb686cdfa9590349c2840d33dab86ba5fbecd8eb0/call_a5f158e209494ffcbc4d727d.output
+call_5f21339871204b7bae3f94cc.output,AI/ML,1.00,N/A,0.094,/Users/steven/.qwen/tmp/7204b2879949ae5d452f0e8eb686cdfa9590349c2840d33dab86ba5fbecd8eb0/call_5f21339871204b7bae3f94cc.output
+logs.json,General,0.00,N/A,0.086,/Users/steven/.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9/logs.json
+call_af87324f871f4a709742d680.output,Automation Scripts,0.00,N/A,0.069,/Users/steven/.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9/call_af87324f871f4a709742d680.output
+call_2cfa900effe345329e74da51.output,Automation Scripts,0.00,N/A,0.062,/Users/steven/.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9/call_2cfa900effe345329e74da51.output
+call_ddc6ab93723f4aa99d297650.output,AI/ML,1.00,N/A,0.024,/Users/steven/.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9/call_ddc6ab93723f4aa99d297650.output
+call_ae184202caf94703adfc5b55.output,AI/ML,1.00,N/A,0.057,/Users/steven/.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9/call_ae184202caf94703adfc5b55.output
+call_754b6475298846f7a7d3c670.output,General,0.00,N/A,0.031,/Users/steven/.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9/call_754b6475298846f7a7d3c670.output
+call_32dc03849893422496a3c4da.output,General,0.00,N/A,0.062,/Users/steven/.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9/call_32dc03849893422496a3c4da.output
+call_fa122fec04ae4cae9be985ad.output,Automation Scripts,1.00,N/A,0.054,/Users/steven/.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9/call_fa122fec04ae4cae9be985ad.output
+call_73d5a7743b5d47edac9ad403.output,Automation Scripts,1.00,N/A,0.028,/Users/steven/.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9/call_73d5a7743b5d47edac9ad403.output
+call_9ed80d263a984e7d936eebc6.output,Automation Scripts,0.00,N/A,0.062,/Users/steven/.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9/call_9ed80d263a984e7d936eebc6.output
+call_f04e71b72c874a828f778a13.output,Automation Scripts,0.00,N/A,0.045,/Users/steven/.qwen/tmp/ec26c4ffece0bfcd251caa5802e536ceb470d0ebe3efb355027ea59209bf09e9/call_f04e71b72c874a828f778a13.output
+call_d7df20c976744b03b8492fde.output,Web Development,0.00,N/A,0.814,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_d7df20c976744b03b8492fde.output
+call_365a0d32d0db4dc58cd21bb5.output,AI/ML,1.00,N/A,0.053,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_365a0d32d0db4dc58cd21bb5.output
+call_fd4d3f25221d454dbeb9733b.output,Data Analysis,1.00,N/A,0.031,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_fd4d3f25221d454dbeb9733b.output
+call_f5a147ecf98047c79400c7fb.output,Data Analysis,0.00,N/A,0.062,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_f5a147ecf98047c79400c7fb.output
+call_0e22cda87e4546159cdeaf47.output,General,0.00,N/A,0.269,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_0e22cda87e4546159cdeaf47.output
+call_1f65d0c0401a4ebeb0940c83.output,Automation Scripts,0.00,N/A,0.113,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_1f65d0c0401a4ebeb0940c83.output
+call_dc43a0bfa3f5489d898e98eb.output,General,0.00,N/A,0.089,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_dc43a0bfa3f5489d898e98eb.output
+call_ce3c88d97221424aa6ad7614.output,AI/ML,1.00,N/A,0.026,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_ce3c88d97221424aa6ad7614.output
+call_e27c1ec5dfa343e0a67f3b4c.output,Data Analysis,0.00,N/A,0.051,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_e27c1ec5dfa343e0a67f3b4c.output
+logs.json,AI/ML,1.00,N/A,0.164,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/logs.json
+call_7b18d19da4534be3a57dcf48.output,Automation Scripts,1.00,N/A,0.187,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_7b18d19da4534be3a57dcf48.output
+call_a38bfef0065f439593ff9cb2.output,General,0.00,N/A,0.026,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_a38bfef0065f439593ff9cb2.output
+call_8d40f2aba3d34695a245023e.output,Automation Scripts,0.00,N/A,0.049,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_8d40f2aba3d34695a245023e.output
+call_0364e468ec0248388e5aaa33.output,General,0.00,N/A,1.204,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_0364e468ec0248388e5aaa33.output
+call_061cd14200ee4605a659971c.output,Data Analysis,0.00,N/A,0.062,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_061cd14200ee4605a659971c.output
+call_1e99df0561764e30b7b2b413.output,Web Development,0.00,N/A,0.029,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_1e99df0561764e30b7b2b413.output
+call_d668a3161ad944aa83d73752.output,AI/ML,1.00,N/A,0.063,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_d668a3161ad944aa83d73752.output
+call_5093e2588a124bac8b296695.output,Web Development,0.00,N/A,0.093,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_5093e2588a124bac8b296695.output
+call_fa8a2c427ac04766ae843b17.output,Automation Scripts,1.00,N/A,0.034,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_fa8a2c427ac04766ae843b17.output
+call_9484f2174d554b44a715788f.output,Automation Scripts,0.00,N/A,0.094,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_9484f2174d554b44a715788f.output
+call_52171d48ca2141eea09fe675.output,General,0.00,N/A,1.534,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_52171d48ca2141eea09fe675.output
+call_eef930536f1f4c0eafe2611b.output,General,0.00,N/A,0.161,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_eef930536f1f4c0eafe2611b.output
+call_7c28105fa3cd4fb08430bf02.output,AI/ML,1.00,N/A,0.191,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_7c28105fa3cd4fb08430bf02.output
+call_c6a520709f504be9a95d6b33.output,AI/ML,1.00,N/A,0.032,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_c6a520709f504be9a95d6b33.output
+call_74cdc9ba4b5c4d82b86aef52.output,Automation Scripts,0.00,N/A,0.113,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_74cdc9ba4b5c4d82b86aef52.output
+call_39daa4d2e5e34a1b81dfe6e1.output,AI/ML,1.00,N/A,0.058,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_39daa4d2e5e34a1b81dfe6e1.output
+call_5987be5bb3d74181be3a48d6.output,Data Analysis,1.00,N/A,0.094,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_5987be5bb3d74181be3a48d6.output
+call_5a0ee022407147f09dff35d1.output,AI/ML,1.00,N/A,0.026,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_5a0ee022407147f09dff35d1.output
+call_74ea9032fcaa413fa65fb19a.output,AI/ML,1.00,N/A,0.053,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_74ea9032fcaa413fa65fb19a.output
+call_0f4b92630eda43aa84943ffb.output,General,0.00,N/A,0.056,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_0f4b92630eda43aa84943ffb.output
+call_6b9bed7aeb5a4d2e9a876220.output,Data Analysis,1.00,N/A,0.035,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_6b9bed7aeb5a4d2e9a876220.output
+call_aa34f948b61b4645841894c7.output,Web Development,0.00,N/A,0.095,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_aa34f948b61b4645841894c7.output
+call_09e3d29ea50f4b8b98415ebf.output,AI/ML,1.00,N/A,0.543,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_09e3d29ea50f4b8b98415ebf.output
+call_94445161741146a8a123eedb.output,Data Analysis,1.00,N/A,0.024,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_94445161741146a8a123eedb.output
+call_970e6f5c129c430d92dcb6c2.output,General,0.00,N/A,7.563,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_970e6f5c129c430d92dcb6c2.output
+call_8b3ebb91036643c5bea546f1.output,Automation Scripts,0.00,N/A,0.052,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_8b3ebb91036643c5bea546f1.output
+call_355c8f3ea4514158b16580fe.output,General,0.00,N/A,0.063,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_355c8f3ea4514158b16580fe.output
+call_066e708313bf4362aa3b52cb.output,AI/ML,1.00,N/A,0.124,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_066e708313bf4362aa3b52cb.output
+call_14c71bd8b9964f3c9c1d93e3.output,Automation Scripts,0.00,N/A,0.049,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_14c71bd8b9964f3c9c1d93e3.output
+call_b7cd615aa9a3412d9ee79a31.output,Web Development,0.00,N/A,0.03,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_b7cd615aa9a3412d9ee79a31.output
+call_58516df4517543948fd0eec4.output,Web Development,0.00,N/A,0.114,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_58516df4517543948fd0eec4.output
+call_4bb2052b55244c0ebda38453.output,AI/ML,1.00,N/A,0.031,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_4bb2052b55244c0ebda38453.output
+call_871074b1c7ae4985a2234543.output,Automation Scripts,0.00,N/A,0.037,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_871074b1c7ae4985a2234543.output
+call_c3383964c69e4f1ca7faf17c.output,Web Development,0.00,N/A,0.052,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_c3383964c69e4f1ca7faf17c.output
+call_6d929719656c4cff8cf04a07.output,AI/ML,1.00,N/A,0.031,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_6d929719656c4cff8cf04a07.output
+call_8973ce837227428d97c326d9.output,General,0.00,N/A,3.449,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_8973ce837227428d97c326d9.output
+call_a409762c19994a94a310e52c.output,General,0.00,N/A,1.596,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_a409762c19994a94a310e52c.output
+call_b48f85a1db0943bd8c0a28df.output,AI/ML,1.00,N/A,0.137,/Users/steven/.qwen/tmp/84a2a6cae9fce89dd173a4e3d25e7a960e9ffcee3772d3c4f015c7d009872d3d/call_b48f85a1db0943bd8c0a28df.output
+logs.json,Data Analysis,0.00,N/A,0.007,/Users/steven/.qwen/tmp/c69d53ccc4291817f31b259ebd6c23287732fe080c817d3872670a1e76294920/logs.json
+run_shell_command_d0e13bb95e05.output,Data Analysis,1.00,N/A,0.107,/Users/steven/.qwen/tmp/c69d53ccc4291817f31b259ebd6c23287732fe080c817d3872670a1e76294920/run_shell_command_d0e13bb95e05.output
+run_shell_command_53b32c298019.output,Automation Scripts,0.00,N/A,0.044,/Users/steven/.qwen/tmp/c69d53ccc4291817f31b259ebd6c23287732fe080c817d3872670a1e76294920/run_shell_command_53b32c298019.output
+run_shell_command_5ab2d047aa1b.output,General,0.00,N/A,0.276,/Users/steven/.qwen/tmp/1402c0eeeca50736346491a3c18fe1487e999750490efa17bd0d28b17de96197/run_shell_command_5ab2d047aa1b.output
+logs.json,General,0.00,N/A,0.008,/Users/steven/.qwen/tmp/1402c0eeeca50736346491a3c18fe1487e999750490efa17bd0d28b17de96197/logs.json
+run_shell_command_029048698784.output,General,0.00,N/A,0.725,/Users/steven/.qwen/tmp/1402c0eeeca50736346491a3c18fe1487e999750490efa17bd0d28b17de96197/run_shell_command_029048698784.output
+run_shell_command_eef64334eca2.output,General,0.00,N/A,0.029,/Users/steven/.qwen/tmp/1402c0eeeca50736346491a3c18fe1487e999750490efa17bd0d28b17de96197/run_shell_command_eef64334eca2.output
+call_76f82d0921674ce2b9a0f5c8.output,General,0.00,N/A,52.5,/Users/steven/.qwen/tmp/65d38ca681b4143f8859f099a60d99b17a6043b80775735275ff57b36366aa3b/call_76f82d0921674ce2b9a0f5c8.output
+logs.json,AI/ML,2.00,N/A,0.082,/Users/steven/.qwen/tmp/65d38ca681b4143f8859f099a60d99b17a6043b80775735275ff57b36366aa3b/logs.json
+call_f3ed3139da1a4504b9b1adf1.output,AI/ML,1.00,N/A,0.702,/Users/steven/.qwen/tmp/65d38ca681b4143f8859f099a60d99b17a6043b80775735275ff57b36366aa3b/call_f3ed3139da1a4504b9b1adf1.output
+logs.json,General,0.00,N/A,0.002,/Users/steven/.qwen/tmp/53e295794ce9b3042393b78f05564df43e5b2003747e66e9b383fb9b6feb66fe/logs.json
+run_shell_command_3ae1c82e4604.output,Web Development,1.00,N/A,0.22,/Users/steven/.qwen/tmp/15ab5ccfd91f1ad6fae6c9828c3bcca488d340186a57add71c9eb66c47a53846/run_shell_command_3ae1c82e4604.output
+run_shell_command_88a2359dd750.output,AI/ML,1.00,N/A,0.292,/Users/steven/.qwen/tmp/15ab5ccfd91f1ad6fae6c9828c3bcca488d340186a57add71c9eb66c47a53846/run_shell_command_88a2359dd750.output
+logs.json,AI/ML,1.00,N/A,0.05,/Users/steven/.qwen/tmp/15ab5ccfd91f1ad6fae6c9828c3bcca488d340186a57add71c9eb66c47a53846/logs.json
+run_shell_command_3a530853b763.output,AI/ML,1.00,N/A,0.177,/Users/steven/.qwen/tmp/15ab5ccfd91f1ad6fae6c9828c3bcca488d340186a57add71c9eb66c47a53846/run_shell_command_3a530853b763.output
+logs.json,AI/ML,1.00,N/A,0.265,/Users/steven/.qwen/tmp/81a74aaed65dca57645ef735dd3ae33017583f33880b850f3e94b52c4e5533a6/logs.json
+logs.json,Web Development,0.00,N/A,0.015,/Users/steven/.qwen/tmp/02a4a80d8e7598d7d4e683a724f1ff901ccc607994a70b8533eb0b0e8e132d49/logs.json
+call_6842de482b594009999afea6.output,Web Development,0.00,N/A,0.116,/Users/steven/.qwen/tmp/02a4a80d8e7598d7d4e683a724f1ff901ccc607994a70b8533eb0b0e8e132d49/call_6842de482b594009999afea6.output
+call_9f66138845ea4dd68d773490.output,General,0.00,N/A,0.12,/Users/steven/.qwen/tmp/02a4a80d8e7598d7d4e683a724f1ff901ccc607994a70b8533eb0b0e8e132d49/call_9f66138845ea4dd68d773490.output
+call_135614aec6e9412eaff4ff19.output,Data Analysis,0.00,N/A,0.045,/Users/steven/.qwen/tmp/02a4a80d8e7598d7d4e683a724f1ff901ccc607994a70b8533eb0b0e8e132d49/call_135614aec6e9412eaff4ff19.output
+logs.json,AI/ML,0.00,N/A,0.076,/Users/steven/.qwen/tmp/f277e0f44bd149fe342945129ce6723ebfc87126d63b8497dbaaa0ee988ef821/logs.json
+call_d28d5a11882a40f68bda258d.output,AI/ML,1.00,N/A,0.104,/Users/steven/.qwen/tmp/f277e0f44bd149fe342945129ce6723ebfc87126d63b8497dbaaa0ee988ef821/call_d28d5a11882a40f68bda258d.output
+call_95b22f03c8454d91b506ea07.output,General,0.00,N/A,2.668,/Users/steven/.qwen/tmp/f277e0f44bd149fe342945129ce6723ebfc87126d63b8497dbaaa0ee988ef821/call_95b22f03c8454d91b506ea07.output
+call_726409f13fef49e181b1613f.output,General,0.00,N/A,1.421,/Users/steven/.qwen/tmp/f277e0f44bd149fe342945129ce6723ebfc87126d63b8497dbaaa0ee988ef821/call_726409f13fef49e181b1613f.output
+call_14a81ab458cb45d9a3308a0b.output,AI/ML,0.00,N/A,0.043,/Users/steven/.qwen/tmp/f277e0f44bd149fe342945129ce6723ebfc87126d63b8497dbaaa0ee988ef821/call_14a81ab458cb45d9a3308a0b.output
+logs.json,AI/ML,1.00,N/A,0.126,/Users/steven/.qwen/tmp/22e39816392ba2b585eeea19b0718f9dc334178c6daaef0c0af802cd81310a45/logs.json
+logs.json,General,0.00,N/A,0.089,/Users/steven/.qwen/tmp/d095dd5f03dd1eef4662133a37be4f93588a60f00ce14ee2d81711a4a8ca0a93/logs.json
+logs.json,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/tmp/5155996b8b239e5206e90c8e85d8f2149e06d2caef7e08d501ea7758f6b66048/logs.json
+logs.json,Web Development,0.00,N/A,0.002,/Users/steven/.qwen/tmp/78ae220003f9e6f79db44260e2851361731a60324784b4e13f7315efac7cae4f/logs.json
+call_bba825749bb548aa9ff3ca04.output,General,0.00,N/A,7.973,/Users/steven/.qwen/tmp/78ae220003f9e6f79db44260e2851361731a60324784b4e13f7315efac7cae4f/call_bba825749bb548aa9ff3ca04.output
+call_d32df1f736104784a835fb4b.output,Web Development,0.00,N/A,0.059,/Users/steven/.qwen/tmp/78ae220003f9e6f79db44260e2851361731a60324784b4e13f7315efac7cae4f/call_d32df1f736104784a835fb4b.output
+call_0b0759d181f14439af25027e.output,AI/ML,1.00,N/A,0.03,/Users/steven/.qwen/tmp/ed520d135b8d3de5fdee7062511154bd5cd7028d516a164c9dc0f5f3bef8f6e1/call_0b0759d181f14439af25027e.output
+call_cc4aaad160dd4170934e6d57.output,General,0.00,N/A,0.219,/Users/steven/.qwen/tmp/ed520d135b8d3de5fdee7062511154bd5cd7028d516a164c9dc0f5f3bef8f6e1/call_cc4aaad160dd4170934e6d57.output
+logs.json,General,0.00,N/A,0.014,/Users/steven/.qwen/tmp/ed520d135b8d3de5fdee7062511154bd5cd7028d516a164c9dc0f5f3bef8f6e1/logs.json
+call_c2f323d616d84e2382221316.output,General,0.00,N/A,12.13,/Users/steven/.qwen/tmp/ed520d135b8d3de5fdee7062511154bd5cd7028d516a164c9dc0f5f3bef8f6e1/call_c2f323d616d84e2382221316.output
+call_c49b414e26af4bf78e38fc12.output,AI/ML,0.00,N/A,0.1,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_c49b414e26af4bf78e38fc12.output
+call_1ce12cdc47934316a30df085.output,Web Development,2.00,N/A,0.13,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_1ce12cdc47934316a30df085.output
+call_276658cd4af747099556a201.output,AI/ML,1.00,N/A,0.037,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_276658cd4af747099556a201.output
+call_098b6e37f8ed40138dfa2807.output,Automation Scripts,1.00,N/A,0.032,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_098b6e37f8ed40138dfa2807.output
+call_81d2bb7005ba4c0ba4361e3e.output,Automation Scripts,2.00,N/A,0.162,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_81d2bb7005ba4c0ba4361e3e.output
+call_60ea547616f54926a8710387.output,General,0.00,N/A,1.026,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_60ea547616f54926a8710387.output
+call_9d3e54ce25f64b7c82f77d0c.output,AI/ML,1.00,N/A,0.186,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_9d3e54ce25f64b7c82f77d0c.output
+call_65538335e9af47a1aa50a639.output,AI/ML,1.00,N/A,0.254,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_65538335e9af47a1aa50a639.output
+call_268b26277a834d8796e0b8ce.output,AI/ML,1.00,N/A,0.029,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_268b26277a834d8796e0b8ce.output
+call_cc919232fa76470a93303bbc.output,General,0.00,N/A,67.131,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_cc919232fa76470a93303bbc.output
+call_c9fbab6ab4144d1bac290486.output,Data Analysis,0.00,N/A,0.332,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_c9fbab6ab4144d1bac290486.output
+call_1e4d9627053c46aeab65522b.output,Web Development,0.00,N/A,0.247,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_1e4d9627053c46aeab65522b.output
+call_c6c2d662249441c8b8aa6844.output,Automation Scripts,2.00,N/A,0.251,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_c6c2d662249441c8b8aa6844.output
+call_7032b2a271184ddcb000240b.output,General,0.00,N/A,0.214,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_7032b2a271184ddcb000240b.output
+logs.json,General,0.00,N/A,0.076,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/logs.json
+call_d6cd1d899d7c4d8799aeb7cd.output,General,0.00,N/A,0.034,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_d6cd1d899d7c4d8799aeb7cd.output
+call_6d9b5647dbd34c3ebfc6b598.output,General,0.00,N/A,0.079,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_6d9b5647dbd34c3ebfc6b598.output
+call_23106d77589e400a844799ba.output,AI/ML,1.00,N/A,0.047,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_23106d77589e400a844799ba.output
+call_23595f243bd246a482cba5f0.output,Automation Scripts,2.00,N/A,0.362,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_23595f243bd246a482cba5f0.output
+call_21fe8e35231f417a9d67d046.output,AI/ML,1.00,N/A,0.033,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_21fe8e35231f417a9d67d046.output
+call_b5e4948bea7b42b896624e2f.output,AI/ML,1.00,N/A,0.038,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_b5e4948bea7b42b896624e2f.output
+call_ba280c68b2d34f5798f618c2.output,Web Development,0.00,N/A,0.08,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_ba280c68b2d34f5798f618c2.output
+call_3d4a52c022da4743990fac7d.output,Web Development,0.00,N/A,0.33,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_3d4a52c022da4743990fac7d.output
+call_101af7e0cf554fafa9891166.output,General,0.00,N/A,1.748,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_101af7e0cf554fafa9891166.output
+call_0d73596b395649c18333cc15.output,General,0.00,N/A,0.267,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_0d73596b395649c18333cc15.output
+call_e22d8d1f118e4fc5a33ea0a4.output,General,0.00,N/A,5.679,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_e22d8d1f118e4fc5a33ea0a4.output
+call_0660a6133f1943debbd28b45.output,AI/ML,1.00,N/A,0.038,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_0660a6133f1943debbd28b45.output
+call_43596fe67fcf449ab416052b.output,General,0.00,N/A,0.038,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_43596fe67fcf449ab416052b.output
+call_3a75262644b94b32b6c0af46.output,AI/ML,1.00,N/A,0.529,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_3a75262644b94b32b6c0af46.output
+call_4411cf95b90d4bff815e62ae.output,Data Analysis,1.00,N/A,0.697,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_4411cf95b90d4bff815e62ae.output
+call_88c1554b09124fef8f804ed7.output,General,0.00,N/A,5.679,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_88c1554b09124fef8f804ed7.output
+call_b5f7d67a49b44b139b745726.output,AI/ML,1.00,N/A,0.087,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_b5f7d67a49b44b139b745726.output
+call_72c662e7e8054faeac4d4c0a.output,AI/ML,3.00,N/A,0.241,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_72c662e7e8054faeac4d4c0a.output
+call_ae54a72cea9d41c8a7dd9d78.output,Web Development,0.00,N/A,0.302,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_ae54a72cea9d41c8a7dd9d78.output
+call_69a235b6d93843f887d45d6b.output,Data Analysis,0.00,N/A,0.04,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_69a235b6d93843f887d45d6b.output
+call_690b35c01b134c0e89ba7489.output,AI/ML,2.00,N/A,0.057,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_690b35c01b134c0e89ba7489.output
+call_94482064c5814b02bc786c46.output,AI/ML,1.00,N/A,0.029,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_94482064c5814b02bc786c46.output
+call_61c1b91f306e44f6a881327c.output,AI/ML,2.00,N/A,0.07,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_61c1b91f306e44f6a881327c.output
+call_393c14c1bf2c4260ba7bf95c.output,AI/ML,1.00,N/A,0.218,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_393c14c1bf2c4260ba7bf95c.output
+call_f9d8091c871f42de8e1d68db.output,General,0.00,N/A,0.029,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_f9d8091c871f42de8e1d68db.output
+call_6f62111b49a141e4bd858506.output,AI/ML,1.00,N/A,0.067,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_6f62111b49a141e4bd858506.output
+run_shell_command_3642a605f705.output,AI/ML,0.00,N/A,0.038,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/run_shell_command_3642a605f705.output
+call_b8f30c72de144866b0388378.output,AI/ML,2.00,N/A,0.122,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_b8f30c72de144866b0388378.output
+call_73cb183d278b4109842e6d70.output,General,0.00,N/A,23.885,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_73cb183d278b4109842e6d70.output
+call_a9618a0598c743c2a390a492.output,AI/ML,1.00,N/A,0.053,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_a9618a0598c743c2a390a492.output
+call_1882254c4f6b47b4844ac20f.output,Automation Scripts,2.00,N/A,0.536,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_1882254c4f6b47b4844ac20f.output
+shell_history,Automation Scripts,2.00,N/A,0.027,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/shell_history
+call_5f521ee248804af8b2d92863.output,Automation Scripts,1.00,N/A,0.044,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_5f521ee248804af8b2d92863.output
+call_f522fb682c2f40b9afc03a6c.output,Web Development,0.00,N/A,0.068,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_f522fb682c2f40b9afc03a6c.output
+call_320de1f4db834201a9dcf3d5.output,AI/ML,1.00,N/A,0.161,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_320de1f4db834201a9dcf3d5.output
+call_b950f42fc55248ec80591fc0.output,AI/ML,1.00,N/A,0.03,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_b950f42fc55248ec80591fc0.output
+call_511a252b56dc4d739fae34b5.output,AI/ML,1.00,N/A,0.045,/Users/steven/.qwen/tmp/8bc017a2c89dd5c5f8fccbaed02e819c0d145d699855d4ee7b8246ff567c04ce/call_511a252b56dc4d739fae34b5.output
+README.md,AI/ML,0.00,N/A,0.007,/Users/steven/.qwen/hookify/2cd88e7947b7/README.md
+config_loader.py,AI/ML,1.00,low,0.009,/Users/steven/.qwen/hookify/2cd88e7947b7/core/config_loader.py
+__init__.py,General,0.00,low,0.0,/Users/steven/.qwen/hookify/2cd88e7947b7/core/__init__.py
+rule_engine.py,AI/ML,1.00,low,0.01,/Users/steven/.qwen/hookify/2cd88e7947b7/core/rule_engine.py
+conversation-analyzer.md,Automation Scripts,0.00,N/A,0.005,/Users/steven/.qwen/hookify/2cd88e7947b7/agents/conversation-analyzer.md
+__init__.py,General,0.00,low,0.0,/Users/steven/.qwen/hookify/2cd88e7947b7/utils/__init__.py
+userpromptsubmit.py,AI/ML,1.00,low,0.001,/Users/steven/.qwen/hookify/2cd88e7947b7/hooks/userpromptsubmit.py
+stop.py,AI/ML,1.00,low,0.001,/Users/steven/.qwen/hookify/2cd88e7947b7/hooks/stop.py
+__init__.py,General,0.00,low,0.0,/Users/steven/.qwen/hookify/2cd88e7947b7/hooks/__init__.py
+pretooluse.py,AI/ML,1.00,low,0.002,/Users/steven/.qwen/hookify/2cd88e7947b7/hooks/pretooluse.py
+hooks.json,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/hookify/2cd88e7947b7/hooks/hooks.json
+posttooluse.py,AI/ML,1.00,low,0.002,/Users/steven/.qwen/hookify/2cd88e7947b7/hooks/posttooluse.py
+dangerous-rm.local.md,General,0.00,N/A,0.0,/Users/steven/.qwen/hookify/2cd88e7947b7/examples/dangerous-rm.local.md
+sensitive-files-warning.local.md,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/hookify/2cd88e7947b7/examples/sensitive-files-warning.local.md
+require-tests-stop.local.md,Automation Scripts,1.00,N/A,0.0,/Users/steven/.qwen/hookify/2cd88e7947b7/examples/require-tests-stop.local.md
+console-log-warning.local.md,General,0.00,N/A,0.0,/Users/steven/.qwen/hookify/2cd88e7947b7/examples/console-log-warning.local.md
+help.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/hookify/2cd88e7947b7/commands/help.md
+list.md,AI/ML,0.00,N/A,0.002,/Users/steven/.qwen/hookify/2cd88e7947b7/commands/list.md
+configure.md,AI/ML,0.00,N/A,0.003,/Users/steven/.qwen/hookify/2cd88e7947b7/commands/configure.md
+hookify.md,Automation Scripts,0.00,N/A,0.007,/Users/steven/.qwen/hookify/2cd88e7947b7/commands/hookify.md
+SKILL.md,AI/ML,0.00,N/A,0.008,/Users/steven/.qwen/hookify/2cd88e7947b7/skills/writing-rules/SKILL.md
+__init__.py,General,0.00,low,0.0,/Users/steven/.qwen/hookify/2cd88e7947b7/matchers/__init__.py
+README.md,AI/ML,0.00,N/A,0.007,/Users/steven/.qwen/hookify/27d2b86d72da/README.md
+conversation-analyzer.md,Automation Scripts,0.00,N/A,0.005,/Users/steven/.qwen/hookify/27d2b86d72da/agents/conversation-analyzer.md
+hooks.json,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/hookify/27d2b86d72da/hooks/hooks.json
+dangerous-rm.local.md,General,0.00,N/A,0.0,/Users/steven/.qwen/hookify/27d2b86d72da/examples/dangerous-rm.local.md
+sensitive-files-warning.local.md,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/hookify/27d2b86d72da/examples/sensitive-files-warning.local.md
+require-tests-stop.local.md,Automation Scripts,1.00,N/A,0.0,/Users/steven/.qwen/hookify/27d2b86d72da/examples/require-tests-stop.local.md
+console-log-warning.local.md,General,0.00,N/A,0.0,/Users/steven/.qwen/hookify/27d2b86d72da/examples/console-log-warning.local.md
+help.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/hookify/27d2b86d72da/commands/help.md
+list.md,AI/ML,0.00,N/A,0.002,/Users/steven/.qwen/hookify/27d2b86d72da/commands/list.md
+configure.md,AI/ML,0.00,N/A,0.003,/Users/steven/.qwen/hookify/27d2b86d72da/commands/configure.md
+hookify.md,Automation Scripts,0.00,N/A,0.007,/Users/steven/.qwen/hookify/27d2b86d72da/commands/hookify.md
+SKILL.md,AI/ML,0.00,N/A,0.008,/Users/steven/.qwen/hookify/27d2b86d72da/skills/writing-rules/SKILL.md
+README.md,AI/ML,0.00,N/A,0.007,/Users/steven/.qwen/hookify/236752ad9ab3/README.md
+config_loader.py,AI/ML,1.00,low,0.009,/Users/steven/.qwen/hookify/236752ad9ab3/core/config_loader.py
+__init__.py,General,0.00,low,0.0,/Users/steven/.qwen/hookify/236752ad9ab3/core/__init__.py
+rule_engine.py,AI/ML,1.00,low,0.01,/Users/steven/.qwen/hookify/236752ad9ab3/core/rule_engine.py
+conversation-analyzer.md,Automation Scripts,0.00,N/A,0.005,/Users/steven/.qwen/hookify/236752ad9ab3/agents/conversation-analyzer.md
+__init__.py,General,0.00,low,0.0,/Users/steven/.qwen/hookify/236752ad9ab3/utils/__init__.py
+userpromptsubmit.py,AI/ML,1.00,low,0.001,/Users/steven/.qwen/hookify/236752ad9ab3/hooks/userpromptsubmit.py
+stop.py,AI/ML,1.00,low,0.001,/Users/steven/.qwen/hookify/236752ad9ab3/hooks/stop.py
+__init__.py,General,0.00,low,0.0,/Users/steven/.qwen/hookify/236752ad9ab3/hooks/__init__.py
+pretooluse.py,AI/ML,1.00,low,0.002,/Users/steven/.qwen/hookify/236752ad9ab3/hooks/pretooluse.py
+hooks.json,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/hookify/236752ad9ab3/hooks/hooks.json
+posttooluse.py,AI/ML,1.00,low,0.002,/Users/steven/.qwen/hookify/236752ad9ab3/hooks/posttooluse.py
+dangerous-rm.local.md,General,0.00,N/A,0.0,/Users/steven/.qwen/hookify/236752ad9ab3/examples/dangerous-rm.local.md
+sensitive-files-warning.local.md,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/hookify/236752ad9ab3/examples/sensitive-files-warning.local.md
+require-tests-stop.local.md,Automation Scripts,1.00,N/A,0.0,/Users/steven/.qwen/hookify/236752ad9ab3/examples/require-tests-stop.local.md
+console-log-warning.local.md,General,0.00,N/A,0.0,/Users/steven/.qwen/hookify/236752ad9ab3/examples/console-log-warning.local.md
+help.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/hookify/236752ad9ab3/commands/help.md
+list.md,AI/ML,0.00,N/A,0.002,/Users/steven/.qwen/hookify/236752ad9ab3/commands/list.md
+configure.md,AI/ML,0.00,N/A,0.003,/Users/steven/.qwen/hookify/236752ad9ab3/commands/configure.md
+hookify.md,Automation Scripts,0.00,N/A,0.007,/Users/steven/.qwen/hookify/236752ad9ab3/commands/hookify.md
+SKILL.md,AI/ML,0.00,N/A,0.008,/Users/steven/.qwen/hookify/236752ad9ab3/skills/writing-rules/SKILL.md
+__init__.py,General,0.00,low,0.0,/Users/steven/.qwen/hookify/236752ad9ab3/matchers/__init__.py
+superpowers-bootstrap.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/superpowers-bootstrap.md
+RELEASE-NOTES.md,Automation Scripts,0.00,N/A,0.03,/Users/steven/.qwen/superpowers/RELEASE-NOTES.md
+LICENSE,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/LICENSE
+INSTALL copy.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/INSTALL copy.md
+INSTALL.md,General,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/INSTALL.md
+README.md,General,0.00,N/A,0.006,/Users/steven/.qwen/superpowers/README.md
+superpowers-codex,General,0.00,N/A,0.009,/Users/steven/.qwen/superpowers/superpowers-codex
+superpowers.js,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/plugins/superpowers.js
+test-subagent-driven-development.sh,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/tests/claude-code/test-subagent-driven-development.sh
+analyze-token-usage.py,AI/ML,1.00,low,0.006,/Users/steven/.qwen/superpowers/tests/claude-code/analyze-token-usage.py
+test-helpers.sh,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/tests/claude-code/test-helpers.sh
+README.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/tests/claude-code/README.md
+run-skill-tests.sh,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/tests/claude-code/run-skill-tests.sh
+test-subagent-driven-development-integration.sh,Automation Scripts,1.00,N/A,0.009,/Users/steven/.qwen/superpowers/tests/claude-code/test-subagent-driven-development-integration.sh
+run-test.sh,Automation Scripts,0.00,N/A,0.004,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/run-test.sh
+run-haiku-test.sh,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/run-haiku-test.sh
+run-multiturn-test.sh,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/run-multiturn-test.sh
+run-claude-describes-sdd.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/run-claude-describes-sdd.sh
+run-extended-multiturn-test.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/run-extended-multiturn-test.sh
+run-all.sh,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/run-all.sh
+i-know-what-sdd-means.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/prompts/i-know-what-sdd-means.txt
+skip-formalities.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/prompts/skip-formalities.txt
+use-systematic-debugging.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/prompts/use-systematic-debugging.txt
+mid-conversation-execute-plan.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/prompts/mid-conversation-execute-plan.txt
+subagent-driven-development-please.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/prompts/subagent-driven-development-please.txt
+please-use-brainstorming.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/prompts/please-use-brainstorming.txt
+claude-suggested-it.txt,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/prompts/claude-suggested-it.txt
+after-planning-flow.txt,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/prompts/after-planning-flow.txt
+action-oriented.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/tests/explicit-skill-requests/prompts/action-oriented.txt
+run-test.sh,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/tests/subagent-driven-dev/run-test.sh
+scaffold.sh,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/tests/subagent-driven-dev/go-fractals/scaffold.sh
+plan.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/tests/subagent-driven-dev/go-fractals/plan.md
+design.md,General,0.00,N/A,0.002,/Users/steven/.qwen/superpowers/tests/subagent-driven-dev/go-fractals/design.md
+scaffold.sh,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/tests/subagent-driven-dev/svelte-todo/scaffold.sh
+plan.md,General,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/tests/subagent-driven-dev/svelte-todo/plan.md
+design.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/tests/subagent-driven-dev/svelte-todo/design.md
+setup.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/tests/opencode/setup.sh
+run-tests.sh,Automation Scripts,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/tests/opencode/run-tests.sh
+test-skills-core.sh,Automation Scripts,1.00,N/A,0.012,/Users/steven/.qwen/superpowers/tests/opencode/test-skills-core.sh
+test-priority.sh,Automation Scripts,1.00,N/A,0.007,/Users/steven/.qwen/superpowers/tests/opencode/test-priority.sh
+test-plugin-loading.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/tests/opencode/test-plugin-loading.sh
+test-tools.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/tests/opencode/test-tools.sh
+code-reviewer.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/agents/code-reviewer.md
+RELEASE-NOTES.md,AI/ML,0.00,N/A,0.033,/Users/steven/.qwen/superpowers/a98c5dfc9de0/RELEASE-NOTES.md
+LICENSE,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/a98c5dfc9de0/LICENSE
+README.md,General,0.00,N/A,0.006,/Users/steven/.qwen/superpowers/a98c5dfc9de0/README.md
+test-subagent-driven-development.sh,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/claude-code/test-subagent-driven-development.sh
+analyze-token-usage.py,AI/ML,1.00,low,0.006,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/claude-code/analyze-token-usage.py
+test-helpers.sh,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/claude-code/test-helpers.sh
+README.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/claude-code/README.md
+run-skill-tests.sh,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/claude-code/run-skill-tests.sh
+test-subagent-driven-development-integration.sh,Automation Scripts,1.00,N/A,0.009,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/claude-code/test-subagent-driven-development-integration.sh
+run-test.sh,Automation Scripts,0.00,N/A,0.004,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/run-test.sh
+run-haiku-test.sh,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/run-haiku-test.sh
+run-multiturn-test.sh,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/run-multiturn-test.sh
+run-claude-describes-sdd.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/run-claude-describes-sdd.sh
+run-extended-multiturn-test.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/run-extended-multiturn-test.sh
+run-all.sh,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/run-all.sh
+i-know-what-sdd-means.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/prompts/i-know-what-sdd-means.txt
+skip-formalities.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/prompts/skip-formalities.txt
+use-systematic-debugging.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/prompts/use-systematic-debugging.txt
+mid-conversation-execute-plan.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/prompts/mid-conversation-execute-plan.txt
+subagent-driven-development-please.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/prompts/subagent-driven-development-please.txt
+please-use-brainstorming.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/prompts/please-use-brainstorming.txt
+claude-suggested-it.txt,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/prompts/claude-suggested-it.txt
+after-planning-flow.txt,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/prompts/after-planning-flow.txt
+action-oriented.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/explicit-skill-requests/prompts/action-oriented.txt
+run-test.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/skill-triggering/run-test.sh
+run-all.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/skill-triggering/run-all.sh
+test-driven-development.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/skill-triggering/prompts/test-driven-development.txt
+dispatching-parallel-agents.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/skill-triggering/prompts/dispatching-parallel-agents.txt
+requesting-code-review.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/skill-triggering/prompts/requesting-code-review.txt
+systematic-debugging.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/skill-triggering/prompts/systematic-debugging.txt
+writing-plans.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/skill-triggering/prompts/writing-plans.txt
+executing-plans.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/skill-triggering/prompts/executing-plans.txt
+run-test.sh,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/subagent-driven-dev/run-test.sh
+scaffold.sh,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/subagent-driven-dev/go-fractals/scaffold.sh
+plan.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/subagent-driven-dev/go-fractals/plan.md
+design.md,General,0.00,N/A,0.002,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/subagent-driven-dev/go-fractals/design.md
+scaffold.sh,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/subagent-driven-dev/svelte-todo/scaffold.sh
+plan.md,General,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/subagent-driven-dev/svelte-todo/plan.md
+design.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/subagent-driven-dev/svelte-todo/design.md
+setup.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/opencode/setup.sh
+run-tests.sh,Automation Scripts,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/opencode/run-tests.sh
+test-skills-core.sh,Automation Scripts,1.00,N/A,0.012,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/opencode/test-skills-core.sh
+test-priority.sh,Automation Scripts,1.00,N/A,0.007,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/opencode/test-priority.sh
+test-plugin-loading.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/opencode/test-plugin-loading.sh
+test-tools.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/a98c5dfc9de0/tests/opencode/test-tools.sh
+README.codex.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/a98c5dfc9de0/docs/README.codex.md
+testing.md,AI/ML,0.00,N/A,0.009,/Users/steven/.qwen/superpowers/a98c5dfc9de0/docs/testing.md
+README.opencode.md,AI/ML,1.00,N/A,0.01,/Users/steven/.qwen/superpowers/a98c5dfc9de0/docs/README.opencode.md
+2025-11-22-opencode-support-implementation.md,Web Development,1.00,N/A,0.026,/Users/steven/.qwen/superpowers/a98c5dfc9de0/docs/plans/2025-11-22-opencode-support-implementation.md
+2025-11-22-opencode-support-design.md,Automation Scripts,1.00,N/A,0.008,/Users/steven/.qwen/superpowers/a98c5dfc9de0/docs/plans/2025-11-22-opencode-support-design.md
+2025-11-28-skills-improvements-from-user-feedback.md,AI/ML,1.00,N/A,0.02,/Users/steven/.qwen/superpowers/a98c5dfc9de0/docs/plans/2025-11-28-skills-improvements-from-user-feedback.md
+polyglot-hooks.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/a98c5dfc9de0/docs/windows/polyglot-hooks.md
+SKILL.md,AI/ML,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/using-git-worktrees/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.009,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/test-driven-development/SKILL.md
+testing-anti-patterns.md,Automation Scripts,1.00,N/A,0.008,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/test-driven-development/testing-anti-patterns.md
+test-pressure-1.md,Web Development,2.00,N/A,0.002,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/systematic-debugging/test-pressure-1.md
+condition-based-waiting.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/systematic-debugging/condition-based-waiting.md
+test-pressure-2.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/systematic-debugging/test-pressure-2.md
+CREATION-LOG.md,AI/ML,0.00,N/A,0.004,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/systematic-debugging/CREATION-LOG.md
+test-academic.md,General,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/systematic-debugging/test-academic.md
+defense-in-depth.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/systematic-debugging/defense-in-depth.md
+SKILL.md,AI/ML,1.00,N/A,0.009,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/systematic-debugging/SKILL.md
+test-pressure-3.md,General,0.00,N/A,0.003,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/systematic-debugging/test-pressure-3.md
+root-cause-tracing.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/systematic-debugging/root-cause-tracing.md
+condition-based-waiting-example.ts,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/systematic-debugging/condition-based-waiting-example.ts
+find-polluter.sh,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/systematic-debugging/find-polluter.sh
+SKILL.md,AI/ML,0.00,N/A,0.004,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/using-superpowers/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/dispatching-parallel-agents/SKILL.md
+SKILL.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/executing-plans/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/finishing-a-development-branch/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/brainstorming/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/writing-plans/SKILL.md
+code-reviewer.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/requesting-code-review/code-reviewer.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/requesting-code-review/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/receiving-code-review/SKILL.md
+testing-skills-with-subagents.md,AI/ML,1.00,N/A,0.012,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/writing-skills/testing-skills-with-subagents.md
+render-graphs.js,General,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/writing-skills/render-graphs.js
+anthropic-best-practices.md,AI/ML,0.00,N/A,0.044,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/writing-skills/anthropic-best-practices.md
+persuasion-principles.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/writing-skills/persuasion-principles.md
+SKILL.md,AI/ML,1.00,N/A,0.021,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/writing-skills/SKILL.md
+graphviz-conventions.dot,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/writing-skills/graphviz-conventions.dot
+CLAUDE_MD_TESTING.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/writing-skills/examples/CLAUDE_MD_TESTING.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/verification-before-completion/SKILL.md
+spec-reviewer-prompt.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/subagent-driven-development/spec-reviewer-prompt.md
+implementer-prompt.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/subagent-driven-development/implementer-prompt.md
+SKILL.md,AI/ML,1.00,N/A,0.01,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/subagent-driven-development/SKILL.md
+code-quality-reviewer-prompt.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/a98c5dfc9de0/skills/subagent-driven-development/code-quality-reviewer-prompt.md
+README.codex.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/docs/README.codex.md
+testing.md,AI/ML,0.00,N/A,0.009,/Users/steven/.qwen/superpowers/docs/testing.md
+README.opencode.md,AI/ML,1.00,N/A,0.01,/Users/steven/.qwen/superpowers/docs/README.opencode.md
+2025-11-22-opencode-support-implementation.md,Web Development,1.00,N/A,0.026,/Users/steven/.qwen/superpowers/docs/plans/2025-11-22-opencode-support-implementation.md
+2025-11-22-opencode-support-design.md,Automation Scripts,1.00,N/A,0.008,/Users/steven/.qwen/superpowers/docs/plans/2025-11-22-opencode-support-design.md
+2025-11-28-skills-improvements-from-user-feedback.md,AI/ML,1.00,N/A,0.02,/Users/steven/.qwen/superpowers/docs/plans/2025-11-28-skills-improvements-from-user-feedback.md
+polyglot-hooks.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/docs/windows/polyglot-hooks.md
+RELEASE-NOTES.md,Automation Scripts,0.00,N/A,0.03,/Users/steven/.qwen/superpowers/4.1.1/RELEASE-NOTES.md
+LICENSE,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.1.1/LICENSE
+README.md,General,0.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.1.1/README.md
+test-subagent-driven-development.sh,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.1.1/tests/claude-code/test-subagent-driven-development.sh
+analyze-token-usage.py,AI/ML,1.00,low,0.006,/Users/steven/.qwen/superpowers/4.1.1/tests/claude-code/analyze-token-usage.py
+test-helpers.sh,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.1.1/tests/claude-code/test-helpers.sh
+README.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.1.1/tests/claude-code/README.md
+run-skill-tests.sh,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.1.1/tests/claude-code/run-skill-tests.sh
+test-subagent-driven-development-integration.sh,Automation Scripts,1.00,N/A,0.009,/Users/steven/.qwen/superpowers/4.1.1/tests/claude-code/test-subagent-driven-development-integration.sh
+run-test.sh,Automation Scripts,0.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/run-test.sh
+run-haiku-test.sh,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/run-haiku-test.sh
+run-multiturn-test.sh,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/run-multiturn-test.sh
+run-claude-describes-sdd.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/run-claude-describes-sdd.sh
+run-extended-multiturn-test.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/run-extended-multiturn-test.sh
+run-all.sh,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/run-all.sh
+i-know-what-sdd-means.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/prompts/i-know-what-sdd-means.txt
+skip-formalities.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/prompts/skip-formalities.txt
+use-systematic-debugging.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/prompts/use-systematic-debugging.txt
+mid-conversation-execute-plan.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/prompts/mid-conversation-execute-plan.txt
+subagent-driven-development-please.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/prompts/subagent-driven-development-please.txt
+please-use-brainstorming.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/prompts/please-use-brainstorming.txt
+claude-suggested-it.txt,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/prompts/claude-suggested-it.txt
+after-planning-flow.txt,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/prompts/after-planning-flow.txt
+action-oriented.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/explicit-skill-requests/prompts/action-oriented.txt
+run-test.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/tests/skill-triggering/run-test.sh
+run-all.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.1.1/tests/skill-triggering/run-all.sh
+test-driven-development.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/skill-triggering/prompts/test-driven-development.txt
+dispatching-parallel-agents.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/skill-triggering/prompts/dispatching-parallel-agents.txt
+requesting-code-review.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/skill-triggering/prompts/requesting-code-review.txt
+systematic-debugging.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/skill-triggering/prompts/systematic-debugging.txt
+writing-plans.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/skill-triggering/prompts/writing-plans.txt
+executing-plans.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/tests/skill-triggering/prompts/executing-plans.txt
+run-test.sh,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.1.1/tests/subagent-driven-dev/run-test.sh
+scaffold.sh,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.1.1/tests/subagent-driven-dev/go-fractals/scaffold.sh
+plan.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.1.1/tests/subagent-driven-dev/go-fractals/plan.md
+design.md,General,0.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/tests/subagent-driven-dev/go-fractals/design.md
+scaffold.sh,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.1.1/tests/subagent-driven-dev/svelte-todo/scaffold.sh
+plan.md,General,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.1.1/tests/subagent-driven-dev/svelte-todo/plan.md
+design.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/tests/subagent-driven-dev/svelte-todo/design.md
+setup.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/tests/opencode/setup.sh
+run-tests.sh,Automation Scripts,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.1.1/tests/opencode/run-tests.sh
+test-skills-core.sh,Automation Scripts,1.00,N/A,0.012,/Users/steven/.qwen/superpowers/4.1.1/tests/opencode/test-skills-core.sh
+test-priority.sh,Automation Scripts,1.00,N/A,0.007,/Users/steven/.qwen/superpowers/4.1.1/tests/opencode/test-priority.sh
+test-plugin-loading.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.1.1/tests/opencode/test-plugin-loading.sh
+test-tools.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.1.1/tests/opencode/test-tools.sh
+code-reviewer.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.1.1/agents/code-reviewer.md
+README.codex.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.1.1/docs/README.codex.md
+testing.md,AI/ML,0.00,N/A,0.009,/Users/steven/.qwen/superpowers/4.1.1/docs/testing.md
+README.opencode.md,AI/ML,1.00,N/A,0.01,/Users/steven/.qwen/superpowers/4.1.1/docs/README.opencode.md
+2025-11-22-opencode-support-implementation.md,Web Development,1.00,N/A,0.026,/Users/steven/.qwen/superpowers/4.1.1/docs/plans/2025-11-22-opencode-support-implementation.md
+2025-11-22-opencode-support-design.md,Automation Scripts,1.00,N/A,0.008,/Users/steven/.qwen/superpowers/4.1.1/docs/plans/2025-11-22-opencode-support-design.md
+2025-11-28-skills-improvements-from-user-feedback.md,AI/ML,1.00,N/A,0.02,/Users/steven/.qwen/superpowers/4.1.1/docs/plans/2025-11-28-skills-improvements-from-user-feedback.md
+polyglot-hooks.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.1.1/docs/windows/polyglot-hooks.md
+run-hook.cmd,AI/ML,0.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/hooks/run-hook.cmd
+session-start.sh,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/hooks/session-start.sh
+hooks.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/hooks/hooks.json
+skills-core.js,Automation Scripts,0.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.1.1/lib/skills-core.js
+execute-plan.md,Automation Scripts,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/commands/execute-plan.md
+write-plan.md,Automation Scripts,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/commands/write-plan.md
+brainstorm.md,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.1.1/commands/brainstorm.md
+SKILL.md,AI/ML,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.1.1/skills/using-git-worktrees/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.009,/Users/steven/.qwen/superpowers/4.1.1/skills/test-driven-development/SKILL.md
+testing-anti-patterns.md,Automation Scripts,1.00,N/A,0.008,/Users/steven/.qwen/superpowers/4.1.1/skills/test-driven-development/testing-anti-patterns.md
+test-pressure-1.md,Web Development,2.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/skills/systematic-debugging/test-pressure-1.md
+condition-based-waiting.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.1.1/skills/systematic-debugging/condition-based-waiting.md
+test-pressure-2.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/skills/systematic-debugging/test-pressure-2.md
+CREATION-LOG.md,AI/ML,0.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.1.1/skills/systematic-debugging/CREATION-LOG.md
+test-academic.md,General,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.1.1/skills/systematic-debugging/test-academic.md
+defense-in-depth.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.1.1/skills/systematic-debugging/defense-in-depth.md
+SKILL.md,AI/ML,1.00,N/A,0.009,/Users/steven/.qwen/superpowers/4.1.1/skills/systematic-debugging/SKILL.md
+test-pressure-3.md,General,0.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.1.1/skills/systematic-debugging/test-pressure-3.md
+root-cause-tracing.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.1.1/skills/systematic-debugging/root-cause-tracing.md
+condition-based-waiting-example.ts,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.1.1/skills/systematic-debugging/condition-based-waiting-example.ts
+find-polluter.sh,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.1.1/skills/systematic-debugging/find-polluter.sh
+SKILL.md,AI/ML,0.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.1.1/skills/using-superpowers/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.1.1/skills/dispatching-parallel-agents/SKILL.md
+SKILL.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/skills/executing-plans/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.1.1/skills/finishing-a-development-branch/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/skills/brainstorming/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.1.1/skills/writing-plans/SKILL.md
+code-reviewer.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.1.1/skills/requesting-code-review/code-reviewer.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.1.1/skills/requesting-code-review/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.1.1/skills/receiving-code-review/SKILL.md
+testing-skills-with-subagents.md,AI/ML,1.00,N/A,0.012,/Users/steven/.qwen/superpowers/4.1.1/skills/writing-skills/testing-skills-with-subagents.md
+render-graphs.js,General,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.1.1/skills/writing-skills/render-graphs.js
+anthropic-best-practices.md,AI/ML,0.00,N/A,0.044,/Users/steven/.qwen/superpowers/4.1.1/skills/writing-skills/anthropic-best-practices.md
+persuasion-principles.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.1.1/skills/writing-skills/persuasion-principles.md
+SKILL.md,AI/ML,1.00,N/A,0.021,/Users/steven/.qwen/superpowers/4.1.1/skills/writing-skills/SKILL.md
+graphviz-conventions.dot,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.1.1/skills/writing-skills/graphviz-conventions.dot
+CLAUDE_MD_TESTING.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.1.1/skills/writing-skills/examples/CLAUDE_MD_TESTING.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.1.1/skills/verification-before-completion/SKILL.md
+spec-reviewer-prompt.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/skills/subagent-driven-development/spec-reviewer-prompt.md
+implementer-prompt.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.1.1/skills/subagent-driven-development/implementer-prompt.md
+SKILL.md,AI/ML,1.00,N/A,0.009,/Users/steven/.qwen/superpowers/4.1.1/skills/subagent-driven-development/SKILL.md
+code-quality-reviewer-prompt.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.1.1/skills/subagent-driven-development/code-quality-reviewer-prompt.md
+run-hook.cmd,AI/ML,0.00,N/A,0.002,/Users/steven/.qwen/superpowers/hooks/run-hook.cmd
+session-start.sh,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/hooks/session-start.sh
+hooks.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/hooks/hooks.json
+skills-core.js,Automation Scripts,0.00,N/A,0.006,/Users/steven/.qwen/superpowers/lib/skills-core.js
+execute-plan.md,Automation Scripts,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/commands/execute-plan.md
+write-plan.md,Automation Scripts,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/commands/write-plan.md
+brainstorm.md,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/commands/brainstorm.md
+SKILL.md,Automation Scripts,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/skills/using-git-worktrees/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.01,/Users/steven/.qwen/superpowers/skills/test-driven-development/SKILL.md
+testing-anti-patterns.md,Automation Scripts,1.00,N/A,0.008,/Users/steven/.qwen/superpowers/skills/test-driven-development/testing-anti-patterns.md
+test-pressure-1.md,Web Development,2.00,N/A,0.002,/Users/steven/.qwen/superpowers/skills/systematic-debugging/test-pressure-1.md
+condition-based-waiting.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/skills/systematic-debugging/condition-based-waiting.md
+test-pressure-2.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/skills/systematic-debugging/test-pressure-2.md
+CREATION-LOG.md,AI/ML,0.00,N/A,0.004,/Users/steven/.qwen/superpowers/skills/systematic-debugging/CREATION-LOG.md
+test-academic.md,General,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/skills/systematic-debugging/test-academic.md
+defense-in-depth.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/skills/systematic-debugging/defense-in-depth.md
+SKILL.md,AI/ML,1.00,N/A,0.01,/Users/steven/.qwen/superpowers/skills/systematic-debugging/SKILL.md
+test-pressure-3.md,General,0.00,N/A,0.003,/Users/steven/.qwen/superpowers/skills/systematic-debugging/test-pressure-3.md
+root-cause-tracing.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/skills/systematic-debugging/root-cause-tracing.md
+condition-based-waiting-example.ts,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/skills/systematic-debugging/condition-based-waiting-example.ts
+find-polluter.sh,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/skills/systematic-debugging/find-polluter.sh
+SKILL.md,AI/ML,0.00,N/A,0.003,/Users/steven/.qwen/superpowers/skills/ecosystem-clarity/SKILL.md
+SKILL.md,AI/ML,0.00,N/A,0.004,/Users/steven/.qwen/superpowers/skills/using-superpowers/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/skills/dispatching-parallel-agents/SKILL.md
+SKILL.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/skills/executing-plans/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/skills/finishing-a-development-branch/SKILL.md
+run-test.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/skills/skill-triggering/run-test.sh
+run-all.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/skills/skill-triggering/run-all.sh
+test-driven-development.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/skills/skill-triggering/prompts/test-driven-development.txt
+dispatching-parallel-agents.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/skills/skill-triggering/prompts/dispatching-parallel-agents.txt
+requesting-code-review.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/skills/skill-triggering/prompts/requesting-code-review.txt
+systematic-debugging.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/skills/skill-triggering/prompts/systematic-debugging.txt
+writing-plans.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/skills/skill-triggering/prompts/writing-plans.txt
+executing-plans.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/skills/skill-triggering/prompts/executing-plans.txt
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/skills/brainstorming/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/skills/workflow-bootstrap/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/skills/writing-plans/SKILL.md
+code-reviewer.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/skills/requesting-code-review/code-reviewer.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/skills/requesting-code-review/SKILL.md
+SKILL.md,Automation Scripts,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/skills/receiving-code-review/SKILL.md
+testing-skills-with-subagents.md,AI/ML,1.00,N/A,0.012,/Users/steven/.qwen/superpowers/skills/writing-skills/testing-skills-with-subagents.md
+render-graphs.js,General,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/skills/writing-skills/render-graphs.js
+anthropic-best-practices.md,AI/ML,0.00,N/A,0.044,/Users/steven/.qwen/superpowers/skills/writing-skills/anthropic-best-practices.md
+persuasion-principles.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/skills/writing-skills/persuasion-principles.md
+SKILL.md,AI/ML,1.00,N/A,0.022,/Users/steven/.qwen/superpowers/skills/writing-skills/SKILL.md
+graphviz-conventions.dot,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/skills/writing-skills/graphviz-conventions.dot
+CLAUDE_MD_TESTING.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/skills/writing-skills/examples/CLAUDE_MD_TESTING.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/skills/verification-before-completion/SKILL.md
+run-test.sh,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/skills/subagent-driven-development/run-test.sh
+spec-reviewer-prompt.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/skills/subagent-driven-development/spec-reviewer-prompt.md
+implementer-prompt.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/skills/subagent-driven-development/implementer-prompt.md
+SKILL.md,Automation Scripts,1.00,N/A,0.009,/Users/steven/.qwen/superpowers/skills/subagent-driven-development/SKILL.md
+code-quality-reviewer-prompt.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/skills/subagent-driven-development/code-quality-reviewer-prompt.md
+scaffold.sh,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/skills/subagent-driven-development/go-fractals/scaffold.sh
+plan.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/skills/subagent-driven-development/go-fractals/plan.md
+design.md,General,0.00,N/A,0.002,/Users/steven/.qwen/superpowers/skills/subagent-driven-development/go-fractals/design.md
+scaffold.sh,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/skills/subagent-driven-development/svelte-todo/scaffold.sh
+plan.md,General,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/skills/subagent-driven-development/svelte-todo/plan.md
+design.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/skills/subagent-driven-development/svelte-todo/design.md
+RELEASE-NOTES.md,AI/ML,0.00,N/A,0.033,/Users/steven/.qwen/superpowers/4.2.0/RELEASE-NOTES.md
+LICENSE,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.2.0/LICENSE
+README.md,General,0.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.2.0/README.md
+test-subagent-driven-development.sh,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.2.0/tests/claude-code/test-subagent-driven-development.sh
+analyze-token-usage.py,AI/ML,1.00,low,0.006,/Users/steven/.qwen/superpowers/4.2.0/tests/claude-code/analyze-token-usage.py
+test-helpers.sh,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.2.0/tests/claude-code/test-helpers.sh
+README.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.2.0/tests/claude-code/README.md
+run-skill-tests.sh,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.2.0/tests/claude-code/run-skill-tests.sh
+test-subagent-driven-development-integration.sh,Automation Scripts,1.00,N/A,0.009,/Users/steven/.qwen/superpowers/4.2.0/tests/claude-code/test-subagent-driven-development-integration.sh
+run-test.sh,Automation Scripts,0.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/run-test.sh
+run-haiku-test.sh,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/run-haiku-test.sh
+run-multiturn-test.sh,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/run-multiturn-test.sh
+run-claude-describes-sdd.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/run-claude-describes-sdd.sh
+run-extended-multiturn-test.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/run-extended-multiturn-test.sh
+run-all.sh,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/run-all.sh
+i-know-what-sdd-means.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/prompts/i-know-what-sdd-means.txt
+skip-formalities.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/prompts/skip-formalities.txt
+use-systematic-debugging.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/prompts/use-systematic-debugging.txt
+mid-conversation-execute-plan.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/prompts/mid-conversation-execute-plan.txt
+subagent-driven-development-please.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/prompts/subagent-driven-development-please.txt
+please-use-brainstorming.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/prompts/please-use-brainstorming.txt
+claude-suggested-it.txt,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/prompts/claude-suggested-it.txt
+after-planning-flow.txt,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/prompts/after-planning-flow.txt
+action-oriented.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/explicit-skill-requests/prompts/action-oriented.txt
+run-test.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/tests/skill-triggering/run-test.sh
+run-all.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.2.0/tests/skill-triggering/run-all.sh
+test-driven-development.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/skill-triggering/prompts/test-driven-development.txt
+dispatching-parallel-agents.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/skill-triggering/prompts/dispatching-parallel-agents.txt
+requesting-code-review.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/skill-triggering/prompts/requesting-code-review.txt
+systematic-debugging.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/skill-triggering/prompts/systematic-debugging.txt
+writing-plans.txt,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/skill-triggering/prompts/writing-plans.txt
+executing-plans.txt,General,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/tests/skill-triggering/prompts/executing-plans.txt
+run-test.sh,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.2.0/tests/subagent-driven-dev/run-test.sh
+scaffold.sh,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.2.0/tests/subagent-driven-dev/go-fractals/scaffold.sh
+plan.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.2.0/tests/subagent-driven-dev/go-fractals/plan.md
+design.md,General,0.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/tests/subagent-driven-dev/go-fractals/design.md
+scaffold.sh,AI/ML,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.2.0/tests/subagent-driven-dev/svelte-todo/scaffold.sh
+plan.md,General,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.2.0/tests/subagent-driven-dev/svelte-todo/plan.md
+design.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/tests/subagent-driven-dev/svelte-todo/design.md
+setup.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/tests/opencode/setup.sh
+run-tests.sh,Automation Scripts,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.2.0/tests/opencode/run-tests.sh
+test-skills-core.sh,Automation Scripts,1.00,N/A,0.012,/Users/steven/.qwen/superpowers/4.2.0/tests/opencode/test-skills-core.sh
+test-priority.sh,Automation Scripts,1.00,N/A,0.007,/Users/steven/.qwen/superpowers/4.2.0/tests/opencode/test-priority.sh
+test-plugin-loading.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.2.0/tests/opencode/test-plugin-loading.sh
+test-tools.sh,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.2.0/tests/opencode/test-tools.sh
+code-reviewer.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.2.0/agents/code-reviewer.md
+README.codex.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.2.0/docs/README.codex.md
+testing.md,AI/ML,0.00,N/A,0.009,/Users/steven/.qwen/superpowers/4.2.0/docs/testing.md
+README.opencode.md,AI/ML,1.00,N/A,0.01,/Users/steven/.qwen/superpowers/4.2.0/docs/README.opencode.md
+2025-11-22-opencode-support-implementation.md,Web Development,1.00,N/A,0.026,/Users/steven/.qwen/superpowers/4.2.0/docs/plans/2025-11-22-opencode-support-implementation.md
+2025-11-22-opencode-support-design.md,Automation Scripts,1.00,N/A,0.008,/Users/steven/.qwen/superpowers/4.2.0/docs/plans/2025-11-22-opencode-support-design.md
+2025-11-28-skills-improvements-from-user-feedback.md,AI/ML,1.00,N/A,0.02,/Users/steven/.qwen/superpowers/4.2.0/docs/plans/2025-11-28-skills-improvements-from-user-feedback.md
+polyglot-hooks.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.2.0/docs/windows/polyglot-hooks.md
+run-hook.cmd,AI/ML,0.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/hooks/run-hook.cmd
+session-start.sh,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/hooks/session-start.sh
+hooks.json,AI/ML,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/hooks/hooks.json
+skills-core.js,Automation Scripts,0.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.2.0/lib/skills-core.js
+execute-plan.md,Automation Scripts,0.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/commands/execute-plan.md
+write-plan.md,Automation Scripts,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/commands/write-plan.md
+brainstorm.md,AI/ML,1.00,N/A,0.0,/Users/steven/.qwen/superpowers/4.2.0/commands/brainstorm.md
+SKILL.md,AI/ML,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.2.0/skills/using-git-worktrees/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.009,/Users/steven/.qwen/superpowers/4.2.0/skills/test-driven-development/SKILL.md
+testing-anti-patterns.md,Automation Scripts,1.00,N/A,0.008,/Users/steven/.qwen/superpowers/4.2.0/skills/test-driven-development/testing-anti-patterns.md
+test-pressure-1.md,Web Development,2.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/skills/systematic-debugging/test-pressure-1.md
+condition-based-waiting.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.2.0/skills/systematic-debugging/condition-based-waiting.md
+test-pressure-2.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/skills/systematic-debugging/test-pressure-2.md
+CREATION-LOG.md,AI/ML,0.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.2.0/skills/systematic-debugging/CREATION-LOG.md
+test-academic.md,General,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.2.0/skills/systematic-debugging/test-academic.md
+defense-in-depth.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.2.0/skills/systematic-debugging/defense-in-depth.md
+SKILL.md,AI/ML,1.00,N/A,0.009,/Users/steven/.qwen/superpowers/4.2.0/skills/systematic-debugging/SKILL.md
+test-pressure-3.md,General,0.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.2.0/skills/systematic-debugging/test-pressure-3.md
+root-cause-tracing.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.2.0/skills/systematic-debugging/root-cause-tracing.md
+condition-based-waiting-example.ts,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.2.0/skills/systematic-debugging/condition-based-waiting-example.ts
+find-polluter.sh,Automation Scripts,0.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.2.0/skills/systematic-debugging/find-polluter.sh
+SKILL.md,AI/ML,0.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.2.0/skills/using-superpowers/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.2.0/skills/dispatching-parallel-agents/SKILL.md
+SKILL.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/skills/executing-plans/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.2.0/skills/finishing-a-development-branch/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/skills/brainstorming/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.2.0/skills/writing-plans/SKILL.md
+code-reviewer.md,Automation Scripts,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.2.0/skills/requesting-code-review/code-reviewer.md
+SKILL.md,AI/ML,1.00,N/A,0.003,/Users/steven/.qwen/superpowers/4.2.0/skills/requesting-code-review/SKILL.md
+SKILL.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.2.0/skills/receiving-code-review/SKILL.md
+testing-skills-with-subagents.md,AI/ML,1.00,N/A,0.012,/Users/steven/.qwen/superpowers/4.2.0/skills/writing-skills/testing-skills-with-subagents.md
+render-graphs.js,General,0.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.2.0/skills/writing-skills/render-graphs.js
+anthropic-best-practices.md,AI/ML,0.00,N/A,0.044,/Users/steven/.qwen/superpowers/4.2.0/skills/writing-skills/anthropic-best-practices.md
+persuasion-principles.md,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.2.0/skills/writing-skills/persuasion-principles.md
+SKILL.md,AI/ML,1.00,N/A,0.021,/Users/steven/.qwen/superpowers/4.2.0/skills/writing-skills/SKILL.md
+graphviz-conventions.dot,AI/ML,1.00,N/A,0.006,/Users/steven/.qwen/superpowers/4.2.0/skills/writing-skills/graphviz-conventions.dot
+CLAUDE_MD_TESTING.md,AI/ML,1.00,N/A,0.005,/Users/steven/.qwen/superpowers/4.2.0/skills/writing-skills/examples/CLAUDE_MD_TESTING.md
+SKILL.md,AI/ML,1.00,N/A,0.004,/Users/steven/.qwen/superpowers/4.2.0/skills/verification-before-completion/SKILL.md
+spec-reviewer-prompt.md,AI/ML,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/skills/subagent-driven-development/spec-reviewer-prompt.md
+implementer-prompt.md,Automation Scripts,1.00,N/A,0.002,/Users/steven/.qwen/superpowers/4.2.0/skills/subagent-driven-development/implementer-prompt.md
+SKILL.md,AI/ML,1.00,N/A,0.01,/Users/steven/.qwen/superpowers/4.2.0/skills/subagent-driven-development/SKILL.md
+code-quality-reviewer-prompt.md,AI/ML,1.00,N/A,0.001,/Users/steven/.qwen/superpowers/4.2.0/skills/subagent-driven-development/code-quality-reviewer-prompt.md
+0e92b1f0-c421-456c-a6a7-f7ef112b1216.txt,AI/ML,1.00,N/A,0.064,/Users/steven/.qwen/debug/0e92b1f0-c421-456c-a6a7-f7ef112b1216.txt
+1d24fa28-72e2-473d-b5e2-9c2040b111dd.txt,General,0.00,N/A,2.084,/Users/steven/.qwen/debug/1d24fa28-72e2-473d-b5e2-9c2040b111dd.txt
+2f2e1ead-3ab9-44d1-828d-657c25dc3fe8.txt,AI/ML,1.00,N/A,0.061,/Users/steven/.qwen/debug/2f2e1ead-3ab9-44d1-828d-657c25dc3fe8.txt
+72ab755f-059e-485d-9d54-1c8be8517603.txt,General,0.00,N/A,0.003,/Users/steven/.qwen/debug/72ab755f-059e-485d-9d54-1c8be8517603.txt
+5d075f84-12be-4eaa-a0be-3afed4e569ef.txt,AI/ML,1.00,N/A,0.007,/Users/steven/.qwen/debug/5d075f84-12be-4eaa-a0be-3afed4e569ef.txt
+343ce554-b292-44f6-844b-93051419681e.txt,AI/ML,1.00,N/A,0.011,/Users/steven/.qwen/debug/343ce554-b292-44f6-844b-93051419681e.txt
+ea0bca9b-5124-4e8b-9907-4cf6021c0f12.txt,AI/ML,1.00,N/A,0.046,/Users/steven/.qwen/debug/ea0bca9b-5124-4e8b-9907-4cf6021c0f12.txt
+0cc53f4c-6a45-45e3-9506-db6e6540142c.txt,General,0.00,N/A,0.006,/Users/steven/.qwen/debug/0cc53f4c-6a45-45e3-9506-db6e6540142c.txt
+e6668ed9-8484-4b63-979b-36c93a59b799.txt,General,0.00,N/A,0.029,/Users/steven/.qwen/debug/e6668ed9-8484-4b63-979b-36c93a59b799.txt
+be3b3807-5d94-45a2-b56d-dca699aa1f11.txt,General,0.00,N/A,1.599,/Users/steven/.qwen/debug/be3b3807-5d94-45a2-b56d-dca699aa1f11.txt
+bbec2d60-b5ef-48f0-8d97-2ef509cec053.txt,AI/ML,0.00,N/A,0.018,/Users/steven/.qwen/debug/bbec2d60-b5ef-48f0-8d97-2ef509cec053.txt
+9a3af499-7ba2-4937-8909-a63b1383b4b1.txt,AI/ML,1.00,N/A,0.041,/Users/steven/.qwen/debug/9a3af499-7ba2-4937-8909-a63b1383b4b1.txt
+55987f2e-52fe-409a-9551-a94d3abe0236.txt,General,0.00,N/A,0.004,/Users/steven/.qwen/debug/55987f2e-52fe-409a-9551-a94d3abe0236.txt
+latest,AI/ML,1.00,N/A,0.035,/Users/steven/.qwen/debug/latest
+e5dff0d7-bff3-40bb-b55e-6f762d32eb04.txt,AI/ML,1.00,N/A,0.009,/Users/steven/.qwen/debug/e5dff0d7-bff3-40bb-b55e-6f762d32eb04.txt
+ff458e17-0e04-433e-b5ee-12cc4ffb3e46.txt,General,0.00,N/A,1.738,/Users/steven/.qwen/debug/ff458e17-0e04-433e-b5ee-12cc4ffb3e46.txt
+6231d116-4821-459d-9ec8-41902d2c16d5.txt,General,0.00,N/A,0.005,/Users/steven/.qwen/debug/6231d116-4821-459d-9ec8-41902d2c16d5.txt
+dbaab5bc-351a-463b-b059-c0d9490d3d27.txt,AI/ML,1.00,N/A,0.359,/Users/steven/.qwen/debug/dbaab5bc-351a-463b-b059-c0d9490d3d27.txt
+35740c9e-4256-492b-b05c-4749c6e3bb5b.txt,General,0.00,N/A,0.08,/Users/steven/.qwen/debug/35740c9e-4256-492b-b05c-4749c6e3bb5b.txt
+68c96cb5-6fc5-4fb9-980e-52f66ec8a631.txt,AI/ML,1.00,N/A,0.03,/Users/steven/.qwen/debug/68c96cb5-6fc5-4fb9-980e-52f66ec8a631.txt
+5a93174f-891e-4531-9b1c-7d1339baecb8.txt,AI/ML,1.00,N/A,0.035,/Users/steven/.qwen/debug/5a93174f-891e-4531-9b1c-7d1339baecb8.txt
+94dea91d-7cc5-4b18-ac39-ce485e9791f9.txt,General,0.00,N/A,0.005,/Users/steven/.qwen/debug/94dea91d-7cc5-4b18-ac39-ce485e9791f9.txt
+10575fbc-24c5-45ea-9177-084da66b7374.txt,AI/ML,1.00,N/A,0.009,/Users/steven/.qwen/debug/10575fbc-24c5-45ea-9177-084da66b7374.txt
+94fb72b5-3466-4776-a42a-8d648c469609.txt,AI/ML,1.00,N/A,0.023,/Users/steven/.qwen/debug/94fb72b5-3466-4776-a42a-8d648c469609.txt
+84e3523c-f978-4ed8-a921-548f2f8cf504.txt,General,0.00,N/A,0.028,/Users/steven/.qwen/debug/84e3523c-f978-4ed8-a921-548f2f8cf504.txt
+f36e2a9b-cdfe-4002-b9a1-58972be3587c.txt,General,0.00,N/A,0.007,/Users/steven/.qwen/debug/f36e2a9b-cdfe-4002-b9a1-58972be3587c.txt
+c35952af-198f-470e-a1f7-327126562cd4.txt,General,0.00,N/A,0.014,/Users/steven/.qwen/debug/c35952af-198f-470e-a1f7-327126562cd4.txt
+22ea5320-703b-4330-ba69-9b5444090463.txt,AI/ML,1.00,N/A,0.016,/Users/steven/.qwen/debug/22ea5320-703b-4330-ba69-9b5444090463.txt
+ef7d5344-09e3-4086-8078-d7a7b12007aa.txt,General,0.00,N/A,0.005,/Users/steven/.qwen/debug/ef7d5344-09e3-4086-8078-d7a7b12007aa.txt
+569e8672-3cf3-4437-ad5c-64c8a71eb90f.txt,General,0.00,N/A,0.011,/Users/steven/.qwen/debug/569e8672-3cf3-4437-ad5c-64c8a71eb90f.txt
+0ac5a356-c400-402a-a9d9-1f9f91c4be66.txt,Automation Scripts,0.00,N/A,0.024,/Users/steven/.qwen/debug/0ac5a356-c400-402a-a9d9-1f9f91c4be66.txt
+6fefc58f-fd48-46fd-aea3-ba81ae499e3c.txt,AI/ML,1.00,N/A,0.013,/Users/steven/.qwen/debug/6fefc58f-fd48-46fd-aea3-ba81ae499e3c.txt

@@ -1,0 +1,9 @@
+name,path,primary_type,size_mb,description,intelligent_category,confidence_score,predicted_business_value
+carbons,/Users/steven/Pictures/carbons,documentation,45.92,Use these when Automator or a Droplet says `carbon-now: command not found`.,General,0.0,0.0
+etsy,/Users/steven/Pictures/etsy,documentation,130.78,This directory contains all of our Etsy product designs organized by category for easy access and management.,AI/Automation,0.1,0.4
+Raccoon_Designs,/Users/steven/Pictures/etsy/Raccoon_Designs,documentation,0.01,This directory contains 215 files related to raccoon themed designs.,AI/Automation,0.1,0.4
+Halloween,/Users/steven/Pictures/etsy/Halloween,documentation,0.01,This directory contains 386 files related to halloween themed designs.,AI/Automation,0.1,0.4
+Designs,/Users/steven/Pictures/etsy/Designs,documentation,293.95,"This directory contains design assets, mockups, and templates organized by theme for easy access and management.",AI/Automation,0.1,0.4
+Funny_Quotes,/Users/steven/Pictures/etsy/T-Shirts/Funny_Quotes,documentation,28.59,This directory contains 97 files related to t-shirt and apparel designs.,AI/Automation,0.1,0.4
+00_production,/Users/steven/Pictures/etsy/00_production,documentation,0.0,This directory contains 0 files related to production-ready designs.,AI/Automation,0.1,0.4
+etsy_store_exporter,/Users/steven/Pictures/etsy_store_exporter,documentation,0.0,"**One script** that lets you paste an Etsy **shop URL, name, or numeric ID** and exports **all listings** to a CSV.",Code/Scripts,0.1,0.0

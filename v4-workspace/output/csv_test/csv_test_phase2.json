@@ -1,0 +1,34 @@
+{
+  "scan_start_time": "2026-01-16T20:28:02.808477",
+  "base_path": "/Users/steven/pythons/test_tool1",
+  "total_directories": 0,
+  "total_files": 1,
+  "automation_tools": [
+    {
+      "name": "test_tool1",
+      "path": "/Users/steven/pythons/test_tool1",
+      "files": [
+        "README.md"
+      ],
+      "size_mb": 0.0,
+      "created": "2026-01-16T20:13:07.133732",
+      "modified": "2026-01-16T20:13:07.133732",
+      "primary_type": "documentation",
+      "description": "This Python script automates content generation using AI models. It can create blog posts, social media content, and marketing materials with minimal human intervention.",
+      "intelligent_category": "Content Creation",
+      "confidence_score": 0.4,
+      "auto_generated_tags": [
+        "generation",
+        "ai",
+        "python",
+        "code",
+        "script",
+        "content",
+        "marketing"
+      ],
+      "processed_by_phase2": "2026-01-16T20:28:02.873384"
+    }
+  ],
+  "scan_end_time": "2026-01-16T20:28:02.808867",
+  "total_tools_found": 1
+}

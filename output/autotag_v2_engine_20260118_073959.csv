@@ -1,0 +1,94 @@
+name,category,value,complexity,size_mb,path
+multi_format_directory_indexer.py,Web Development,0.00,low,0.009,/Users/steven/AutoTagger/v2-engine/multi_format_directory_indexer.py
+COMPLETE_SYSTEM_OVERVIEW.md,Data Analysis,0.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/COMPLETE_SYSTEM_OVERVIEW.md
+test_relations.csv,Data Analysis,0.00,N/A,6.036,/Users/steven/AutoTagger/v2-engine/test_relations.csv
+SYSTEM_MIGRATION_COMPLETE.md,AI/ML,1.00,N/A,0.003,/Users/steven/AutoTagger/v2-engine/SYSTEM_MIGRATION_COMPLETE.md
+SYSTEM_SUMMARY.md,AI/ML,1.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/SYSTEM_SUMMARY.md
+devonthink_ocr_enhancement.sh,Automation Scripts,0.00,N/A,0.003,/Users/steven/AutoTagger/v2-engine/devonthink_ocr_enhancement.sh
+AVATARARTS_KNOWLEDGE_BASE.md,Automation Scripts,2.00,N/A,0.01,/Users/steven/AutoTagger/v2-engine/AVATARARTS_KNOWLEDGE_BASE.md
+KNOWLEDGE_BASE_TOOLS_README.md,Automation Scripts,1.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/KNOWLEDGE_BASE_TOOLS_README.md
+ENHANCED_CLIPBOARD_CAPTURE.md,AI/ML,1.00,N/A,0.004,/Users/steven/AutoTagger/v2-engine/ENHANCED_CLIPBOARD_CAPTURE.md
+AUTO_SORTING_SYSTEM.md,Data Analysis,2.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/AUTO_SORTING_SYSTEM.md
+MULTI_FORMAT_INDEXER.md,Web Development,1.00,N/A,0.007,/Users/steven/AutoTagger/v2-engine/MULTI_FORMAT_INDEXER.md
+open_kb_outputs.sh,Data Analysis,1.00,N/A,0.006,/Users/steven/AutoTagger/v2-engine/open_kb_outputs.sh
+phase2_intelligent_organization.py,Automation Scripts,2.00,low,0.008,/Users/steven/AutoTagger/v2-engine/phase2_intelligent_organization.py
+save_knowledge_to_db.py,Automation Scripts,0.00,low,0.006,/Users/steven/AutoTagger/v2-engine/save_knowledge_to_db.py
+phase1_rapid_scan.py,Automation Scripts,1.00,low,0.005,/Users/steven/AutoTagger/v2-engine/phase1_rapid_scan.py
+run_tiered_indexing.py,Automation Scripts,0.00,low,0.003,/Users/steven/AutoTagger/v2-engine/run_tiered_indexing.py
+automations_export.csv,AI/ML,1.00,N/A,0.062,/Users/steven/AutoTagger/v2-engine/automations_export.csv
+autotag.sh,Automation Scripts,0.00,N/A,0.001,/Users/steven/AutoTagger/v2-engine/autotag.sh
+INITIALIZE_SYSTEM.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/AutoTagger/v2-engine/INITIALIZE_SYSTEM.sh
+TIERED_INDEXING_RESULTS_SUMMARY.md,Automation Scripts,0.00,N/A,0.003,/Users/steven/AutoTagger/v2-engine/TIERED_INDEXING_RESULTS_SUMMARY.md
+ZSHRC_INTEGRATION_EXAMPLE.md,Automation Scripts,1.00,N/A,0.004,/Users/steven/AutoTagger/v2-engine/ZSHRC_INTEGRATION_EXAMPLE.md
+scan_output.csv,AI/ML,1.00,N/A,0.043,/Users/steven/AutoTagger/v2-engine/scan_output.csv
+UNIVERSAL_INDEXER_COMPLETE_SYSTEM.md,Data Analysis,0.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/UNIVERSAL_INDEXER_COMPLETE_SYSTEM.md
+csv_import_export.py,Data Analysis,1.00,low,0.007,/Users/steven/AutoTagger/v2-engine/csv_import_export.py
+sample_scan_data.csv,AI/ML,1.00,N/A,0.001,/Users/steven/AutoTagger/v2-engine/sample_scan_data.csv
+multi_format_directory_indexer_v3.py,Data Analysis,0.00,low,0.014,/Users/steven/AutoTagger/v2-engine/multi_format_directory_indexer_v3.py
+DEVONTHINK_ALTERNATIVE.md,Data Analysis,0.00,N/A,0.006,/Users/steven/AutoTagger/v2-engine/DEVONTHINK_ALTERNATIVE.md
+CSV_INTEGRATION_SYSTEM.md,Data Analysis,1.00,N/A,0.006,/Users/steven/AutoTagger/v2-engine/CSV_INTEGRATION_SYSTEM.md
+simulate_scan_function.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/AutoTagger/v2-engine/simulate_scan_function.sh
+AVATARARTS_KNOWLEDGE_BASE_EVOLUTION_SUMMARY.md,Web Development,0.00,N/A,0.008,/Users/steven/AutoTagger/v2-engine/AVATARARTS_KNOWLEDGE_BASE_EVOLUTION_SUMMARY.md
+HYBRID_INTELLIGENCE_SYSTEM.md,Automation Scripts,0.00,N/A,0.006,/Users/steven/AutoTagger/v2-engine/HYBRID_INTELLIGENCE_SYSTEM.md
+SETUP_SYSTEM.sh,Automation Scripts,0.00,N/A,0.001,/Users/steven/AutoTagger/v2-engine/SETUP_SYSTEM.sh
+UNIVERSAL_DIRECTORY_INDEXER.md,AI/ML,1.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/UNIVERSAL_DIRECTORY_INDEXER.md
+README.md,Web Development,1.00,N/A,0.006,/Users/steven/AutoTagger/v2-engine/README.md
+knowledge_base.db,General,0.00,N/A,0.941,/Users/steven/AutoTagger/v2-engine/knowledge_base.db
+enhanced_clipboard_capture.py,Automation Scripts,1.00,low,0.008,/Users/steven/AutoTagger/v2-engine/enhanced_clipboard_capture.py
+multi_format_directory_indexer_v4.py,Data Analysis,0.00,low,0.022,/Users/steven/AutoTagger/v2-engine/multi_format_directory_indexer_v4.py
+COMPLETE_IMPLEMENTATION_SUMMARY.md,Data Analysis,1.00,N/A,0.006,/Users/steven/AutoTagger/v2-engine/COMPLETE_IMPLEMENTATION_SUMMARY.md
+phase3_advanced_intelligence.py,Web Development,1.00,low,0.01,/Users/steven/AutoTagger/v2-engine/phase3_advanced_intelligence.py
+verify_setup.sh,Automation Scripts,0.00,N/A,0.002,/Users/steven/AutoTagger/v2-engine/verify_setup.sh
+AVATARARTS_KNOWLEDGE_BASE_SYSTEM_VERSION_4.md,Automation Scripts,2.00,N/A,0.009,/Users/steven/AutoTagger/v2-engine/AVATARARTS_KNOWLEDGE_BASE_SYSTEM_VERSION_4.md
+auto_sorter.py,Automation Scripts,1.00,low,0.012,/Users/steven/AutoTagger/v2-engine/auto_sorter.py
+test_open_csv.csv,Automation Scripts,0.00,N/A,0.0,/Users/steven/AutoTagger/v2-engine/test_open_csv.csv
+kb_aliases.sh,General,0.00,N/A,0.009,/Users/steven/AutoTagger/v2-engine/kb_aliases.sh
+enhanced_multi_format_directory_indexer.py,Data Analysis,0.00,low,0.012,/Users/steven/AutoTagger/v2-engine/enhanced_multi_format_directory_indexer.py
+SYSTEM_STATUS.md,Automation Scripts,0.00,N/A,0.002,/Users/steven/AutoTagger/v2-engine/SYSTEM_STATUS.md
+devonthink_alternative.py,Automation Scripts,0.00,low,0.008,/Users/steven/AutoTagger/v2-engine/devonthink_alternative.py
+capture_conversation.py,Automation Scripts,0.00,low,0.008,/Users/steven/AutoTagger/v2-engine/capture_conversation.py
+universal_directory_indexer.py,General,0.00,low,0.004,/Users/steven/AutoTagger/v2-engine/universal_directory_indexer.py
+hybrid_intelligence_system.py,Automation Scripts,1.00,high,0.018,/Users/steven/AutoTagger/v2-engine/hybrid_intelligence_system.py
+DEVONTHINK_ALTERNATIVE_COMPLETE.md,Data Analysis,1.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/DEVONTHINK_ALTERNATIVE_COMPLETE.md
+COMPLETE_SYSTEM_STATE_CAPTURE.md,Automation Scripts,0.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/COMPLETE_SYSTEM_STATE_CAPTURE.md
+PROGRESS_REPORT_V3.md,Data Analysis,0.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/PROGRESS_REPORT_V3.md
+save_knowledge.sh,Automation Scripts,1.00,N/A,0.002,/Users/steven/AutoTagger/v2-engine/save_knowledge.sh
+save_system_state.sh,Automation Scripts,0.00,N/A,0.009,/Users/steven/AutoTagger/v2-engine/save_system_state.sh
+setup_zshrc.sh,Automation Scripts,0.00,N/A,0.001,/Users/steven/AutoTagger/v2-engine/setup_zshrc.sh
+MULTI_FORMAT_INDEXER_V3.md,Web Development,1.00,N/A,0.006,/Users/steven/AutoTagger/v2-engine/MULTI_FORMAT_INDEXER_V3.md
+COMPLETE_SYSTEM_OVERVIEW.md,Data Analysis,0.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/COMPLETE_SYSTEM_OVERVIEW.md
+test_relations.csv,Data Analysis,0.00,N/A,6.036,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/test_relations.csv
+SYSTEM_MIGRATION_COMPLETE.md,AI/ML,1.00,N/A,0.003,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/SYSTEM_MIGRATION_COMPLETE.md
+SYSTEM_SUMMARY.md,AI/ML,1.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/SYSTEM_SUMMARY.md
+AVATARARTS_KNOWLEDGE_BASE.md,Automation Scripts,2.00,N/A,0.01,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/AVATARARTS_KNOWLEDGE_BASE.md
+KNOWLEDGE_BASE_TOOLS_README.md,Automation Scripts,1.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/KNOWLEDGE_BASE_TOOLS_README.md
+ENHANCED_CLIPBOARD_CAPTURE.md,AI/ML,1.00,N/A,0.004,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/ENHANCED_CLIPBOARD_CAPTURE.md
+AUTO_SORTING_SYSTEM.md,Data Analysis,2.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/AUTO_SORTING_SYSTEM.md
+MULTI_FORMAT_INDEXER.md,Web Development,1.00,N/A,0.007,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/MULTI_FORMAT_INDEXER.md
+open_kb_outputs.sh,Data Analysis,1.00,N/A,0.006,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/open_kb_outputs.sh
+phase2_intelligent_organization.py,Automation Scripts,2.00,low,0.008,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/phase2_intelligent_organization.py
+phase1_rapid_scan.py,Automation Scripts,1.00,low,0.005,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/phase1_rapid_scan.py
+automations_export.csv,AI/ML,1.00,N/A,0.062,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/automations_export.csv
+TIERED_INDEXING_RESULTS_SUMMARY.md,Automation Scripts,0.00,N/A,0.003,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/TIERED_INDEXING_RESULTS_SUMMARY.md
+scan_output.csv,AI/ML,1.00,N/A,0.043,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/scan_output.csv
+RESTORE_SYSTEM.sh,Automation Scripts,0.00,N/A,0.002,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/RESTORE_SYSTEM.sh
+UNIVERSAL_INDEXER_COMPLETE_SYSTEM.md,Data Analysis,0.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/UNIVERSAL_INDEXER_COMPLETE_SYSTEM.md
+sample_scan_data.csv,AI/ML,1.00,N/A,0.001,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/sample_scan_data.csv
+multi_format_directory_indexer_v3.py,Data Analysis,0.00,low,0.014,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/multi_format_directory_indexer_v3.py
+DEVONTHINK_ALTERNATIVE.md,Data Analysis,0.00,N/A,0.006,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/DEVONTHINK_ALTERNATIVE.md
+AVATARARTS_KNOWLEDGE_BASE_EVOLUTION_SUMMARY.md,Web Development,0.00,N/A,0.008,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/AVATARARTS_KNOWLEDGE_BASE_EVOLUTION_SUMMARY.md
+HYBRID_INTELLIGENCE_SYSTEM.md,Automation Scripts,0.00,N/A,0.006,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/HYBRID_INTELLIGENCE_SYSTEM.md
+UNIVERSAL_DIRECTORY_INDEXER.md,AI/ML,1.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/UNIVERSAL_DIRECTORY_INDEXER.md
+BACKUP_SUMMARY.md,Automation Scripts,0.00,N/A,0.001,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/BACKUP_SUMMARY.md
+knowledge_base.db,General,0.00,N/A,0.941,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/knowledge_base.db
+multi_format_directory_indexer_v4.py,Data Analysis,0.00,low,0.022,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/multi_format_directory_indexer_v4.py
+COMPLETE_IMPLEMENTATION_SUMMARY.md,Data Analysis,1.00,N/A,0.006,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/COMPLETE_IMPLEMENTATION_SUMMARY.md
+phase3_advanced_intelligence.py,Web Development,1.00,low,0.01,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/phase3_advanced_intelligence.py
+AVATARARTS_KNOWLEDGE_BASE_SYSTEM_VERSION_4.md,Automation Scripts,2.00,N/A,0.009,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/AVATARARTS_KNOWLEDGE_BASE_SYSTEM_VERSION_4.md
+test_open_csv.csv,Automation Scripts,0.00,N/A,0.0,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/test_open_csv.csv
+SYSTEM_STATUS_REPORT.md,AI/ML,1.00,N/A,0.001,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/SYSTEM_STATUS_REPORT.md
+kb_aliases.sh,General,0.00,N/A,0.009,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/kb_aliases.sh
+multi_format_directory_indexer_v1.py,Web Development,0.00,low,0.009,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/multi_format_directory_indexer_v1.py
+SYSTEM_STATUS.md,Automation Scripts,0.00,N/A,0.002,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/SYSTEM_STATUS.md
+DEVONTHINK_ALTERNATIVE_COMPLETE.md,Data Analysis,1.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/DEVONTHINK_ALTERNATIVE_COMPLETE.md
+PROGRESS_REPORT_V3.md,Data Analysis,0.00,N/A,0.005,/Users/steven/AutoTagger/v2-engine/backups/20260116_222742/PROGRESS_REPORT_V3.md

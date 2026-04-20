@@ -1,0 +1,486 @@
+name,category,value,complexity,size_mb,path
+sortD.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/clean/sortD.sh
+docs-02-04-11:02.csv,Data Analysis,0.00,N/A,0.001,/Users/steven/clean/docs-02-04-11:02.csv
+index2.html,Web Development,2.00,N/A,0.095,/Users/steven/clean/index2.html
+config.py,Automation Scripts,0.00,low,0.0,/Users/steven/clean/config.py
+image_data-02-04-11-02.csv,Data Analysis,0.00,N/A,0.0,/Users/steven/clean/image_data-02-04-11-02.csv
+requirements.txt,AI/ML,1.00,N/A,0.0,/Users/steven/clean/requirements.txt
+audio-02-04-11:02.csv,Data Analysis,0.00,N/A,0.0,/Users/steven/clean/audio-02-04-11:02.csv
+docs-02-04-11:10.csv,Data Analysis,0.00,N/A,0.001,/Users/steven/clean/docs-02-04-11:10.csv
+batch-info.py,Web Development,0.00,low,0.008,/Users/steven/clean/batch-info.py
+cleanup_and_organize.py,Automation Scripts,0.00,low,0.005,/Users/steven/clean/cleanup_and_organize.py
+docs.py,Data Analysis,0.00,low,0.008,/Users/steven/clean/docs.py
+other.py,Data Analysis,0.00,low,0.008,/Users/steven/clean/other.py
+all.py,Web Development,0.00,high,0.016,/Users/steven/clean/all.py
+img.py,Data Analysis,1.00,low,0.008,/Users/steven/clean/img.py
+run.sh,Automation Scripts,1.00,N/A,0.001,/Users/steven/clean/run.sh
+script_output.csv,Automation Scripts,0.00,N/A,0.0,/Users/steven/clean/script_output.csv
+vids.py,Data Analysis,0.00,low,0.008,/Users/steven/clean/vids.py
+docs-02-08-19:40.csv,Data Analysis,0.00,N/A,10.05,/Users/steven/clean/docs-02-08-19:40.csv
+audio.py,Data Analysis,0.00,low,0.009,/Users/steven/clean/audio.py
+docs-02-04-11:09.csv,Data Analysis,0.00,N/A,0.0,/Users/steven/clean/docs-02-04-11:09.csv
+vids.txt,General,0.00,N/A,0.0,/Users/steven/clean/vids.txt
+audio_output.csv,Data Analysis,0.00,N/A,0.0,/Users/steven/clean/audio_output.csv
+back-clean.sh,General,0.00,N/A,0.001,/Users/steven/clean/back-clean.sh
+docs.txt,General,0.00,N/A,0.0,/Users/steven/clean/docs.txt
+docs-02-04-11:24.csv,Data Analysis,0.00,N/A,0.0,/Users/steven/clean/docs-02-04-11:24.csv
+other 104.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 104.py
+other 49.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 49.py
+other 18.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 18.py
+other 59.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 59.py
+other 100.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 100.py
+other 79.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 79.py
+other 28.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 28.py
+other 38.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 38.py
+other 69.py,AI/ML,1.00,low,0.012,/Users/steven/clean/other/other 69.py
+other 9.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 9.py
+other 110.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 110.py
+other 101.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 101.py
+other 78.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 78.py
+other 29.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 29.py
+other 39.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 39.py
+other 8.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 8.py
+other 68.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 68.py
+other 111.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 111.py
+other 105.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 105.py
+other 48.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 48.py
+other 19.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 19.py
+other 58.py,Automation Scripts,1.00,low,0.002,/Users/steven/clean/other/other 58.py
+other 43.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 43.py
+other 12.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 12.py
+other 26.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 26.py
+other 77.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 77.py
+other 84.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 84.py
+other 94.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 94.py
+other 7.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 7.py
+other 67.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 67.py
+other 36.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 36.py
+other 53.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 53.py
+other 73.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 73.py
+other 22.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 22.py
+other 80.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 80.py
+other 16.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 16.py
+other 47.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 47.py
+other 57.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 57.py
+other 90.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 90.py
+other 32.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 32.py
+other 63.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 63.py
+other 3.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 3.py
+other 72.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 72.py
+other 23.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 23.py
+other 81.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 81.py
+other 17.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 17.py
+other 46.py,Automation Scripts,1.00,low,0.002,/Users/steven/clean/other/other 46.py
+other.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other.py
+other 56.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 56.py
+other 91.py,Automation Scripts,1.00,low,0.002,/Users/steven/clean/other/other 91.py
+other 33.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/other/other 33.py
+other 2.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/other/other 2.py
+other 62.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 62.py
+other 42.py,Automation Scripts,1.00,low,0.002,/Users/steven/clean/other/other 42.py
+other 13.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 13.py
+other 27.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 27.py
+other 76.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 76.py
+other 85.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 85.py
+other 95.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 95.py
+other 66.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 66.py
+other 6.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 6.py
+other 37.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 37.py
+other 52.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 52.py
+other 82.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/other/other 82.py
+other 20.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 20.py
+other 71.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 71.py
+other 45.py,Automation Scripts,1.00,low,0.002,/Users/steven/clean/other/other 45.py
+other 14.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 14.py
+other 108.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 108.py
+other 55.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 55.py
+other 61.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 61.py
+other 30.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 30.py
+other 92.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 92.py
+other 10.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 10.py
+other 41.py,Automation Scripts,1.00,low,0.002,/Users/steven/clean/other/other 41.py
+other 86.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 86.py
+other 75.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 75.py
+other 24.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 24.py
+other 34.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 34.py
+other 65.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 65.py
+other 5.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 5.py
+other 96.py,Automation Scripts,1.00,low,0.002,/Users/steven/clean/other/other 96.py
+other 51.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 51.py
+other 11.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 11.py
+other 40.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 40.py
+other 87.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 87.py
+other 74.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/other/other 74.py
+other 25.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 25.py
+other 35.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 35.py
+other 4.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 4.py
+other 64.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 64.py
+other 97.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 97.py
+other 50.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 50.py
+other 83.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 83.py
+other 21.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 21.py
+other 70.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 70.py
+other 44.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 44.py
+other 15.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 15.py
+other 109.py,Automation Scripts,1.00,low,0.002,/Users/steven/clean/other/other 109.py
+other 54.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 54.py
+other 60.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 60.py
+other 31.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 31.py
+other 93.py,Automation Scripts,1.00,low,0.002,/Users/steven/clean/other/other 93.py
+other 102.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 102.py
+other 88.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 88.py
+other 98.py,Data Analysis,0.00,low,0.008,/Users/steven/clean/other/other 98.py
+other 112.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 112.py
+other 106.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 106.py
+other 107.py,Automation Scripts,1.00,low,0.002,/Users/steven/clean/other/other 107.py
+other 103.py,AI/ML,1.00,low,0.005,/Users/steven/clean/other/other 103.py
+other 89.py,Automation Scripts,1.00,low,0.002,/Users/steven/clean/other/other 89.py
+other 99.py,Automation Scripts,1.00,low,0.002,/Users/steven/clean/other/other 99.py
+other 113.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/other/other 113.py
+all.cpython-312.pyc,General,0.00,N/A,0.011,/Users/steven/clean/__pycache__/all.cpython-312.pyc
+docs 2.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 2.py
+docs 53.py,Data Analysis,0.00,low,0.005,/Users/steven/clean/docs/docs 53.py
+docs 67.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 67.py
+docs 36.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 36.py
+docs 26.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 26.py
+docs 43.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 43.py
+docs 12.py,General,0.00,low,0.0,/Users/steven/clean/docs/docs 12.py
+docs 32.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 32.py
+docs 63.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 63.py
+docs 57.py,Data Analysis,0.00,low,0.005,/Users/steven/clean/docs/docs 57.py
+docs 6.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 6.py
+docs 16.py,General,0.00,low,0.0,/Users/steven/clean/docs/docs 16.py
+docs 47.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 47.py
+docs 22.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 22.py
+docs 33.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 33.py
+docs 62.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 62.py
+docs 56.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 56.py
+docs 7.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 7.py
+docs 17.py,General,0.00,low,0.0,/Users/steven/clean/docs/docs 17.py
+docs 46.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 46.py
+docs 23.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 23.py
+docs 3.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 3.py
+docs 52.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 52.py
+docs 66.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 66.py
+docs 37.py,Data Analysis,0.00,low,0.005,/Users/steven/clean/docs/docs 37.py
+docs 27.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 27.py
+docs 42.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 42.py
+docs 13.py,General,0.00,low,0.0,/Users/steven/clean/docs/docs 13.py
+docs 8.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 8.py
+docs 59.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 59.py
+docs 49.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 49.py
+docs 18.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 18.py
+docs 38.py,Data Analysis,0.00,low,0.005,/Users/steven/clean/docs/docs 38.py
+docs 69.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 69.py
+docs 28.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 28.py
+docs 39.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 39.py
+docs 68.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 68.py
+docs.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs.py
+docs 29.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 29.py
+docs 9.py,Data Analysis,0.00,low,0.008,/Users/steven/clean/docs/docs 9.py
+docs 58.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 58.py
+docs 48.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 48.py
+docs 19.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 19.py
+docs 61.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 61.py
+docs 30.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 30.py
+docs 4.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 4.py
+docs 55.py,General,0.00,low,0.0,/Users/steven/clean/docs/docs 55.py
+docs 45.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 45.py
+docs 14.py,General,0.00,low,0.0,/Users/steven/clean/docs/docs 14.py
+docs 20.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 20.py
+docs 71.py,Data Analysis,0.00,low,0.005,/Users/steven/clean/docs/docs 71.py
+docs 51.py,AI/ML,1.00,low,0.011,/Users/steven/clean/docs/docs 51.py
+docs 34.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 34.py
+docs 65.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 65.py
+docs 24.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 24.py
+docs 10.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 10.py
+docs 41.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 41.py
+docs 50.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 50.py
+docs 35.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 35.py
+docs 64.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 64.py
+docs 25.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 25.py
+docs 11.py,General,0.00,low,0.0,/Users/steven/clean/docs/docs 11.py
+docs 40.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 40.py
+docs 60.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 60.py
+docs 31.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 31.py
+docs 5.py,Web Development,0.00,low,0.01,/Users/steven/clean/docs/docs 5.py
+docs 54.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 54.py
+docs 44.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 44.py
+docs 15.py,General,0.00,low,0.0,/Users/steven/clean/docs/docs 15.py
+docs 21.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 21.py
+docs 70.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/docs/docs 70.py
+img 58.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 58.py
+img 19.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 19.py
+img 48.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 48.py
+img 102.py,Automation Scripts,1.00,low,0.003,/Users/steven/clean/img/img 102.py
+img 68.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 68.py
+img 39.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 39.py
+img 29.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 29.py
+img 78.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 78.py
+img 103.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 103.py
+img 69.py,Data Analysis,0.00,low,0.001,/Users/steven/clean/img/img 69.py
+img 38.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 38.py
+img 28.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 28.py
+img 79.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 79.py
+img 59.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 59.py
+img 18.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 18.py
+img 49.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 49.py
+img 95.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 95.py
+img 37.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img 37.py
+img 66.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 66.py
+img 52.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 52.py
+img 13.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 13.py
+img 42.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 42.py
+img 76.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img 76.py
+img 27.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 27.py
+img 85.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 85.py
+img 4.py,Data Analysis,0.00,low,0.009,/Users/steven/clean/img/img 4.py
+img 56.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img 56.py
+img 91.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img 91.py
+img 62.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 62.py
+img 33.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 33.py
+img 23.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 23.py
+img 72.py,AI/ML,1.00,high,0.022,/Users/steven/clean/img/img 72.py
+img 81.py,AI/ML,1.00,low,0.005,/Users/steven/clean/img/img 81.py
+img 46.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 46.py
+img 17.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 17.py
+img 5.py,AI/ML,1.00,low,0.005,/Users/steven/clean/img/img 5.py
+img 57.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 57.py
+img 90.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img 90.py
+img 63.py,AI/ML,1.00,high,0.022,/Users/steven/clean/img/img 63.py
+img 32.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 32.py
+img 22.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 22.py
+img 73.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 73.py
+img 80.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img 80.py
+img 47.py,Data Analysis,0.00,low,0.001,/Users/steven/clean/img/img 47.py
+img 16.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 16.py
+img 94.py,Data Analysis,1.00,low,0.005,/Users/steven/clean/img/img 94.py
+img 36.py,Data Analysis,0.00,low,0.001,/Users/steven/clean/img/img 36.py
+img 67.py,AI/ML,1.00,high,0.022,/Users/steven/clean/img/img 67.py
+img 53.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 53.py
+img 12.py,AI/ML,1.00,high,0.022,/Users/steven/clean/img/img 12.py
+img 43.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 43.py
+img 77.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img 77.py
+img 26.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 26.py
+img 84.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 84.py
+img.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img.py
+img 6.py,Data Analysis,1.00,low,0.008,/Users/steven/clean/img/img 6.py
+img 54.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 54.py
+img 31.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img 31.py
+img 60.py,Data Analysis,0.00,low,0.001,/Users/steven/clean/img/img 60.py
+img 93.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 93.py
+img 83.py,Data Analysis,0.00,low,0.001,/Users/steven/clean/img/img 83.py
+img 70.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 70.py
+img 21.py,Data Analysis,0.00,low,0.001,/Users/steven/clean/img/img 21.py
+img 15.py,AI/ML,1.00,high,0.022,/Users/steven/clean/img/img 15.py
+img 44.py,AI/ML,1.00,high,0.022,/Users/steven/clean/img/img 44.py
+img 2.py,AI/ML,1.00,high,0.022,/Users/steven/clean/img/img 2.py
+img 64.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 64.py
+img 35.py,Data Analysis,1.00,low,0.005,/Users/steven/clean/img/img 35.py
+img 97.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 97.py
+img 50.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 50.py
+img 40.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 40.py
+img 11.py,AI/ML,1.00,high,0.022,/Users/steven/clean/img/img 11.py
+img 87.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 87.py
+img 25.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 25.py
+img 74.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 74.py
+img 3.py,AI/ML,1.00,high,0.022,/Users/steven/clean/img/img 3.py
+img 65.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 65.py
+img 34.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 34.py
+img 96.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 96.py
+img 51.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img 51.py
+img 41.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 41.py
+img 10.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 10.py
+img 86.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img 86.py
+img 24.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 24.py
+img 75.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 75.py
+img 7.py,AI/ML,1.00,high,0.022,/Users/steven/clean/img/img 7.py
+img 55.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 55.py
+img 30.py,AI/ML,1.00,low,0.012,/Users/steven/clean/img/img 30.py
+img 61.py,AI/ML,1.00,high,0.022,/Users/steven/clean/img/img 61.py
+img 92.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 92.py
+img 82.py,AI/ML,1.00,high,0.022,/Users/steven/clean/img/img 82.py
+img 71.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img 71.py
+img 20.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 20.py
+img 14.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 14.py
+img 45.py,Data Analysis,1.00,low,0.006,/Users/steven/clean/img/img 45.py
+img 100.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 100.py
+img 99.py,AI/ML,1.00,high,0.021,/Users/steven/clean/img/img 99.py
+img 89.py,Data Analysis,0.00,low,0.001,/Users/steven/clean/img/img 89.py
+img 104.py,Data Analysis,0.00,low,0.009,/Users/steven/clean/img/img 104.py
+img 8.py,AI/ML,1.00,low,0.005,/Users/steven/clean/img/img 8.py
+img 9.py,Data Analysis,0.00,low,0.009,/Users/steven/clean/img/img 9.py
+img 101.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 101.py
+img 98.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 98.py
+img 88.py,Data Analysis,1.00,low,0.007,/Users/steven/clean/img/img 88.py
+audio 28.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 28.py
+audio 79.py,AI/ML,1.00,low,0.007,/Users/steven/clean/audio/audio 79.py
+audio 69.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 69.py
+audio 38.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 38.py
+audio 5.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 5.py
+audio 18.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 18.py
+audio 49.py,AI/ML,1.00,low,0.003,/Users/steven/clean/audio/audio 49.py
+audio 59.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 59.py
+audio 102.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 102.py
+audio 4.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 4.py
+audio 19.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 19.py
+audio 48.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/audio/audio 48.py
+audio 58.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 58.py
+audio 103.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 103.py
+audio 29.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 29.py
+audio 78.py,Web Development,1.00,low,0.007,/Users/steven/clean/audio/audio 78.py
+audio 68.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 68.py
+audio 39.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 39.py
+audio 47.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 47.py
+audio 16.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 16.py
+audio 22.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 22.py
+audio 73.py,Automation Scripts,0.00,low,0.003,/Users/steven/clean/audio/audio 73.py
+audio 80.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 80.py
+audio 90.py,Data Analysis,0.00,low,0.005,/Users/steven/clean/audio/audio 90.py
+audio 63.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 63.py
+audio 32.py,Automation Scripts,1.00,high,0.004,/Users/steven/clean/audio/audio 32.py
+audio 57.py,Automation Scripts,0.00,low,0.003,/Users/steven/clean/audio/audio 57.py
+audio 77.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/audio/audio 77.py
+audio 26.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 26.py
+audio 84.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 84.py
+audio 12.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 12.py
+audio 43.py,Automation Scripts,1.00,high,0.004,/Users/steven/clean/audio/audio 43.py
+audio 53.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 53.py
+audio 94.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 94.py
+audio 36.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 36.py
+audio 67.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 67.py
+audio 76.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 76.py
+audio 27.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 27.py
+audio 85.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 85.py
+audio 13.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 13.py
+audio 42.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 42.py
+audio 52.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 52.py
+audio 95.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 95.py
+audio 37.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 37.py
+audio 66.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 66.py
+audio 46.py,Automation Scripts,0.00,low,0.003,/Users/steven/clean/audio/audio 46.py
+audio 17.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 17.py
+audio 23.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 23.py
+audio 72.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 72.py
+audio 81.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 81.py
+audio 91.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 91.py
+audio 62.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 62.py
+audio 33.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 33.py
+audio 56.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 56.py
+audio 86.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 86.py
+audio 24.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 24.py
+audio 75.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 75.py
+audio 41.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 41.py
+audio 10.py,Automation Scripts,0.00,low,0.002,/Users/steven/clean/audio/audio 10.py
+audio 51.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 51.py
+audio 65.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 65.py
+audio 34.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 34.py
+audio 96.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 96.py
+audio 14.py,AI/ML,1.00,low,0.012,/Users/steven/clean/audio/audio 14.py
+audio 45.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 45.py
+audio 82.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 82.py
+audio 71.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 71.py
+audio 20.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 20.py
+audio 9.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 9.py
+audio 30.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 30.py
+audio 61.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/audio/audio 61.py
+audio 92.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 92.py
+audio 55.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/audio/audio 55.py
+audio 15.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 15.py
+audio 44.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 44.py
+audio 83.py,AI/ML,1.00,low,0.013,/Users/steven/clean/audio/audio 83.py
+audio 70.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 70.py
+audio 21.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 21.py
+audio 8.py,Web Development,0.00,low,0.003,/Users/steven/clean/audio/audio 8.py
+audio 31.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 31.py
+audio 60.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 60.py
+audio 93.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 93.py
+audio 54.py,Web Development,1.00,low,0.007,/Users/steven/clean/audio/audio 54.py
+audio 87.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 87.py
+audio 25.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 25.py
+audio 74.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 74.py
+audio 40.py,AI/ML,0.00,low,0.001,/Users/steven/clean/audio/audio 40.py
+audio 11.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 11.py
+audio 50.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 50.py
+audio 64.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 64.py
+audio 35.py,Web Development,1.00,low,0.007,/Users/steven/clean/audio/audio 35.py
+audio 97.py,General,0.00,low,0.0,/Users/steven/clean/audio/audio 97.py
+audio.py,Automation Scripts,0.00,low,0.004,/Users/steven/clean/audio/audio.py
+audio 7.py,Data Analysis,0.00,low,0.009,/Users/steven/clean/audio/audio 7.py
+audio 100.py,Web Development,1.00,low,0.007,/Users/steven/clean/audio/audio 100.py
+audio 3.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 3.py
+audio 88.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 88.py
+audio 98.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 98.py
+audio 2.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 2.py
+audio 89.py,Data Analysis,0.00,low,0.006,/Users/steven/clean/audio/audio 89.py
+audio 99.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 99.py
+audio 6.py,Automation Scripts,1.00,high,0.005,/Users/steven/clean/audio/audio 6.py
+audio 101.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/audio/audio 101.py
+vids 56.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 56.py
+vids 62.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 62.py
+vids 33.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 33.py
+vids 23.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 23.py
+vids 46.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 46.py
+vids 17.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 17.py
+vids 37.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 37.py
+vids 66.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 66.py
+vids 52.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 52.py
+vids 13.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 13.py
+vids 42.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 42.py
+vids 27.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 27.py
+vids 36.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 36.py
+vids 67.py,Data Analysis,0.00,low,0.008,/Users/steven/clean/vids/vids 67.py
+vids 53.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 53.py
+vids 12.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 12.py
+vids 43.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 43.py
+vids 26.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 26.py
+vids 57.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 57.py
+vids 63.py,Data Analysis,1.00,low,0.014,/Users/steven/clean/vids/vids 63.py
+vids 32.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 32.py
+vids 22.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 22.py
+vids 47.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 47.py
+vids 16.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 16.py
+vids 68.py,Data Analysis,1.00,low,0.014,/Users/steven/clean/vids/vids 68.py
+vids 39.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 39.py
+vids 5.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 5.py
+vids 29.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 29.py
+vids 58.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 58.py
+vids 19.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 19.py
+vids 48.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 48.py
+vids 59.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 59.py
+vids 18.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 18.py
+vids 49.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 49.py
+vids 38.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 38.py
+vids 4.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 4.py
+vids 28.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 28.py
+vids 3.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 3.py
+vids.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids.py
+vids 7.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 7.py
+vids 6.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 6.py
+vids 2.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 2.py
+vids 9.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 9.py
+vids 64.py,Data Analysis,1.00,low,0.014,/Users/steven/clean/vids/vids 64.py
+vids 35.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 35.py
+vids 50.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 50.py
+vids 40.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 40.py
+vids 11.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 11.py
+vids 25.py,Data Analysis,1.00,high,0.014,/Users/steven/clean/vids/vids 25.py
+vids 54.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 54.py
+vids 31.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 31.py
+vids 60.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 60.py
+vids 21.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 21.py
+vids 15.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 15.py
+vids 44.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 44.py
+vids 55.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 55.py
+vids 30.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 30.py
+vids 61.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 61.py
+vids 20.py,AI/ML,1.00,low,0.013,/Users/steven/clean/vids/vids 20.py
+vids 14.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 14.py
+vids 45.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 45.py
+vids 8.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 8.py
+vids 65.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 65.py
+vids 34.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 34.py
+vids 51.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 51.py
+vids 41.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 41.py
+vids 10.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 10.py
+vids 24.py,Data Analysis,0.00,low,0.007,/Users/steven/clean/vids/vids 24.py

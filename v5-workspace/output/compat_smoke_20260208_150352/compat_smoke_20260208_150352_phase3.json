@@ -1,0 +1,103 @@
+{
+  "phase": "phase3_advanced_intelligence",
+  "generated_at": "2026-02-08T15:03:52.594149",
+  "automation_tools": [
+    {
+      "name": "autotag_implementation_summary.md",
+      "path": "/Users/steven/autotagger/v4-workspace/docs/autotag_implementation_summary.md",
+      "size_mb": 0.0045,
+      "created": "2026-02-05T22:16:11.671441",
+      "modified": "2026-01-17T15:01:54.780562",
+      "primary_type": "text/markdown",
+      "description": "Auto-categorized by file extension",
+      "intelligent_category": "documentation",
+      "confidence_score": 0.7,
+      "predicted_business_value": 4.0,
+      "integration_potential": {
+        "has_potential": false,
+        "reason": "score_threshold"
+      }
+    },
+    {
+      "name": "user_guide.md",
+      "path": "/Users/steven/autotagger/v4-workspace/docs/user_guide.md",
+      "size_mb": 0.0048,
+      "created": "2026-02-05T22:16:11.671514",
+      "modified": "2026-01-17T15:01:54.781362",
+      "primary_type": "text/markdown",
+      "description": "Auto-categorized by file extension",
+      "intelligent_category": "documentation",
+      "confidence_score": 0.7,
+      "predicted_business_value": 4.0,
+      "integration_potential": {
+        "has_potential": false,
+        "reason": "score_threshold"
+      }
+    },
+    {
+      "name": "compatibility_wrappers.md",
+      "path": "/Users/steven/autotagger/v4-workspace/docs/compatibility_wrappers.md",
+      "size_mb": 0.0009,
+      "created": "2026-02-08T15:02:22.249699",
+      "modified": "2026-02-08T15:02:22.249699",
+      "primary_type": "text/markdown",
+      "description": "Auto-categorized by file extension",
+      "intelligent_category": "documentation",
+      "confidence_score": 0.7,
+      "predicted_business_value": 4.0,
+      "integration_potential": {
+        "has_potential": false,
+        "reason": "score_threshold"
+      }
+    },
+    {
+      "name": "avatararts_noi_knowledge_base.html",
+      "path": "/Users/steven/autotagger/v4-workspace/docs/avatararts_noi_knowledge_base.html",
+      "size_mb": 0.0127,
+      "created": "2026-02-05T22:16:11.671591",
+      "modified": "2026-01-17T15:01:54.782299",
+      "primary_type": "text/html",
+      "description": "Auto-categorized by file extension",
+      "intelligent_category": "web",
+      "confidence_score": 0.7,
+      "predicted_business_value": 5.0,
+      "integration_potential": {
+        "has_potential": false,
+        "reason": "score_threshold"
+      }
+    },
+    {
+      "name": "autotag_comprehensive_guide.md",
+      "path": "/Users/steven/autotagger/v4-workspace/docs/autotag_comprehensive_guide.md",
+      "size_mb": 0.0283,
+      "created": "2026-02-05T22:16:11.671728",
+      "modified": "2026-01-17T15:01:54.783171",
+      "primary_type": "text/markdown",
+      "description": "Auto-categorized by file extension",
+      "intelligent_category": "documentation",
+      "confidence_score": 0.7,
+      "predicted_business_value": 4.0,
+      "integration_potential": {
+        "has_potential": false,
+        "reason": "score_threshold"
+      }
+    },
+    {
+      "name": "autotag_csv_enhancement_summary.md",
+      "path": "/Users/steven/autotagger/v4-workspace/docs/autotag_csv_enhancement_summary.md",
+      "size_mb": 0.0062,
+      "created": "2026-02-05T22:16:11.671820",
+      "modified": "2026-01-17T15:01:54.783726",
+      "primary_type": "text/markdown",
+      "description": "Auto-categorized by file extension",
+      "intelligent_category": "documentation",
+      "confidence_score": 0.7,
+      "predicted_business_value": 4.0,
+      "integration_potential": {
+        "has_potential": false,
+        "reason": "score_threshold"
+      }
+    }
+  ],
+  "source_phase2": "phase2_intelligent_organization"
+}

@@ -1,0 +1,4 @@
+name,category,value,maturity,complexity,size_mb,path
+init.sh,AI/ML,1.50,Stable,N/A,0.001,/Users/steven/AutoTagger/current/init.sh
+autotagger.py,AI/ML,1.50,Experimental,medium,0.012,/Users/steven/AutoTagger/current/autotagger.py
+main.py,AI/ML,1.50,Stable,low,0.0,/Users/steven/AutoTagger/current/main.py

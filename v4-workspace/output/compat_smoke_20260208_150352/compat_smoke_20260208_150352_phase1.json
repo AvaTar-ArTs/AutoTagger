@@ -1,0 +1,71 @@
+{
+  "scan_info": {
+    "target_path": "/Users/steven/autotagger/v4-workspace/docs",
+    "scan_started": "2026-02-08T15:03:52.409113",
+    "total_files": 6,
+    "total_size": 60181,
+    "scan_completed": "2026-02-08T15:03:52.420468"
+  },
+  "files": [
+    {
+      "name": "autotag_implementation_summary.md",
+      "path": "/Users/steven/autotagger/v4-workspace/docs/autotag_implementation_summary.md",
+      "size": 4748,
+      "modified": "2026-01-17T15:01:54.780562",
+      "created": "2026-02-05T22:16:11.671441",
+      "mime_type": "text/markdown",
+      "extension": ".md",
+      "directory": "/Users/steven/autotagger/v4-workspace/docs"
+    },
+    {
+      "name": "user_guide.md",
+      "path": "/Users/steven/autotagger/v4-workspace/docs/user_guide.md",
+      "size": 5012,
+      "modified": "2026-01-17T15:01:54.781362",
+      "created": "2026-02-05T22:16:11.671514",
+      "mime_type": "text/markdown",
+      "extension": ".md",
+      "directory": "/Users/steven/autotagger/v4-workspace/docs"
+    },
+    {
+      "name": "compatibility_wrappers.md",
+      "path": "/Users/steven/autotagger/v4-workspace/docs/compatibility_wrappers.md",
+      "size": 903,
+      "modified": "2026-02-08T15:02:22.249699",
+      "created": "2026-02-08T15:02:22.249699",
+      "mime_type": "text/markdown",
+      "extension": ".md",
+      "directory": "/Users/steven/autotagger/v4-workspace/docs"
+    },
+    {
+      "name": "avatararts_noi_knowledge_base.html",
+      "path": "/Users/steven/autotagger/v4-workspace/docs/avatararts_noi_knowledge_base.html",
+      "size": 13280,
+      "modified": "2026-01-17T15:01:54.782299",
+      "created": "2026-02-05T22:16:11.671591",
+      "mime_type": "text/html",
+      "extension": ".html",
+      "directory": "/Users/steven/autotagger/v4-workspace/docs"
+    },
+    {
+      "name": "autotag_comprehensive_guide.md",
+      "path": "/Users/steven/autotagger/v4-workspace/docs/autotag_comprehensive_guide.md",
+      "size": 29716,
+      "modified": "2026-01-17T15:01:54.783171",
+      "created": "2026-02-05T22:16:11.671728",
+      "mime_type": "text/markdown",
+      "extension": ".md",
+      "directory": "/Users/steven/autotagger/v4-workspace/docs"
+    },
+    {
+      "name": "autotag_csv_enhancement_summary.md",
+      "path": "/Users/steven/autotagger/v4-workspace/docs/autotag_csv_enhancement_summary.md",
+      "size": 6522,
+      "modified": "2026-01-17T15:01:54.783726",
+      "created": "2026-02-05T22:16:11.671820",
+      "mime_type": "text/markdown",
+      "extension": ".md",
+      "directory": "/Users/steven/autotagger/v4-workspace/docs"
+    }
+  ]
+}
